@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\WinDivert\\sys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6A244-A523-4F5E-933B-192BB4176681}|windivert.vcxproj|E:\\Unity\\WinDivert\\sys\\windivert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1A6A244-A523-4F5E-933B-192BB4176681}|windivert.vcxproj|solutionrelative:windivert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6A244-A523-4F5E-933B-192BB4176681}|windivert.vcxproj|E:\\Unity\\WinDivert\\sys\\windivert.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1A6A244-A523-4F5E-933B-192BB4176681}|windivert.vcxproj|solutionrelative:windivert.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device_constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "windivert.rc",
+              "DocumentMoniker": "E:\\Unity\\WinDivert\\sys\\windivert.rc",
+              "RelativeDocumentMoniker": "windivert.rc",
+              "ToolTip": "E:\\Unity\\WinDivert\\sys\\windivert.rc",
+              "RelativeToolTip": "windivert.rc",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-06T06:32:40.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "windivert_device_constants.h",
+              "DocumentMoniker": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device_constants.h",
+              "ToolTip": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device_constants.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T06:30:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "windivert_device.h",
+              "DocumentMoniker": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h",
+              "ToolTip": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T06:05:34.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "windivert.h",
+              "DocumentMoniker": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h",
+              "ToolTip": "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T06:05:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "windivert.c",
+              "DocumentMoniker": "E:\\Unity\\WinDivert\\sys\\windivert.c",
+              "RelativeDocumentMoniker": "windivert.c",
+              "ToolTip": "E:\\Unity\\WinDivert\\sys\\windivert.c",
+              "RelativeToolTip": "windivert.c",
+              "ViewState": "AgIAAOYKAAAAAAAAAAAswPAKAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-06T06:01:18.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
