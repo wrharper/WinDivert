@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v140_xp:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit:WindowsTargetPlatformVersion=10.0.26100.0
-Release|x64|C:\Users\kujax\OneDrive\Desktop\WinDivert-master\sys\|
+PlatformToolSet=WindowsKernelModeDriver10.0:VCToolArchitecture=Native32Bit:VCToolsVersion=14.43.34808:TargetPlatformVersion=10.0.26100.0:
+Release|x64|E:\Unity\WinDivert\sys\|

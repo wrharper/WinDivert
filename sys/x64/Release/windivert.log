@@ -1,3 +1,13 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Platforms\x64\PlatformToolsets\v140_xp\Toolset.targets(36,5): warning MSB8003: Could not find WindowsSdkDir_71A variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(366,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
-cl : Command line error D8016: '/O2' and '/RTC1' command-line options are incompatible
+﻿  Building 'WinDivert' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  MC: Compiling windivert_log.mc
+  windivert.c
+E:\Unity\WinDivert\sys\windivert.c(1428,14): warning C4101: 'status': unreferenced local variable
+E:\Unity\WinDivert\sys\windivert.c(2603,12): warning C4101: 'handle': unreferenced local variable
+E:\Unity\WinDivert\sys\windivert.c(2602,19): warning C4101: 'checksums': unreferenced local variable
+E:\Unity\WinDivert\sys\windivert.c(2604,22): warning C4189: 'buffers': local variable is initialized but not referenced
+E:\Unity\WinDivert\sys\windivert.c(5732,43): warning C4189: 'total_len': local variable is initialized but not referenced
+E:\Unity\WinDivert\sys\windivert.c(5332,1): warning C4701: potentially uninitialized local variable 'packet_len' used
+E:\Unity\WinDivert\sys\windivert.c(5416,1): warning C4701: potentially uninitialized local variable 'copy_len' used
+E:\Unity\WinDivert\sys\windivert.c(5376,1): warning C4701: potentially uninitialized local variable 'icmp_len' used
+E:\Unity\WinDivert\sys\windivert.c(6470,1): warning C4701: potentially uninitialized local variable 'pid_size' used
+LINK : fatal error LNK1104: cannot open file '$C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\ndis.lib'

@@ -1,4 +1,4 @@
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 
 
@@ -184,7 +184,7 @@
 #pragma warning(disable:4820) 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
 
 
 
@@ -197,7 +197,7 @@
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
@@ -228,34 +228,34 @@
 
 
 
-#line 32 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 32 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
-#line 34 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 35 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-    
-#line 39 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
+#line 34 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 35 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
+#line 39 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+    
     
 
-#line 49 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 49 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
             
         
 
-#line 54 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-    #line 55 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 56 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 54 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 55 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 56 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -405,11 +405,11 @@
 
 
 
-#line 151 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 151 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
-#line 155 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 155 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -439,29 +439,29 @@
 
 
 
-#line 185 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 185 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
-#line 188 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 188 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
-#line 190 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 190 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
 
 
-#line 196 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 196 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
-#line 200 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 200 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
 
 
 
-#line 207 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 207 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -473,7 +473,7 @@
 
 
 
-#line 219 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 219 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -482,8 +482,8 @@
 
 
 
-#line 228 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-#line 229 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 228 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 229 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -1809,7 +1809,7 @@
 
 
 
-#line 1555 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1555 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -1840,7 +1840,7 @@
 
 
 
-#line 1586 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1586 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -1865,7 +1865,7 @@
 
 
 
-#line 1611 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1611 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -1878,7 +1878,7 @@
 
 
 
-#line 1624 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1624 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -1917,7 +1917,7 @@
 
 
 
-#line 1663 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1663 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2029,7 +2029,7 @@
 
 
 
-#line 1775 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1775 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2132,7 +2132,7 @@
 
 
 
-#line 1878 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 1878 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2301,7 +2301,7 @@
 
 
 
-#line 2047 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2047 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2403,7 +2403,7 @@
 
 
 
-#line 2149 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2149 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2620,8 +2620,8 @@
 
 
 
-#line 2366 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-#line 2367 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2366 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2367 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -2849,7 +2849,7 @@
 
 
 
-#line 2595 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2595 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
     
     
     
@@ -2888,7 +2888,7 @@
     
     
 
-#line 2634 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2634 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3122,7 +3122,7 @@
 
 
 
-#line 2868 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2868 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3132,7 +3132,7 @@
 
 
 
-#line 2878 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2878 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3140,36 +3140,24 @@
     
 
 
-#line 2886 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-#line 2887 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2886 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2887 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
 
 
 
-#line 2894 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-#line 2895 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2894 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2895 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
 
 
 
-#line 2902 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-#line 2903 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
-
-
-
-
-
-
-
-
-
-
-
-#line 2915 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2902 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2903 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3177,6 +3165,11 @@
 
 
 
+
+
+
+
+#line 2915 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3203,7 +3196,14 @@
 
 
 
-#line 2949 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+
+
+
+
+
+
+
+#line 2949 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 
 
 
@@ -3230,7 +3230,7 @@
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
 
 
 
@@ -3521,11 +3521,11 @@
 
 
 
-#line 292 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
+#line 292 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
 
 
 
-#line 296 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
+#line 296 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
 
 
 
@@ -3618,19 +3618,19 @@
 
 
 
-#line 389 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
+#line 389 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
 
 
 
 
 
-#line 395 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
+#line 395 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\concurrencysal.h"
 #pragma external_header(pop)
-#line 2975 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
+#line 2975 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
 #pragma external_header(pop)
-#line 58 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 58 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3653,8 +3653,8 @@
 
 
         
-    #line 24 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-#line 25 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+    #line 24 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 25 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3663,19 +3663,19 @@
 
 
         
-    #line 34 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-#line 35 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+    #line 34 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 35 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
     
-#line 40 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 40 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
 
     
-#line 46 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 46 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 #pragma warning(push)
 #pragma warning(disable:   4514 4820 )
@@ -3686,7 +3686,7 @@
 
 
 
-#line 57 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 57 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
     
@@ -3694,8 +3694,8 @@
         typedef unsigned __int64  uintptr_t;
     
 
-#line 65 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-#line 66 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 65 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 66 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
     
@@ -3703,27 +3703,27 @@
 
 
         typedef char* va_list;
-    #line 74 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-#line 75 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+    #line 74 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 75 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
 
     
-#line 81 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 81 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
 
 
-#line 87 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 87 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
-#line 91 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 91 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
     
     
-#line 94 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 94 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3735,7 +3735,7 @@
 
 
 
-#line 106 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 106 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3743,25 +3743,7 @@
 
 
 
-#line 114 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-
-
-
-
-
-
-
-
-
-
-
-#line 126 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
-
-
-
-
-
-#line 132 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 114 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3772,7 +3754,14 @@
 
 
 
-#line 143 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+
+#line 126 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+
+
+
+
+
+#line 132 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3783,7 +3772,18 @@
 
 
 
-#line 154 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 143 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+
+
+
+
+
+
+
+
+
+
+#line 154 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
     void __cdecl __va_start(va_list* , ...);
 
@@ -3794,7 +3794,7 @@
 
     
 
-#line 165 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 165 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 
 
@@ -3831,16 +3831,16 @@
 
 
 
-#line 202 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 202 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
     
 
-#line 206 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
+#line 206 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vadefs.h"
 
 #pragma warning(pop) 
 #pragma pack(pop)
 #pragma external_header(pop)
-#line 59 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 59 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 #pragma warning(push)
 #pragma warning(disable:   4514 4820 )
@@ -3858,7 +3858,7 @@
 
 
 
-#line 77 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 77 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
@@ -3868,15 +3868,15 @@
 
 
 
-#line 87 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-    
-
+#line 87 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
     
 
 
-#line 95 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    
+
+
+#line 95 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 __pragma(pack(push, 8))
 
@@ -3887,8 +3887,8 @@ __pragma(pack(push, 8))
 
 
         
-    #line 106 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 107 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 106 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 107 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
@@ -3907,54 +3907,54 @@ __pragma(pack(push, 8))
 
     
 
-#line 126 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 126 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
-#line 128 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 128 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
-    #line 130 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 131 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 130 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 131 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
-#line 136 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 136 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
-    #line 138 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 139 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 138 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 139 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
 
 
-#line 145 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 145 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
     
     
-#line 148 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
-    
-#line 154 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
-
-
-
-
-
-
-#line 165 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-    
-#line 167 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 148 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
 
     
-#line 173 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 154 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+
+
+
+
+#line 165 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    
+#line 167 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+    
+#line 173 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
@@ -3962,8 +3962,8 @@ __pragma(pack(push, 8))
 
 
       
-    #line 181 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 182 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 181 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 182 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
@@ -3977,70 +3977,56 @@ __pragma(pack(push, 8))
 
 
 
-#line 196 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 196 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
-#line 200 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 200 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
-#line 204 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 204 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
     typedef _Bool __vcrt_bool;
-#line 206 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 206 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
     
-#line 211 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 211 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
-#line 215 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 215 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
-#line 219 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 219 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
     
     typedef unsigned short wchar_t;
-#line 225 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 225 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
 
         
-    #line 232 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 233 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 232 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 233 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
 
-#line 239 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 239 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
-#line 243 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 243 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
-
-
-
-
-
-
-
-
-    
-#line 255 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-#line 259 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
@@ -4050,105 +4036,56 @@ __pragma(pack(push, 8))
 
 
     
-#line 269 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 255 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+#line 259 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+
+
+    
+#line 269 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
-#line 274 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 274 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
-    #line 276 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 277 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 276 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 277 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
-#line 282 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 282 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
-    #line 284 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 285 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 284 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 285 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
 
-#line 290 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 290 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         
-    #line 292 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 293 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 292 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 293 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
 
 
-#line 299 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 299 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
 
-#line 303 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 303 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
-
-
-    
-        
-    
-
-
-
-#line 313 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 314 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-#line 318 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-    
-#line 320 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
-
-
-
-
-
-    
-
-
-        
-    #line 334 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 335 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
-
-
-
-    
-#line 344 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-
-
-
-#line 351 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-    
-
-
-        
-
-
-
-
-    #line 362 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 363 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-
-
-
-#line 367 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     
@@ -4156,8 +4093,71 @@ __pragma(pack(push, 8))
     
 
 
-#line 375 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 376 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+#line 313 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 314 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+#line 318 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    
+#line 320 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+    #line 334 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 335 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+
+    
+#line 344 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+
+
+
+#line 351 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+    
+
+
+        
+
+
+
+
+    #line 362 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 363 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+
+#line 367 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+
+
+    
+        
+    
+
+
+#line 375 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 376 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
     void __cdecl __security_init_cookie(void);
@@ -4165,14 +4165,14 @@ __pragma(pack(push, 8))
     
 
 
-#line 384 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 384 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 
-#line 387 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 387 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
         void __cdecl __security_check_cookie(  uintptr_t _StackCookie);
         __declspec(noreturn) void __cdecl __report_gsfailure(  uintptr_t _StackCookie);
-    #line 390 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
-#line 391 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+    #line 390 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 391 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 extern uintptr_t __security_cookie;
 
@@ -4180,15 +4180,15 @@ extern uintptr_t __security_cookie;
     
     
     
-#line 399 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 399 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 
 __pragma(pack(pop))
 
 #pragma warning(pop) 
 
-#line 405 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
+#line 405 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime.h"
 #pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
+#line 13 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
 
 #pragma warning(push)
 #pragma warning(disable:   4514 4820 )
@@ -4221,7 +4221,7 @@ typedef enum _EXCEPTION_DISPOSITION
 
 
 
-#line 46 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
+#line 46 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
     
 
         struct _EXCEPTION_RECORD;
@@ -4235,8 +4235,8 @@ typedef enum _EXCEPTION_DISPOSITION
               struct _DISPATCHER_CONTEXT* DispatcherContext
             );
 
-    #line 60 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
-#line 61 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
+    #line 60 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
+#line 61 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\excpt.h"
 
 
 
@@ -4267,7 +4267,7 @@ __pragma(pack(pop))
 #pragma external_header(pop)
 #line 57 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -4288,11 +4288,11 @@ __pragma(pack(pop))
 
 
 #pragma once
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 
 
 
@@ -4305,7 +4305,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4342,20 +4342,20 @@ __pragma(pack(pop))
 
 
         
-    #line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 39 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 39 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
-#line 43 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 43 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
         
     
 
-#line 50 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 51 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 51 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4377,13 +4377,13 @@ __pragma(pack(pop))
 
 
         
-    #line 73 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 74 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 74 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 79 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4399,7 +4399,7 @@ __pragma(pack(pop))
 
 
     
-#line 95 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 95 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
@@ -4415,16 +4415,16 @@ __pragma(pack(pop))
 
 
         
-    #line 111 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
 
 
         
-    #line 119 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 120 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
@@ -4440,76 +4440,61 @@ __pragma(pack(push, 8))
 
     
 
-#line 136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
         
     
 
-#line 140 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 141 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
 
     
-#line 147 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
 
-#line 152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
         
     
 
-#line 156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
     
-#line 163 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-#line 169 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-
-
-
-#line 175 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    
-#line 177 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-
+#line 163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
-#line 184 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+
+
+#line 169 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 188 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+
+
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
     
-#line 190 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-
-
+#line 177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
 
 
     
-#line 201 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-
+#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4520,37 +4505,52 @@ __pragma(pack(push, 8))
 
 
     
-
-
-        
-    #line 219 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 220 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 201 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 224 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    
-#line 226 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
 
 
 
-#line 230 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    
-#line 232 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
 
 
 
-#line 236 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    
-#line 238 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+
+
 
 
     
 
 
         
-    #line 245 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 246 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+#line 224 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    
+#line 226 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+#line 230 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+#line 236 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    
+#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+    #line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4574,13 +4574,13 @@ __pragma(pack(push, 8))
 
 
 
-#line 270 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 274 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 274 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
     typedef _Bool __crt_bool;
-#line 276 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4600,9 +4600,9 @@ __pragma(pack(push, 8))
 
 
             
-        #line 296 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    #line 297 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 298 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+        #line 296 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    #line 297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4624,18 +4624,18 @@ __pragma(pack(push, 8))
 
     
 
-#line 320 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
         
-    #line 322 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 323 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 327 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 327 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
-#line 331 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 331 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
  
@@ -4647,19 +4647,19 @@ __pragma(pack(push, 8))
 
   
 
-#line 343 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 343 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
    
-  #line 345 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
- #line 346 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 347 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+  #line 345 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+ #line 346 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
  
 
-#line 352 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 352 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
    
- #line 354 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 355 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+ #line 354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4705,8 +4705,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
         
         
 
-    #line 401 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 402 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 401 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4722,99 +4722,99 @@ __declspec(dllimport) void __cdecl _invoke_watson(
     
 
 
-#line 419 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 423 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        
-
-
-    #line 432 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 433 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-        
-    #line 451 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 452 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
 
 
         
-    #line 459 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 460 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
 
 
-
-#line 464 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
+    #line 432 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
 
-
-
-
-
-
-
-
-#line 478 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 494 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
 
 
 
 
 
     
-#line 501 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
 
 
 
-#line 505 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+
+
+
+        
+    #line 451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 452 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
 
-#line 510 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 511 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+
+        
+    #line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+#line 464 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 478 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 494 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+
+
+    
+#line 501 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+
+#line 505 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+
+    
+
+#line 510 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 511 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
@@ -4824,19 +4824,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
             
-        #line 521 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    #line 522 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 523 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+        #line 521 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    #line 522 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 527 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 527 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
 
 
-#line 533 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 533 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
@@ -4846,8 +4846,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-    #line 543 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 544 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 543 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 544 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
@@ -4856,7 +4856,7 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 553 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
     
         
@@ -4866,27 +4866,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 563 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
     
         
               
         
 
-#line 570 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
     
 
 
 
-#line 575 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-
-    
-        
-    
-
-
-
-#line 583 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 575 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
     
         
@@ -4894,12 +4886,20 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 591 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 592 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 583 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+
+    
+        
+    
+
+
+
+#line 591 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
-#line 596 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -4939,28 +4939,28 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 636 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 636 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
-#line 640 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     
 
 
         typedef __time64_t time_t;
-    #line 647 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 648 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 653 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 653 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
     typedef size_t rsize_t;
-#line 657 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -5115,7 +5115,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 812 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 812 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
         
         
@@ -5130,8 +5130,8 @@ typedef _Mbstatet mbstate_t;
         
         
 
-    #line 827 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 828 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+    #line 827 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 
 
@@ -6182,7 +6182,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 1879 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 1879 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
         
         
@@ -6372,18 +6372,18 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 2069 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-    #line 2070 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
-#line 2071 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt.h"
+#line 2069 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+    #line 2070 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
+#line 2071 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h"
 
 __pragma(pack(pop))
 
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wctype.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -6499,7 +6499,7 @@ __pragma(pack(push, 8))
       __declspec(dllimport) int __cdecl _isleadbyte_l(  int _C,   _locale_t _Locale);
 
     __declspec(deprecated("This function or variable has been superceded by newer library " "or operating system functionality. Consider using " "iswctype" " " "instead. See online help for details.")) __declspec(dllimport) int __cdecl is_wctype(  wint_t _C,   wctype_t _Type);
-#line 117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wctype.h"
+#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -6582,7 +6582,7 @@ __pragma(pack(push, 8))
 
 
 
-#line 200 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wctype.h"
+#line 200 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -6590,7 +6590,7 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
@@ -6879,19 +6879,19 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
     
     
     
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 
 
 
-#line 307 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 __pragma(pack(pop))
 
 #pragma warning(pop) 
-#line 311 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\ctype.h"
+#line 311 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\ctype.h"
 #pragma external_header(pop)
-#line 25 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
@@ -6913,12 +6913,12 @@ __pragma(pack(pop))
 
 #pragma warning(push)
 #pragma warning(disable:4001) 
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 #pragma once
-#line 25 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 
 
 
@@ -6940,13 +6940,13 @@ __pragma(pack(pop))
 
 #pragma warning(push)
 #pragma warning(disable:4001) 
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 #pragma once
-#line 25 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 
 
 
-#line 29 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 
 
 
@@ -7006,12 +7006,12 @@ __pragma(pack(pop))
 
 
 #pragma warning(pop)
-#line 89 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
-#line 90 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 89 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 
-#line 92 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winpackagefamily.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winpackagefamily.h"
 #pragma external_header(pop)
-#line 27 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
@@ -7075,7 +7075,7 @@ __pragma(pack(pop))
 
 
 
-#line 91 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 91 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
@@ -7127,34 +7127,34 @@ __pragma(pack(pop))
 
 
 
-#line 148 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
-#line 152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
 
 
 
-#line 159 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
 
 
-#line 165 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 165 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
-#line 169 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 169 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
 
 
-#line 175 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
@@ -7166,7 +7166,7 @@ __pragma(pack(pop))
 
 
 
-#line 187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
@@ -7223,17 +7223,17 @@ __pragma(pack(pop))
 
 
 
-#line 244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 244 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
 
 
 #pragma warning(pop)
-#line 249 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
-#line 250 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 249 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
+#line 250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 
-#line 252 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\winapifamily.h"
+#line 252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\winapifamily.h"
 #pragma external_header(pop)
-#line 26 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -7248,8 +7248,8 @@ __pragma(pack(pop))
 
 
 
-#line 41 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 42 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -7258,41 +7258,34 @@ __pragma(pack(pop))
 #pragma warning(disable:4201) 
 #pragma warning(disable:4668) 
 #pragma warning(disable:4820) 
-#line 51 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 51 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 58 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 62 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 70 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 74 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 74 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 78 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-
-
-
-
-
-
-
+#line 78 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -7303,7 +7296,14 @@ __pragma(pack(pop))
 
 
 
-#line 96 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+
+
+
+
+
+
+
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -7313,8 +7313,8 @@ __pragma(pack(pop))
 
 
 
-#line 106 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 107 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 107 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -7324,20 +7324,20 @@ __pragma(pack(pop))
 
 
 
-#line 117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 124 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 125 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7355,34 +7355,34 @@ __pragma(pack(pop))
 
 
 #pragma once
-#line 19 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 #pragma warning(push)
 #pragma warning(disable:4668) 
-#line 24 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 24 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
  
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
   
- #line 32 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+ #line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
  
 
 
 
   
- #line 39 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+ #line 39 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
  
   
   
- #line 44 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+ #line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7403,7 +7403,7 @@ __pragma(pack(pop))
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7436,7 +7436,7 @@ __pragma(pack(pop))
 
 
 
-#line 100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7449,7 +7449,7 @@ __pragma(pack(pop))
 
 
 
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7552,8 +7552,8 @@ __pragma(pack(pop))
 
 
 
-#line 216 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
-#line 217 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
+#line 217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7656,7 +7656,7 @@ __pragma(pack(pop))
 
 
 
-#line 320 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7716,7 +7716,7 @@ __pragma(pack(pop))
 
 
 
-#line 380 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7804,7 +7804,7 @@ __pragma(pack(pop))
 
 
 
-#line 468 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 468 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7824,16 +7824,16 @@ __pragma(pack(pop))
 
 
 
-#line 488 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 488 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
 
 
-#line 494 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 494 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
-#line 497 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7902,7 +7902,7 @@ __pragma(pack(pop))
 
 
 
-#line 566 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 566 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7913,7 +7913,7 @@ __pragma(pack(pop))
 
 
 
-#line 577 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7944,7 +7944,7 @@ __pragma(pack(pop))
 
 
 
-#line 608 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 608 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7961,7 +7961,7 @@ __pragma(pack(pop))
 
 
 
-#line 625 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 625 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -7979,7 +7979,7 @@ __pragma(pack(pop))
 
 
 
-#line 643 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 643 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -8012,7 +8012,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 
 
 
@@ -8041,7 +8041,7 @@ __pragma(pack(pop))
 
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 
 
 
@@ -8201,7 +8201,7 @@ __pragma(pack(pop))
 
 #pragma once
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_undef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_undef.h"
 
 
 
@@ -8659,7 +8659,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(pop)
-#line 189 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 
 
 
@@ -9535,7 +9535,7 @@ __pragma(pack(pop))
 
 
 
-#line 1065 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 1065 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 
 
 
@@ -9600,7 +9600,7 @@ __pragma(pack(pop))
 
 
 
-#line 1130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 1130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 
 
 
@@ -9655,12 +9655,12 @@ __pragma(pack(pop))
 
 
 
-#line 1185 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
-#line 1186 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
-#line 1187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings_strict.h"
+#line 1185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
+#line 1186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
+#line 1187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings_strict.h"
 #pragma external_header(pop)
-#line 675 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
-#line 676 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
+#line 676 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -9678,10 +9678,10 @@ __pragma(pack(pop))
 
 
 
-#line 694 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 694 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
 
 
@@ -9807,7 +9807,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdv_driverspecs.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdv_driverspecs.h"
 
 
 
@@ -9829,14 +9829,14 @@ __pragma(pack(pop))
 
 
 
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdv_driverspecs.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdv_driverspecs.h"
 #pragma external_header(pop)
-#line 126 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
 
 
 #pragma once
-#line 131 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
 
 
@@ -9960,7 +9960,7 @@ __pragma(pack(pop))
 
 
 
-#line 255 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 255 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
     
     
@@ -9977,7 +9977,7 @@ __pragma(pack(pop))
     
     
 
-#line 272 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
     
     
@@ -10404,9 +10404,9 @@ __pragma(pack(pop))
     
     
     
-#line 699 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
     
-#line 701 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 701 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
     
 
 
@@ -10592,7 +10592,7 @@ __pragma(pack(pop))
     
     
 
-#line 887 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 887 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
     
     
@@ -10606,10 +10606,10 @@ __pragma(pack(pop))
 
 
 
-#line 901 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\driverspecs.h"
+#line 901 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\driverspecs.h"
 
 #pragma external_header(pop)
-#line 696 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 696 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 
@@ -10622,19 +10622,17 @@ __pragma(pack(pop))
 
 
 
-#line 709 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 709 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
 
 #pragma warning(pop)
-#line 713 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
+#line 713 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 
-
-#line 716 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\specstrings.h"
-
+#line 715 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\specstrings.h"
 #pragma external_header(pop)
-#line 129 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
 
 
 
@@ -10674,7 +10672,7 @@ __pragma(pack(pop))
 
 
 #pragma once
-#line 41 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
 
 
 
@@ -10690,53 +10688,19 @@ __pragma(pack(pop))
 
     
 
-#line 57 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 57 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
     
     
-    #line 60 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
-    
-
-#line 63 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+    #line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
     
 
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
     
 
-#line 69 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
+    
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
 
     
     
@@ -10745,8 +10709,26 @@ __pragma(pack(pop))
     
     
     
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -10756,6 +10738,12 @@ __pragma(pack(pop))
 
     
     
+    
+    
+    
+    
+    
+
 
     
     
@@ -10797,28 +10785,6 @@ __pragma(pack(pop))
     
     
 
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-
-    
-    
-
-    
     
     
     
@@ -10877,6 +10843,38 @@ __pragma(pack(pop))
     
     
     
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
 
 
 
@@ -10896,21 +10894,21 @@ __pragma(pack(pop))
 
 
 
-#line 263 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\kernelspecs.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\kernelspecs.h"
 #pragma external_header(pop)
-#line 130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 134 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
-#line 140 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -10919,12 +10917,12 @@ __pragma(pack(pop))
 
 
 
-#line 151 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -10935,7 +10933,7 @@ __pragma(pack(pop))
 
 
 
-#line 167 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -10949,7 +10947,7 @@ __pragma(pack(pop))
 
 
 
-#line 181 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -10967,7 +10965,7 @@ __pragma(pack(pop))
 
 
 
-#line 199 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -10989,10 +10987,10 @@ __pragma(pack(pop))
 
 
 
-#line 221 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11017,7 +11015,7 @@ __pragma(pack(pop))
 
 #pragma warning(push)
 #pragma warning(disable:4668) 
-#line 26 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
  
@@ -11026,7 +11024,7 @@ __pragma(pack(pop))
   
  
 
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11040,13 +11038,13 @@ __pragma(pack(pop))
 
 
 
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
 
 
-#line 55 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11054,14 +11052,14 @@ __pragma(pack(pop))
 
 
 
-#line 63 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
 
 
 #pragma once
-#line 70 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11095,7 +11093,7 @@ typedef unsigned int DWORD32, *PDWORD32;
 
 
 
-#line 104 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11113,7 +11111,7 @@ typedef unsigned int DWORD32, *PDWORD32;
 
 
 
-#line 122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11134,8 +11132,8 @@ typedef unsigned int DWORD32, *PDWORD32;
 
 
 
-#line 143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
-#line 144 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
+#line 144 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11149,7 +11147,7 @@ typedef unsigned int DWORD32, *PDWORD32;
 
 typedef void* __ptr64 HANDLE64;
 typedef HANDLE64 *PHANDLE64;
-#line 158 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11333,7 +11331,7 @@ PtrToPtr32(
 
 
 
-#line 342 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 342 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11402,7 +11400,7 @@ PtrToPtr32(
 
 
 
-#line 411 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11469,7 +11467,7 @@ typedef LONG_PTR SSIZE_T, *PSSIZE_T;
 
 
 
-#line 478 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 478 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
 
 
@@ -11508,17 +11506,17 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 #pragma warning(pop)
-#line 517 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 
-#line 519 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\basetsd.h"
+#line 519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\basetsd.h"
 #pragma external_header(pop)
-#line 223 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
-#line 229 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11527,50 +11525,50 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
-#line 238 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 239 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 246 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 254 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 255 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 255 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 262 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 263 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 262 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 270 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 271 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 271 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
-#line 277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 281 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11579,68 +11577,68 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
-#line 290 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 291 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 290 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 295 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 295 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 300 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 302 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 302 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 308 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 310 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 311 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 310 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 311 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 318 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 319 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 318 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 327 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 327 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 332 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 334 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 335 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 335 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 342 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 343 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 342 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 343 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 350 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 351 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 350 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11657,8 +11655,8 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
-#line 368 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 369 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 368 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11667,69 +11665,66 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
+#line 378 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 379 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
 
+#line 386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
+#line 392 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 389 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 394 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 393 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 394 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
+#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
+#line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 401 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 402 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
 
 
+#line 412 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 413 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
-#line 409 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 410 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
 
 
-#line 415 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
-#line 417 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 418 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
 
 
 
-#line 424 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
-#line 426 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
-#line 429 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 430 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
 
 
 
 
-#line 437 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 438 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
+#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11740,6 +11735,8 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11751,34 +11748,10 @@ typedef KAFFINITY *PKAFFINITY;
 
 
 
-#line 462 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
 
 
 
-
-
-
-
-
-
-
-#line 473 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 474 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 489 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 464 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11795,14 +11768,12 @@ typedef void * __ptr64 PVOID64;
 
 
 
-#line 506 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 481 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 508 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-
-
-#line 511 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
+#line 486 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11811,17 +11782,17 @@ typedef void * __ptr64 PVOID64;
 
 
 
-#line 522 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+
+
+
+
+#line 499 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
-
-
-#line 530 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-
-
+#line 505 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11837,7 +11808,12 @@ typedef void * __ptr64 PVOID64;
 
 
 
-#line 548 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+
+#line 522 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+
+
+
+
 
 
 
@@ -11850,8 +11826,8 @@ typedef short SHORT;
 typedef long LONG;
 
 typedef int INT;
-#line 561 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 562 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 540 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11862,7 +11838,7 @@ typedef wchar_t WCHAR;
 
 
 
-#line 573 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 551 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 typedef WCHAR *PWCHAR, *LPWCH, *PWCH;
 typedef const WCHAR *LPCWCH, *PCWCH;
@@ -11927,7 +11903,7 @@ typedef  const WCHAR __unaligned *PCUNZWCH;
 
 
 
-#line 638 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 616 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -11958,7 +11934,7 @@ typedef  const CHAR *PCNZCH;
 typedef WCHAR TCHAR, *PTCHAR;
 typedef WCHAR TUCHAR, *PTUCHAR;
 
-#line 669 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 typedef LPWCH LPTCH, PTCH;
 typedef LPCWCH LPCTCH, PCTCH;
@@ -11997,7 +11973,7 @@ typedef PCUNZWCH PCUNZTCH;
 
 
 
-#line 708 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12060,7 +12036,7 @@ typedef UQUAD *PUQUAD;
 
 
 
-#line 771 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12073,13 +12049,13 @@ typedef SCHAR *PSCHAR;
 
 
 
-#line 784 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 762 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
-#line 789 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 790 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 768 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12101,25 +12077,12 @@ typedef struct _PROCESSOR_NUMBER {
 
 
 
-
-
 typedef struct _GROUP_AFFINITY {
     KAFFINITY Mask;
     USHORT Group;
     USHORT Reserved[3];
 } GROUP_AFFINITY, *PGROUP_AFFINITY;
 
-typedef struct _GROUP_AFFINITY32 {
-    ULONG Mask;
-    USHORT Group;
-    USHORT Reserved[3];
-} GROUP_AFFINITY32, *PGROUP_AFFINITY32;
-
-typedef struct _GROUP_AFFINITY64 {
-    unsigned __int64 Mask;
-    USHORT Group;
-    USHORT Reserved[3];
-} GROUP_AFFINITY64, *PGROUP_AFFINITY64;
 
 
 
@@ -12128,10 +12091,7 @@ typedef struct _GROUP_AFFINITY64 {
 
 
 
-
-
-
-#line 842 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12145,13 +12105,13 @@ typedef struct _GROUP_AFFINITY64 {
 typedef void *HANDLE;
 
 
-#line 856 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 818 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 858 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 820 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 862 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 824 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 typedef HANDLE *PHANDLE;
 
 
@@ -12174,8 +12134,8 @@ typedef ULONG  FLONG;
 
 
 typedef   long HRESULT;
-#line 885 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 886 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 847 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 848 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12202,7 +12162,7 @@ typedef   long HRESULT;
     
     
     
-#line 913 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 875 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12212,21 +12172,7 @@ typedef   long HRESULT;
 
 
 
-#line 923 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 937 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 885 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12238,6 +12184,9 @@ typedef   long HRESULT;
 
 
 
+
+
+#line 899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12328,7 +12277,7 @@ typedef enum {
     DEFAULT_COMPARTMENT_ID
 } COMPARTMENT_ID, *PCOMPARTMENT_ID;
 
-#line 1039 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 990 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12359,7 +12308,7 @@ typedef NTSTATUS *PNTSTATUS;
 
 
 
-#line 1070 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1021 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12401,7 +12350,7 @@ typedef NTSTATUS *PNTSTATUS;
 
 
 
-#line 1112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1063 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12411,7 +12360,7 @@ typedef NTSTATUS *PNTSTATUS;
 
 
 
-#line 1122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1073 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12421,7 +12370,7 @@ typedef NTSTATUS *PNTSTATUS;
 
 
 
-#line 1132 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12438,7 +12387,7 @@ typedef NTSTATUS *PNTSTATUS;
 
 typedef long SECURITY_STATUS;
 
-#line 1149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12471,7 +12420,7 @@ typedef long SECURITY_STATUS;
 
 
 
-#line 1182 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 typedef struct _FLOAT128 {
     __int64 LowPart;
     __int64 HighPart;
@@ -12511,7 +12460,7 @@ typedef unsigned __int64 ULONGLONG;
 
 
 
-#line 1222 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1173 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 typedef LONGLONG *PLONGLONG;
 typedef ULONGLONG *PULONGLONG;
@@ -12524,7 +12473,7 @@ typedef LONGLONG USN;
 
 
 
-#line 1235 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 typedef union _LARGE_INTEGER {
     struct {
         ULONG LowPart;
@@ -12536,7 +12485,7 @@ typedef union _LARGE_INTEGER {
     } u;
     LONGLONG QuadPart;
 } LARGE_INTEGER;
-#line 1247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1198 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 typedef LARGE_INTEGER *PLARGE_INTEGER;
 
@@ -12544,7 +12493,7 @@ typedef LARGE_INTEGER *PLARGE_INTEGER;
 
 
 
-#line 1255 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 typedef union _ULARGE_INTEGER {
     struct {
         ULONG LowPart;
@@ -12556,7 +12505,7 @@ typedef union _ULARGE_INTEGER {
     } u;
     ULONGLONG QuadPart;
 } ULARGE_INTEGER;
-#line 1267 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 typedef ULARGE_INTEGER *PULARGE_INTEGER;
 
@@ -12728,7 +12677,7 @@ typedef LARGE_INTEGER PHYSICAL_ADDRESS, *PPHYSICAL_ADDRESS;
 
 
 
-#line 1442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1393 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12778,7 +12727,7 @@ _rotr16 (
 #pragma intrinsic(_rotr8)
 #pragma intrinsic(_rotr16)
 
-#line 1492 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12820,7 +12769,7 @@ _rotr64 (
 #pragma intrinsic(_rotr)
 #pragma intrinsic(_rotr64)
 
-#line 1534 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1485 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -12929,7 +12878,7 @@ typedef struct _UNICODE_STRING {
 
 
       PWCH   Buffer;
-#line 1643 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 } UNICODE_STRING;
 typedef UNICODE_STRING *PUNICODE_STRING;
 typedef const UNICODE_STRING *PCUNICODE_STRING;
@@ -12966,7 +12915,7 @@ typedef const UNICODE_STRING *PCUNICODE_STRING;
 
 
 
-#line 1680 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1631 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -13083,7 +13032,7 @@ ListEntry64To32(
     l32->Flink = (ULONG)l64->Flink;
     l32->Blink = (ULONG)l64->Blink;
 }
-#line 1797 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1748 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -13101,7 +13050,7 @@ typedef struct _WNF_STATE_NAME {
 
 typedef struct _WNF_STATE_NAME* PWNF_STATE_NAME;
 typedef const struct _WNF_STATE_NAME* PCWNF_STATE_NAME;
-#line 1815 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1766 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 typedef struct _STRING32 {
@@ -13247,7 +13196,7 @@ typedef const OBJECT_ATTRIBUTES *PCOBJECT_ATTRIBUTES;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13268,30 +13217,23 @@ typedef const OBJECT_ATTRIBUTES *PCOBJECT_ATTRIBUTES;
 
 
 
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 typedef struct _GUID {
     unsigned long  Data1;
     unsigned short Data2;
     unsigned short Data3;
     unsigned char  Data4[ 8 ];
 } GUID;
-#line 29 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
 
 
 
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-
-
-
-
-
-
-
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13313,7 +13255,14 @@ typedef struct _GUID {
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+
+
+
+
+
+
+
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13323,12 +13272,12 @@ typedef struct _GUID {
 
 
 typedef GUID *LPGUID;
-#line 77 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
 typedef const GUID *LPCGUID;
-#line 82 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13350,7 +13299,7 @@ typedef FMTID *LPFMTID;
 
 
 
-#line 104 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13358,8 +13307,8 @@ typedef FMTID *LPFMTID;
 
 
 
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13367,8 +13316,8 @@ typedef FMTID *LPFMTID;
 
 
 
-#line 121 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13376,8 +13325,8 @@ typedef FMTID *LPFMTID;
 
 
 
-#line 130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 131 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -13385,16 +13334,16 @@ typedef FMTID *LPFMTID;
 
 
 
-#line 139 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 140 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 
@@ -13408,7 +13357,7 @@ typedef FMTID *LPFMTID;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -13423,7 +13372,7 @@ typedef FMTID *LPFMTID;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memcpy_s.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -13435,7 +13384,7 @@ typedef FMTID *LPFMTID;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\errno.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\errno.h"
 
 
 
@@ -13469,7 +13418,7 @@ __pragma(pack(push, 8))
 
     __declspec(dllimport) errno_t __cdecl _set_doserrno(  unsigned long _Value);
     __declspec(dllimport) errno_t __cdecl _get_doserrno(  unsigned long * _Value);
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\errno.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\errno.h"
 
 
 
@@ -13517,7 +13466,7 @@ __pragma(pack(push, 8))
     
     
     
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\errno.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\errno.h"
 
 
 
@@ -13565,18 +13514,18 @@ __pragma(pack(push, 8))
     
     
     
-#line 131 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\errno.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\errno.h"
 
 
 
 __pragma(pack(pop))
 
 #pragma warning(pop) 
-#line 138 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\errno.h"
+#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\errno.h"
 #pragma external_header(pop)
-#line 12 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memcpy_s.h"
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memcpy_s.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
 
 
 
@@ -13614,7 +13563,7 @@ int __cdecl memcmp(
 
  
 
-#line 43 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
+#line 43 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
 void* __cdecl memcpy(
       void* _Dst,
             void const* _Src,
@@ -13630,7 +13579,7 @@ void* __cdecl memcpy(
 
  
 
-#line 63 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
+#line 63 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
 void* __cdecl memset(
       void*  _Dst,
                                int    _Val,
@@ -13679,11 +13628,11 @@ void* __cdecl memset(
 
 __pragma(pack(pop))
 
-#line 112 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
+#line 112 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vcruntime_string.h"
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memcpy_s.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memcpy_s.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
@@ -13693,7 +13642,7 @@ __pragma(pack(push, 8))
 
 
     
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memcpy_s.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -13758,7 +13707,7 @@ __pragma(pack(push, 8))
         return 0;
     }
 
-#line 88 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memcpy_s.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -13766,7 +13715,7 @@ __pragma(pack(push, 8))
 #pragma warning(pop) 
 __pragma(pack(pop))
 #pragma external_header(pop)
-#line 15 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 
 #pragma warning(push)
@@ -13811,7 +13760,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 60 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
     
 
@@ -13826,9 +13775,9 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 75 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
-#line 77 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -13849,7 +13798,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
                                  size_t      _Size
         );
 
-#line 98 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -13866,19 +13815,19 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 115 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 
 
 __pragma(pack(pop))
 
-#line 121 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_memory.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_memory.h"
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -13946,7 +13895,7 @@ __pragma(pack(push, 8))
             wchar_t**      _Context
         );
 
-#line 69 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -13958,7 +13907,7 @@ __pragma(pack(push, 8))
 
 
 
-#line 81 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 81 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
@@ -13967,17 +13916,17 @@ __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
 
 
 
-#line 90 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 
 
-#line 98 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "wcscat_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl wcscat( wchar_t *_Destination,  wchar_t const* _Source);
-#line 105 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
-#line 106 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcscmp(
@@ -13986,10 +13935,10 @@ __declspec(dllimport) int __cdecl wcscmp(
     );
 
 
-#line 118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "wcscpy_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl wcscpy( wchar_t *_Destination,  wchar_t const* _Source);
-#line 124 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) size_t __cdecl wcscspn(
@@ -14004,9 +13953,9 @@ __declspec(dllimport) size_t __cdecl wcslen(
 
  
 
-#line 141 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
-#line 145 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 __declspec(dllimport) size_t __cdecl wcsnlen(
       wchar_t const* _Source,
                             size_t         _MaxCount
@@ -14016,9 +13965,9 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
 
      
     
-#line 157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
     
-#line 161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
     static __inline size_t __cdecl wcsnlen_s(
           wchar_t const* _Source,
                                 size_t         _MaxCount
@@ -14027,13 +13976,13 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
         return (_Source == 0) ? 0 : wcsnlen(_Source, _MaxCount);
     }
 
-#line 170 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
-#line 177 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "wcsncat_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl wcsncat(  wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 185 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcsncmp(
@@ -14043,10 +13992,10 @@ __declspec(dllimport) int __cdecl wcsncmp(
     );
 
 
-#line 199 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "wcsncpy_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl wcsncpy(    wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 207 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) wchar_t * __cdecl wcspbrk(
@@ -14071,12 +14020,12 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 232 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
         
 
 
 
-    #line 237 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+    #line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "wcstok_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     static __inline wchar_t* __cdecl _wcstok(
@@ -14089,7 +14038,7 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 250 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
     
 
@@ -14100,9 +14049,9 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
 
 
-#line 261 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
-#line 263 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -14120,7 +14069,7 @@ __declspec(dllimport) errno_t __cdecl _wcserror_s(
     );
 
 
-#line 284 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
  
@@ -14136,7 +14085,7 @@ __declspec(dllimport) wchar_t* __cdecl __wcserror(
     );
 
 
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
   __declspec(dllimport) int __cdecl _wcsicmp(
       wchar_t const* _String1,
@@ -14170,10 +14119,10 @@ __declspec(dllimport) wchar_t* __cdecl __wcserror(
     );
 
 
-#line 341 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcsnset_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcsnset(  wchar_t *_String,   wchar_t _Value,   size_t _MaxCount);
-#line 349 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(dllimport) wchar_t* __cdecl _wcsrev(
       wchar_t* _String
@@ -14186,10 +14135,10 @@ __declspec(dllimport) wchar_t* __cdecl _wcsrev(
     );
 
 
-#line 365 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcsset_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcsset(  wchar_t *_String,   wchar_t _Value);
-#line 372 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) errno_t __cdecl _wcslwr_s(
       wchar_t* _String,
@@ -14197,10 +14146,10 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
     );
 
 
-#line 382 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcslwr_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcslwr( wchar_t *_String);
-#line 387 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
@@ -14210,10 +14159,10 @@ __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
     );
 
 
-#line 400 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcslwr_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcslwr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 407 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s(
@@ -14222,10 +14171,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s(
     );
 
 
-#line 418 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcsupr_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcsupr( wchar_t *_String);
-#line 423 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
@@ -14235,10 +14184,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
     );
 
 
-#line 436 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 436 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wcsupr_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) wchar_t* __cdecl _wcsupr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 443 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
  
 
@@ -14363,7 +14312,7 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
     
 
 
-#line 568 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
       __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_wcsdup" ". See online help for details."))
     __declspec(dllimport) wchar_t* __cdecl wcsdup(
@@ -14372,7 +14321,7 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
 
     
 
-#line 577 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
     
     
@@ -14429,17 +14378,17 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
           wchar_t const* _String2
         );
 
-#line 634 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 
 
 __pragma(pack(pop))
 
-#line 640 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstring.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstring.h"
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 
@@ -14499,7 +14448,7 @@ __pragma(pack(push, 8))
             char**      _Context
         );
 
-#line 75 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(dllimport) void* __cdecl _memccpy(
       void*       _Dst,
@@ -14509,14 +14458,14 @@ __declspec(dllimport) void* __cdecl _memccpy(
     );
 
 
-#line 88 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "strcat_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))  char* __cdecl strcat( char *_Destination,  char const* _Source);
-#line 96 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
-#line 98 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 int __cdecl strcmp(
@@ -14544,10 +14493,10 @@ __declspec(dllimport) int __cdecl _strcoll_l(
     );
 
 
-#line 129 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "strcpy_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))  char* __cdecl strcpy( char *_Destination,  char const* _Source);
-#line 135 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strcspn(
@@ -14558,7 +14507,7 @@ __declspec(dllimport) size_t __cdecl strcspn(
 
 
 
-#line 146 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
@@ -14567,7 +14516,7 @@ __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
 
 
 
-#line 155 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
  
@@ -14584,7 +14533,7 @@ __declspec(dllimport) errno_t __cdecl _strerror_s(
     );
 
 
-#line 175 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
   __declspec(deprecated("This function or variable may be unsafe. Consider using " "strerror_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -14593,7 +14542,7 @@ __declspec(dllimport) char* __cdecl strerror(
     );
 
 
-#line 187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl _stricmp(
@@ -14633,10 +14582,10 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s(
     );
 
 
-#line 229 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strlwr_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl _strlwr( char *_String);
-#line 234 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
@@ -14646,16 +14595,16 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
     );
 
 
-#line 247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strlwr_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl _strlwr_l(  char *_String,   _locale_t _Locale);
-#line 254 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
-#line 261 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "strncat_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl strncat(  char *_Destination,   char const* _Source,   size_t _Count);
-#line 269 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl strncmp(
@@ -14715,16 +14664,16 @@ __declspec(dllimport) size_t __cdecl __strncnt(
     );
 
 
-#line 333 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 333 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "strncpy_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl strncpy(    char *_Destination,   char const* _Source,   size_t _Count);
-#line 341 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 
-#line 347 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
-#line 351 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 __declspec(dllimport) size_t __cdecl strnlen(
       char const* _String,
                             size_t      _MaxCount
@@ -14734,9 +14683,9 @@ __declspec(dllimport) size_t __cdecl strnlen(
 
      
     
-#line 363 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
     
-#line 367 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
     static __inline size_t __cdecl strnlen_s(
           char const* _String,
                                 size_t      _MaxCount
@@ -14745,7 +14694,7 @@ __declspec(dllimport) size_t __cdecl strnlen(
         return _String == 0 ? 0 : strnlen(_String, _MaxCount);
     }
 
-#line 376 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 376 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strnset_s(
@@ -14756,10 +14705,10 @@ __declspec(dllimport) errno_t __cdecl _strnset_s(
     );
 
 
-#line 391 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strnset_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl _strnset(  char *_Destination,   int _Value,   size_t _Count);
-#line 399 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) char * __cdecl strpbrk(
@@ -14779,10 +14728,10 @@ __declspec(dllimport) errno_t __cdecl _strset_s(
     );
 
 
-#line 422 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strset_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))  char* __cdecl _strset( char *_Destination,  int _Value);
-#line 428 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strspn(
@@ -14803,10 +14752,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s(
     );
 
 
-#line 451 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strupr_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl _strupr( char *_String);
-#line 456 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strupr_s_l(
@@ -14816,10 +14765,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s_l(
     );
 
 
-#line 469 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "_strupr_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport) char* __cdecl _strupr_l(  char *_String,   _locale_t _Locale);
-#line 476 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
  
 
@@ -14928,17 +14877,17 @@ __declspec(dllimport) size_t __cdecl _strxfrm_l(
           char* _String
         );
 
-#line 585 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 
 
 
 __pragma(pack(pop))
 
 #pragma warning(pop) 
-#line 592 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
-#line 593 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\string.h"
+#line 592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
+#line 593 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h"
 #pragma external_header(pop)
-#line 147 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -14966,7 +14915,7 @@ __pragma(pack(pop))
 
 
 
-#line 175 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -14994,12 +14943,12 @@ __pragma(pack(pop))
 
 
 
-#line 203 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 204 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 205 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
-#line 206 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 205 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
+#line 206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 #pragma external_header(pop)
-#line 1960 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1911 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15008,7 +14957,7 @@ typedef struct  _OBJECTID {
     GUID Lineage;
     ULONG Uniquifier;
 } OBJECTID;
-#line 1969 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1920 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15056,7 +15005,7 @@ typedef struct  _OBJECTID {
 
 
 
-#line 2017 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 1968 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15171,15 +15120,15 @@ typedef struct  _OBJECTID {
 
 
 
-#line 2137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2088 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 2139 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2090 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 
-#line 2145 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2096 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15219,9 +15168,9 @@ typedef struct  _OBJECTID {
 
 
 
-#line 2185 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 2187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15256,7 +15205,7 @@ typedef struct  _OBJECTID {
 
 char _RTL_CONSTANT_STRING_type_check(const void *s);
 
-#line 2222 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2173 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -15587,15 +15536,8 @@ typedef   enum _SUITE_TYPE {
 
 
 
-
-
-
-
-
-
-
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
@@ -15617,9 +15559,9 @@ typedef   enum _SUITE_TYPE {
 
 #pragma warning(push)
 #pragma warning(disable:4668) 
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 #pragma warning(disable:4001) 
-#line 25 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 #pragma once
 
@@ -15781,38 +15723,38 @@ typedef   enum _SUITE_TYPE {
 
 
 
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
-#line 191 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
-#line 193 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
-#line 198 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
-#line 200 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 201 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
-#line 205 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
-#line 207 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
-#line 212 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 214 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 214 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
 
-#line 218 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
 
@@ -15820,104 +15762,100 @@ typedef   enum _SUITE_TYPE {
 
 
 
+#line 226 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
 
-#line 230 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 233 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
+#line 236 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
-#line 237 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
+#line 240 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
+#line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 240 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
 
-#line 244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-#line 245 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
 
+#line 249 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
+#line 250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
 
-#line 253 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-#line 254 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 257 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 259 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 261 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 263 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 265 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 267 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 271 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 269 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
-#line 271 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 274 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
+#line 275 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 273 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
-#line 275 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
-#line 278 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-#line 279 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
 
 
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
+#line 288 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 288 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 292 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 296 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 296 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 300 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
 
 
+#line 304 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 304 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-
-
-
-#line 308 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-
-#line 310 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 306 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 
 
 #pragma warning(pop)
 
 
-#line 317 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
-#line 318 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
+#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
-#line 320 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\sdkddkver.h"
+#line 316 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\sdkddkver.h"
 
 #pragma external_header(pop)
-#line 2560 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 2504 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16645,7 +16583,7 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3288 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16672,7 +16610,7 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3315 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3259 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16699,7 +16637,7 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3342 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16767,7 +16705,7 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3410 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16793,13 +16731,13 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3436 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
-#line 3440 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
-#line 3442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
@@ -16809,27 +16747,27 @@ typedef   enum _SUITE_TYPE {
 
 
 
-#line 3452 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3396 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 #pragma warning(push)
 #pragma warning(disable: 4116)
 typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER test; } *)0)->test)) == 8)?1:-1];
 #pragma warning(pop)
-#line 3457 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
-#line 3458 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3401 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
+#line 3402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
 
 
 #pragma warning(pop)
-#line 3464 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3408 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 
-#line 3467 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntdef.h"
+#line 3411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntdef.h"
 
 #pragma external_header(pop)
 #line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
 
 
 
@@ -16864,33 +16802,12 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 #pragma once
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
 
 
 
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -31909,6 +31826,7 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 
+#line 15060 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
 
 
 
@@ -32139,7 +32057,6 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 
-#line 15311 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
 
 
 
@@ -43395,829 +43312,18 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 27378 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
+#line 26546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
 
 
   
 
 
-#line 27384 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
-#line 27385 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntstatus.h"
+#line 26552 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
+#line 26553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntstatus.h"
 #pragma external_header(pop)
 #line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\bugcodes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\bugcodes.h"
 
 
 
@@ -48975,146 +48081,11 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 4894 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\bugcodes.h"
+#line 4759 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\bugcodes.h"
 #pragma external_header(pop)
 #line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntiologc.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntiologc.h"
 
 
 
@@ -50764,7 +49735,7 @@ typedef char __C_ASSERT__[(((LONG)(LONG_PTR)&(((struct { char x; LARGE_INTEGER t
 
 
 
-#line 1651 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntiologc.h"
+#line 1651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntiologc.h"
 
 #pragma external_header(pop)
 #line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
@@ -58406,7 +57377,7 @@ typedef GENERIC_MAPPING *PGENERIC_MAPPING;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 
 
 
@@ -58435,11 +57406,11 @@ typedef GENERIC_MAPPING *PGENERIC_MAPPING;
 #pragma pack(push,4)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 #pragma external_header(pop)
 #line 6291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -58451,7 +57422,7 @@ typedef LUID_AND_ATTRIBUTES LUID_AND_ATTRIBUTES_ARRAY[1];
 typedef LUID_AND_ATTRIBUTES_ARRAY *PLUID_AND_ATTRIBUTES_ARRAY;
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -58483,11 +57454,11 @@ typedef LUID_AND_ATTRIBUTES_ARRAY *PLUID_AND_ATTRIBUTES_ARRAY;
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 6300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -64197,7 +63168,7 @@ typedef enum _CM_SHARE_DISPOSITION {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 
 
 
@@ -64226,11 +63197,11 @@ typedef enum _CM_SHARE_DISPOSITION {
 #pragma pack(push,4)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack4.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack4.h"
 #pragma external_header(pop)
 #line 12007 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 typedef struct _CM_PARTIAL_RESOURCE_DESCRIPTOR {
@@ -64394,7 +63365,7 @@ typedef struct _CM_PARTIAL_RESOURCE_DESCRIPTOR {
     } u;
 } CM_PARTIAL_RESOURCE_DESCRIPTOR, *PCM_PARTIAL_RESOURCE_DESCRIPTOR;
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -64426,11 +63397,11 @@ typedef struct _CM_PARTIAL_RESOURCE_DESCRIPTOR {
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 12168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -64533,7 +63504,7 @@ typedef struct _CM_ROM_BLOCK {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
 
@@ -64562,11 +63533,11 @@ typedef struct _CM_ROM_BLOCK {
 #pragma pack(push,1)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 #pragma external_header(pop)
 #line 12268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -64767,7 +63738,7 @@ typedef struct _CM_PNP_BIOS_INSTALLATION_CHECK {
 } CM_PNP_BIOS_INSTALLATION_CHECK, *PCM_PNP_BIOS_INSTALLATION_CHECK;
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -64799,11 +63770,11 @@ typedef struct _CM_PNP_BIOS_INSTALLATION_CHECK {
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 12466 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -66789,7 +65760,7 @@ RtlUTF8StringToUnicodeString(
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -66846,7 +65817,7 @@ RtlUTF8StringToUnicodeString(
 
 
 
-#line 58 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -66855,7 +65826,7 @@ RtlUTF8StringToUnicodeString(
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -69180,7 +68151,7 @@ RtlIsServicePackVersionInstalled (
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\dpfilter.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\dpfilter.h"
 
 
 
@@ -69702,7 +68673,7 @@ typedef const IMAGE_POLICY_METADATA* PCIMAGE_POLICY_METADATA;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
 
 
@@ -69740,7 +68711,7 @@ typedef const IMAGE_POLICY_METADATA* PCIMAGE_POLICY_METADATA;
 
 
 
-#line 39 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 39 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
 
 
@@ -69799,7 +68770,7 @@ typedef const IMAGE_POLICY_METADATA* PCIMAGE_POLICY_METADATA;
 
 
 
-#line 98 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
 
 
@@ -69816,7 +68787,7 @@ typedef const IMAGE_POLICY_METADATA* PCIMAGE_POLICY_METADATA;
 
 
 
-#line 115 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
 
 
@@ -69833,13 +68804,13 @@ typedef const IMAGE_POLICY_METADATA* PCIMAGE_POLICY_METADATA;
 
 
 
-#line 132 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
 
 
-#line 136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 
-#line 138 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\apiset.h"
+#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h"
 #pragma external_header(pop)
 #line 16995 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -69873,7 +68844,7 @@ RtlCompareMemory(
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ktmtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ktmtypes.h"
 
 
 
@@ -69902,7 +68873,7 @@ RtlCompareMemory(
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ktmtypes.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ktmtypes.h"
 
 typedef GUID UOW, *PUOW;
 typedef GUID CRM_PROTOCOL_ID, *PCRM_PROTOCOL_ID;
@@ -70082,13 +69053,13 @@ typedef struct _KCRM_PROTOCOL_BLOB {
 
 
 #pragma warning(pop)
-#line 210 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ktmtypes.h"
+#line 210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ktmtypes.h"
 
 
 
 
 
-#line 216 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ktmtypes.h"
+#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ktmtypes.h"
 #pragma external_header(pop)
 #line 17026 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -76919,75 +75890,75 @@ KeReleaseInStackQueuedSpinLockForDpc (
 
 
 
-__declspec(dllimport)
-void
-
-KeRcuReadLock (
-    void
-    );
-
-__declspec(dllimport)
-void
-
-KeRcuReadUnlock (
-    void
-    );
-
- 
-__declspec(dllimport)
-void
-KeRcuSynchronize (
-    void
-    );
 
 
 
 
 
-typedef struct _KE_SRCU         *PKE_SRCU;
-typedef struct _KE_SRCU_LOCK    *PKE_SRCU_LOCK;
 
-typedef struct _KE_SRCU_LOCK {
-    ULONG_PTR Placeholder[2];
-} KE_SRCU_LOCK;
 
- 
- 
-__declspec(dllimport)
-PKE_SRCU
-KeSrcuAllocate (
-      ULONG Tag
-    );
 
- 
-__declspec(dllimport)
-void
-KeSrcuFree (
-        PKE_SRCU Rcu
-    );
 
-__declspec(dllimport)
-void
 
-KeSrcuReadLock (
-      PKE_SRCU Rcu,
-      PKE_SRCU_LOCK Lock
-    );
 
-__declspec(dllimport)
-void
 
-KeSrcuReadUnlock (
-      PKE_SRCU Rcu,
-        PKE_SRCU_LOCK Lock
-    );
 
- 
-__declspec(dllimport)
-void
-KeSrcuSynchronize (
-      PKE_SRCU Rcu
-    );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #line 23933 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -78734,17 +77705,17 @@ ExFreePool (
 
 
 
-typedef struct _EX_RCU_FREE_POOL_CONTEXT {
-    ULONG_PTR Placeholder[6];
-} EX_RCU_FREE_POOL_CONTEXT, *PEX_RCU_FREE_POOL_CONTEXT;
 
- 
-__declspec(dllimport)
-void
-ExRcuFreePool (
-      PEX_RCU_FREE_POOL_CONTEXT Context,
-            PVOID Ptr
-    );
+
+
+
+
+
+
+
+
+
+
 
 #line 25720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
@@ -89918,7 +88889,7 @@ WmiQueryTraceInformation (
 #line 36899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
@@ -89946,13 +88917,13 @@ WmiQueryTraceInformation (
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 29 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
 
 
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
@@ -89960,9 +88931,9 @@ WmiQueryTraceInformation (
 
 
 
-#line 43 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
-#line 44 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
-#line 45 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 43 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
+#line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
+#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
   
@@ -89971,9 +88942,8 @@ WmiQueryTraceInformation (
 
 
 
-#line 54 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
-#line 55 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
-
+#line 54 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
+#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
@@ -90242,7 +89212,7 @@ typedef struct _EVENT_DESCRIPTOR {
 
 typedef const EVENT_DESCRIPTOR *PCEVENT_DESCRIPTOR;
 
-#line 325 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
@@ -90711,7 +89681,7 @@ typedef enum _EVENT_INFO_CLASS {
 
 
 
-#line 794 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 793 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 #pragma region Application Family or OneCore Family or GameCore Family
 
@@ -90732,7 +89702,7 @@ EventDataDescCreate(
     return;
 }
 
-#line 815 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or GameCore Family
@@ -90937,12 +89907,12 @@ EventDescOrKeyword(
     return (EventDescriptor);
 }
 
-#line 1020 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 1019 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 #pragma endregion
 
 
 
-#line 1025 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 1024 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 
 
@@ -90950,9 +89920,9 @@ EventDescOrKeyword(
 
 
 #pragma warning(pop)
-#line 1033 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 1032 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
-#line 1035 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\evntprov.h"
+#line 1034 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\evntprov.h"
 
 #pragma external_header(pop)
 #line 36901 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
@@ -92594,7 +91564,7 @@ typedef struct _TARGET_DEVICE_CUSTOM_NOTIFICATION {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92706,7 +91676,7 @@ typedef struct _DEVPROPKEY {
     DEVPROPID   pid;
 } DEVPROPKEY, *PDEVPROPKEY;
 
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92719,8 +91689,8 @@ typedef struct _DEVPROPKEY {
 
 
 
-#line 126 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
-#line 127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92750,12 +91720,12 @@ typedef struct _DEVPROPCOMPKEY {
 
 
     PCWSTR LocaleName;
-#line 157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 } DEVPROPCOMPKEY, *PDEVPROPCOMPKEY;
 
 
 
-#line 162 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 162 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92767,7 +91737,7 @@ typedef struct _DEVPROPCOMPKEY {
 
 
 
-#line 174 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92781,7 +91751,7 @@ typedef struct _DEVPROPERTY {
 
 
      PVOID Buffer;
-#line 188 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 } DEVPROPERTY, *PDEVPROPERTY;
 
 
@@ -92791,7 +91761,7 @@ typedef struct _DEVPROPERTY {
 
 
 
-#line 198 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 198 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -92801,9 +91771,9 @@ typedef struct _DEVPROPERTY {
 
 
 
-#line 208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
-#line 210 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 #pragma endregion
 #pragma external_header(pop)
 #line 38543 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\wdm.h"
@@ -121078,7 +120048,7 @@ typedef enum _WHEA_ERROR_SOURCE_STATE {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
 
@@ -121107,11 +120077,11 @@ typedef enum _WHEA_ERROR_SOURCE_STATE {
 #pragma pack(push,1)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 #pragma external_header(pop)
 #line 17579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -121915,7 +120885,7 @@ typedef struct _MEMORY_DEFECT {
 } MEMORY_DEFECT, * PMEMORY_DEFECT;
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -121947,11 +120917,11 @@ typedef struct _MEMORY_DEFECT {
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 18380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -122025,7 +120995,7 @@ typedef struct _MEMORY_DEFECT {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
 
@@ -122054,11 +121024,11 @@ typedef struct _MEMORY_DEFECT {
 #pragma pack(push,1)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 #pragma external_header(pop)
 #line 18451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -124249,7 +123219,7 @@ typedef struct _WHEA_PCI_RECOVERY_SECTION {
 } WHEA_PCI_RECOVERY_SECTION, *PWHEA_PCI_RECOVERY_SECTION;
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -124281,11 +123251,11 @@ typedef struct _WHEA_PCI_RECOVERY_SECTION {
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 20640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -124526,7 +123496,7 @@ extern const GUID  MEMORY_ERROR_EXT_SECTION_INTEL_GUID;
 #line 20937 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
 
@@ -124555,11 +123525,11 @@ extern const GUID  MEMORY_ERROR_EXT_SECTION_INTEL_GUID;
 #pragma pack(push,1)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack1.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack1.h"
 #pragma external_header(pop)
 #line 20939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -125714,7 +124684,7 @@ typedef struct _WHEA_GENERIC_ERROR_DATA_ENTRY_V2 {
 typedef struct _WHEA_GENERIC_ERROR_DATA_ENTRY_V2    WHEA_GENERIC_ERROR_DATA_ENTRY, *PWHEA_GENERIC_ERROR_DATA_ENTRY;
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -125746,11 +124716,11 @@ typedef struct _WHEA_GENERIC_ERROR_DATA_ENTRY_V2    WHEA_GENERIC_ERROR_DATA_ENTR
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
 #line 22091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntddk.h"
 
@@ -158850,7 +157820,7 @@ ZwDuplicateToken(
 #line 31732 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntifs.h"
 
 #line 31734 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntifs.h"
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 36 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 #line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 
@@ -158879,7 +157849,7 @@ ZwDuplicateToken(
 #line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
@@ -158893,15 +157863,15 @@ ZwDuplicateToken(
 
 
 
-#line 15 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
 
-#line 20 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
@@ -158923,14 +157893,14 @@ ZwDuplicateToken(
 
 
 
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
 #pragma once
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
@@ -158949,25 +157919,25 @@ ZwDuplicateToken(
 
 
 
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
-#line 55 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
-#line 61 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
-#line 63 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
 
@@ -158996,20 +157966,20 @@ ZwDuplicateToken(
 #pragma pack(push,8)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 #pragma external_header(pop)
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
-#line 73 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 typedef void * I_RPC_HANDLE;
 
@@ -159019,23 +157989,11 @@ typedef void * I_RPC_HANDLE;
 typedef   long RPC_STATUS;
 
 
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
-
-
-
-
-
-
-
-
-
-
-
-#line 99 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
@@ -159046,19 +158004,31 @@ typedef   long RPC_STATUS;
 
 
 
-#line 110 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
 
-
-
-#line 114 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
-
-#line 116 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 99 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
-#line 122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+
+
+
+
+
+#line 110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
+
+
+
+#line 114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
+
+#line 116 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
+
+
+
+
+
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
@@ -159094,7 +158064,7 @@ typedef   long RPC_STATUS;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159116,7 +158086,7 @@ typedef   long RPC_STATUS;
 
 
 #pragma once
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159126,7 +158096,7 @@ typedef   long RPC_STATUS;
 #pragma warning(push)
 #pragma warning(disable:4668) 
 #pragma warning(disable:4820) 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Application Family or OneCore Family or Games Family
 
@@ -159162,10 +158132,10 @@ typedef   unsigned char  * RPC_CSTR;
 
 
 
-#line 69 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 typedef   unsigned short  * RPC_WSTR;
 typedef   const unsigned short * RPC_CWSTR;
-#line 72 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 typedef I_RPC_HANDLE RPC_BINDING_HANDLE;
 typedef RPC_BINDING_HANDLE handle_t;
@@ -159180,10 +158150,10 @@ typedef RPC_BINDING_HANDLE handle_t;
 typedef GUID UUID;
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
-#line 88 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 90 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -159196,7 +158166,7 @@ typedef struct _RPC_BINDING_VECTOR
 } RPC_BINDING_VECTOR;
 
 
-#line 103 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 typedef struct _UUID_VECTOR
 {
@@ -159205,9 +158175,9 @@ typedef struct _UUID_VECTOR
 } UUID_VECTOR;
 
 
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 114 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -159223,9 +158193,9 @@ typedef struct _RPC_IF_ID
     unsigned short VersMajor;
     unsigned short VersMinor;
 } RPC_IF_ID;
-#line 130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 132 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -159277,7 +158247,7 @@ typedef struct _RPC_IF_ID
 
 
 
-#line 184 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159286,12 +158256,12 @@ typedef struct _RPC_IF_ID
 
 
 
-#line 193 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 193 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
-#line 198 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 198 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159300,7 +158270,7 @@ typedef struct _RPC_IF_ID
 
 
 
-#line 207 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159325,7 +158295,7 @@ typedef struct _RPC_PROTSEQ_VECTORW
 
 
 
-#line 232 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159335,7 +158305,7 @@ typedef struct _RPC_PROTSEQ_VECTORW
 
 
 
-#line 242 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 typedef struct _RPC_POLICY {
     unsigned int Length ;
     unsigned long EndpointFlags ;
@@ -159361,7 +158331,7 @@ RPC_SECURITY_CALLBACK_FN (
       void *Context
     ) ;
 
-#line 268 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -159467,9 +158437,9 @@ RpcBindingInqOption (
 
 
 
-#line 374 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 376 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 376 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -159484,7 +158454,7 @@ RpcSsGetContextBinding (
       RPC_BINDING_HANDLE  * Binding
     );
 
-#line 391 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -159532,7 +158502,7 @@ RpcBindingSetObject (
       UUID  * ObjectUuid
     );
 
-#line 439 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -159548,7 +158518,7 @@ RpcMgmtInqDefaultProtectLevel (
       unsigned long  *AuthnLevel
     );
 
-#line 455 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 455 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -159581,9 +158551,9 @@ RpcBindingToStringBindingW (
 
 
 
-#line 488 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 488 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 490 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -159596,7 +158566,7 @@ RpcBindingToStringBindingW (
 
 
 
-#line 503 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 503 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 #pragma region Desktop Family or OneCore Family
@@ -159610,7 +158580,7 @@ RpcBindingVectorFree (
       RPC_BINDING_VECTOR  *  * BindingVector
     );
 
-#line 517 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -159745,7 +158715,7 @@ RpcBindingVectorFree (
 
 
 
-#line 652 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 652 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159772,9 +158742,9 @@ RpcStringFreeW (
 
 
 
-#line 679 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 679 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 681 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -159792,7 +158762,7 @@ RpcStringFreeW (
 
 
 
-#line 699 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159832,9 +158802,9 @@ RpcNetworkIsProtseqValidW (
 
 
 
-#line 739 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 741 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 741 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -159852,7 +158822,7 @@ RpcNetworkIsProtseqValidW (
 
 
 
-#line 759 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 759 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159887,7 +158857,7 @@ RpcMgmtSetCancelTimeout(
       long Timeout
     );
 
-#line 794 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 794 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -159917,7 +158887,7 @@ RpcNetworkInqProtseqsW (
 
 
 
-#line 824 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 824 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159928,7 +158898,7 @@ RpcNetworkInqProtseqsW (
 
 
 
-#line 835 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159981,7 +158951,7 @@ RpcProtseqVectorFreeW (
 
 
 
-#line 888 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 888 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -159992,7 +158962,7 @@ RpcProtseqVectorFreeW (
 
 
 
-#line 899 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160089,7 +159059,7 @@ RpcServerRegisterIf3 (
       RPC_IF_CALLBACK_FN  *IfCallback,
       void  * SecurityDescriptor
     );
-#line 996 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 996 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160112,7 +159082,7 @@ RpcServerUnregisterIfEx (
       UUID  * MgrTypeUuid,
       int RundownContextHandles
     );
-#line 1019 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1019 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160211,7 +159181,7 @@ RpcServerUseProtseqExW (
 
 
 
-#line 1118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160234,7 +159204,7 @@ RpcServerUseProtseqExW (
 
 
 
-#line 1141 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160292,7 +159262,7 @@ RpcServerUseProtseqEpExW (
 
 
 
-#line 1199 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160317,7 +159287,7 @@ RpcServerUseProtseqEpExW (
 
 
 
-#line 1224 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1224 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160375,7 +159345,7 @@ RpcServerUseProtseqIfExW (
 
 
 
-#line 1282 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160400,7 +159370,7 @@ RpcServerUseProtseqIfExW (
 
 
 
-#line 1307 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 void
@@ -160417,7 +159387,7 @@ RpcMgmtStatsVectorFree (
       RPC_STATS_VECTOR ** StatsVector
     );
 
-#line 1324 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -160442,7 +159412,7 @@ RpcMgmtIsServerListening (
       RPC_BINDING_HANDLE Binding
     );
 
-#line 1349 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -160508,7 +159478,7 @@ RpcIfIdVectorFree (
       RPC_IF_ID_VECTOR  *  * IfIdVector
     );
 
-#line 1415 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -160540,9 +159510,9 @@ RpcMgmtInqServerPrincNameW (
 
 
 
-#line 1447 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1447 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 1449 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -160562,7 +159532,7 @@ RpcMgmtInqServerPrincNameW (
 
 
 
-#line 1469 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Desktop Family or OneCore Family
 
@@ -160591,7 +159561,7 @@ RpcServerInqDefaultPrincNameW (
 
 
 
-#line 1498 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160603,9 +159573,9 @@ RpcServerInqDefaultPrincNameW (
 
 
 
-#line 1510 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1510 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 1512 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1512 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -160621,7 +159591,7 @@ RpcEpResolveBinding (
       RPC_IF_HANDLE IfSpec
     );
 
-#line 1528 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1528 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -160655,7 +159625,7 @@ RpcNsBindingInqEntryNameW (
 
 
 
-#line 1562 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1562 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160668,9 +159638,9 @@ RpcNsBindingInqEntryNameW (
 
 
 
-#line 1575 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1575 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 1577 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -160704,15 +159674,11 @@ typedef void  * RPC_AUTHZ_HANDLE;
 
 
 
-#line 1611 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
-#line 1615 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
-
-
-
-
+#line 1615 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -160730,10 +159696,14 @@ typedef void  * RPC_AUTHZ_HANDLE;
 
 
 
-#line 1637 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
 
 
-#line 1640 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+
+
+#line 1637 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
+
+
+#line 1640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -161035,7 +160005,7 @@ typedef struct _RPC_SECURITY_QOS {
 
 
 
-#line 1942 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1942 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -161057,37 +160027,31 @@ typedef struct _RPC_SECURITY_QOS {
 
 
 
-#line 1964 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1964 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
 
-#line 1970 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
 
-#line 1976 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
 
-#line 1982 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 1982 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
 
-#line 1988 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
-
-
-
-
-
-
+#line 1988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -161124,9 +160088,15 @@ typedef struct _RPC_SECURITY_QOS {
 
 
 
-#line 2031 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
 
-#line 2033 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+
+
+
+
+
+#line 2031 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
+
+#line 2033 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -161220,7 +160190,7 @@ typedef struct _RPC_BINDING_HANDLE_OPTIONS_V1 {
 
 
 
-#line 2127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -161250,9 +160220,9 @@ RpcBindingCreateW (
 
 
 
-#line 2157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 2159 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -161273,10 +160243,10 @@ RpcServerInqBindingHandle (
       RPC_BINDING_HANDLE * Binding
     );
 
-#line 2180 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2180 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
-#line 2183 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -161293,10 +160263,10 @@ typedef enum _RPC_HTTP_REDIRECTOR_STAGE
     RPCHTTP_RS_INTERFACE
 } RPC_HTTP_REDIRECTOR_STAGE;
 
-#line 2200 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2200 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
-#line 2203 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Desktop Family or OneCore Family
 
@@ -161327,17 +160297,17 @@ typedef RPC_STATUS
 
 
 
-#line 2234 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 typedef void
 (__stdcall * RPC_HTTP_PROXY_FREE_STRING) (
       RPC_WSTR String
     );
 
-#line 2241 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
-#line 2244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2244 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Application Family or OneCore Family
 
@@ -161347,7 +160317,7 @@ typedef void
 
 
 
-#line 2254 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -161400,7 +160370,7 @@ RpcRevertContainerImpersonation (
     void
     );
 
-#line 2307 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -161462,7 +160432,7 @@ RpcBindingInqAuthClientExW (
        unsigned long             Flags
     );
 
-#line 2369 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -161578,7 +160548,7 @@ RpcBindingInqAuthInfoExW (
       RPC_SECURITY_QOS * SecurityQOS
     );
 
-#line 2485 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2485 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -161623,7 +160593,7 @@ RpcServerRegisterAuthInfoW (
       void  * Arg
     );
 
-#line 2530 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2530 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -161645,9 +160615,9 @@ RpcServerRegisterAuthInfoW (
 
 
 
-#line 2552 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2552 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 2554 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -161726,7 +160696,7 @@ RpcServerRegisterAuthInfoW (
 
 
 
-#line 2633 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Desktop Family or OneCore Family
 
@@ -161739,8 +160709,8 @@ typedef struct {
     unsigned short Privilege;
     unsigned long AuthFlags;
 } RPC_CLIENT_INFORMATION1,  * PRPC_CLIENT_INFORMATION1;
-#line 2646 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
-#line 2647 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
+#line 2647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
  
@@ -161751,7 +160721,7 @@ RpcBindingServerFromClient (
       RPC_BINDING_HANDLE  * ServerBinding
     );
 
-#line 2658 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -161773,7 +160743,7 @@ RpcTestCancel(
     void
     );
 
-#line 2680 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2680 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -161803,7 +160773,7 @@ RpcCancelThreadEx(
       long Timeout
     );
 
-#line 2710 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -161874,7 +160844,7 @@ UuidFromStringW (
 
 
 
-#line 2781 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2781 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -161896,7 +160866,7 @@ UuidFromStringW (
 
 
 
-#line 2803 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2803 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 signed int
@@ -161940,7 +160910,7 @@ UuidIsNil (
       RPC_STATUS  * Status
     );
 
-#line 2847 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2847 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -161998,7 +160968,7 @@ RpcEpRegisterW (
 
 
 
-#line 2905 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2905 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162022,7 +160992,7 @@ RpcEpRegisterW (
 
 
 
-#line 2929 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2929 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162035,7 +161005,7 @@ RpcEpUnregister(
       UUID_VECTOR * UuidVector
     );
 
-#line 2942 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2942 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -162067,9 +161037,9 @@ DceErrorInqTextW (
 
 
 
-#line 2974 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2974 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 2976 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
@@ -162088,7 +161058,7 @@ DceErrorInqTextW (
 
 
 
-#line 2995 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 2995 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma region Desktop Family or OneCore Family
 
@@ -162157,7 +161127,7 @@ RpcMgmtEpEltInqNextW (
 
 
 
-#line 3064 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3064 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162171,7 +161141,7 @@ RpcMgmtEpEltInqNextW (
 
 
 
-#line 3078 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3078 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
  
@@ -162205,7 +161175,7 @@ RpcMgmtSetAuthorizationFn (
       RPC_MGMT_AUTHORIZATION_FN AuthorizationFn
     );
 
-#line 3112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -162218,9 +161188,9 @@ __stdcall
 RpcExceptionFilter (
       unsigned long ExceptionCode
     );
-#line 3125 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
-#line 3127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -162239,11 +161209,11 @@ RpcExceptionFilter (
 
 
 
-#line 3146 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
-#line 3150 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162274,7 +161244,7 @@ typedef struct
 
 
 
-#line 3181 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162285,7 +161255,7 @@ typedef struct
 
 
 
-#line 3192 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 typedef struct 
@@ -162324,7 +161294,7 @@ typedef struct
 
 
 
-#line 3231 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162343,7 +161313,7 @@ typedef struct
 
 
 
-#line 3250 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162391,7 +161361,7 @@ RpcServerInterfaceGroupCreateA (
 
 
 
-#line 3298 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
@@ -162410,7 +161380,7 @@ RpcServerInterfaceGroupCreateA (
 
 
 
-#line 3317 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3317 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 RPC_STATUS
@@ -162442,18 +161412,18 @@ RpcServerInterfaceGroupInqBindings (
      RPC_BINDING_VECTOR  *  * BindingVector
     );
 
-#line 3349 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
-#line 3352 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3352 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma endregion
 
 
 #pragma warning(pop)
-#line 3357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162479,7 +161449,7 @@ RpcServerInterfaceGroupInqBindings (
 
 
 #pragma once
-#line 27 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162489,7 +161459,7 @@ RpcServerInterfaceGroupInqBindings (
 #pragma warning(push)
 #pragma warning(disable:4668) 
 #pragma warning(disable:4820) 
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 #pragma region Application Family or OneCore Family or Games Family
 
@@ -162519,7 +161489,7 @@ typedef struct _RPC_MESSAGE
     unsigned long RpcFlags;
 } RPC_MESSAGE,  * PRPC_MESSAGE;
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -162545,7 +161515,7 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
                          void * arg
                         );
 
-#line 93 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -162562,13 +161532,10 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
 
 
 
-#line 110 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
-
-
-
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162578,10 +161545,10 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
 
 
 
-#line 126 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
 
 
 
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162600,7 +161567,10 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
 
 
 
-#line 148 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+
+
+
+#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162612,17 +161582,12 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
 
 
 
-#line 160 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 160 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
 
-#line 165 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
-
-
-
-
-
+#line 165 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162630,7 +161595,12 @@ __stdcall RPC_ADDRESS_CHANGE_FN(
 
 
 
-#line 178 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+
+
+
+
+
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -162685,7 +161655,7 @@ typedef struct _RPC_CLIENT_INTERFACE
     unsigned int Flags ;
 } RPC_CLIENT_INTERFACE,  * PRPC_CLIENT_INTERFACE;
 
-#line 233 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 233 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -162698,7 +161668,7 @@ __stdcall
 I_RpcNegotiateTransferSyntax (
       RPC_MESSAGE  * Message
     );
-#line 246 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
  
@@ -162983,7 +161953,7 @@ I_RpcBindingInqSecurityContextKeyInfo (
       void *KeyInfo
     );
 
-#line 531 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 531 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 RPC_STATUS
@@ -163002,7 +161972,7 @@ I_RpcBindingInqMarshalledTargetInfo (
       unsigned long * MarshalledTargetInfoSize,
      RPC_CSTR * MarshalledTargetInfo
     );
-#line 550 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 550 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163020,7 +161990,7 @@ I_RpcBindingHandleToAsyncHandle (
      RPC_BINDING_HANDLE Binding,
      void **AsyncHandle
     );
-#line 568 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163099,7 +162069,7 @@ I_RpcServerUseProtseq2A (
 
 
 
-#line 647 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163134,7 +162104,7 @@ I_RpcServerUseProtseq2A (
 
 
 
-#line 682 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 682 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 RPC_STATUS
@@ -163169,7 +162139,7 @@ I_RpcBindingInqDynamicEndpointA (
 
 
 
-#line 717 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 717 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163182,7 +162152,7 @@ I_RpcBindingInqDynamicEndpointA (
 
 
 
-#line 730 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 730 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163191,7 +162161,7 @@ __stdcall
 I_RpcServerCheckClientRestriction (
      RPC_BINDING_HANDLE Context
     );
-#line 739 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163350,7 +162320,7 @@ __stdcall
 I_RpcTurnOnEEInfoPropagation (
     void
     );
-#line 898 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 898 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
  
@@ -163459,8 +162429,8 @@ I_RpcServerUnregisterEndpointW (
 
 
 
-#line 1007 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
-#line 1008 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1007 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
+#line 1008 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 RPC_STATUS
@@ -163511,7 +162481,7 @@ typedef struct _RDR_CALLOUT_STATE
                                   
                                   
 } RDR_CALLOUT_STATE;
-#line 1059 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1059 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 typedef RPC_STATUS
@@ -163561,7 +162531,7 @@ typedef RPC_STATUS
           UUID *ResourceId
         );
 
-#line 1109 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 typedef RPC_STATUS
@@ -163604,7 +162574,7 @@ typedef void
       int IsConnectEvent
     );
 
-#line 1152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163622,7 +162592,7 @@ typedef struct tagI_RpcProxyCallbackInterface
     I_RpcProxyFilterIfFn ProxyFilterIfFn;
     I_RpcProxyUpdatePerfCounterFn RpcProxyUpdatePerfCounterFn;
     I_RpcProxyUpdatePerfCounterBackendServerFn RpcProxyUpdatePerfCounterBackendServerFn;
-#line 1170 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 } I_RpcProxyCallbackInterface;
 
 
@@ -163657,9 +162627,9 @@ I_RpcProxyNewConnection (
 
 
 
-#line 1205 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1205 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
-#line 1207 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163678,7 +162648,7 @@ I_RpcRecordCalloutFailure (
      RDR_CALLOUT_STATE *CallOutState,
      unsigned short *DllName
     );
-#line 1226 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1226 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163687,7 +162657,7 @@ __stdcall
 I_RpcMgmtEnableDedicatedThreadPool (
     void
     );
-#line 1235 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1235 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163696,7 +162666,7 @@ __stdcall
 I_RpcGetDefaultSD(
       void  ** ppSecurityDescriptor
     );
-#line 1244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1244 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163707,7 +162677,7 @@ I_RpcOpenClientProcess(
       unsigned long DesiredAccess,
      void** ClientProcess
     );
-#line 1255 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1255 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163729,7 +162699,7 @@ I_RpcBindingSetPrivateOption (
 
 
 
-#line 1277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 RPC_STATUS
@@ -163753,7 +162723,7 @@ I_RpcServerDisableExceptionFilter (
     void
     );
 
-#line 1301 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1301 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 RPC_STATUS
@@ -163771,14 +162741,14 @@ I_RpcServerUnsubscribeForDisconnectNotification (
       UUID SubscriptionId
     );
 
-#line 1319 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
-#line 1321 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1321 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 #pragma endregion
 
 
 #pragma warning(pop)
-#line 1326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
 
 
@@ -163786,26 +162756,26 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 1334 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
-#line 1336 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 
-#line 1338 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdcep.h"
+#line 1338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdcep.h"
 #pragma external_header(pop)
-#line 3359 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 
 
 
 
 
-#line 3365 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcdce.h"
+#line 3365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcdce.h"
 #pragma external_header(pop)
-#line 157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
-#line 160 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 160 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
@@ -163824,7 +162794,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 #pragma once
-#line 20 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
@@ -163832,7 +162802,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 #pragma warning(push)
 #pragma warning(disable:4668) 
-#line 28 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 #pragma region Desktop Family or OneCore Family
 
@@ -163865,478 +162835,478 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 61 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 72 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 77 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 82 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 92 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 97 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 97 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 102 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 107 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 107 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 132 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 147 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 162 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 162 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 167 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 177 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 182 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 192 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 197 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 202 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 202 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 207 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 212 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 217 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 222 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 222 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 227 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 232 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 237 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 242 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 252 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 257 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 257 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 262 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 262 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 267 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 272 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 282 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 287 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 287 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 292 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 297 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 302 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 302 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 307 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 312 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 317 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 317 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 322 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 327 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 327 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 332 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 337 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 342 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 342 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 347 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 352 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 352 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 362 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 362 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 367 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 372 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 377 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 377 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 382 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 387 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 392 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 392 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 397 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 402 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 407 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 412 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 412 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 417 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 422 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 427 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 432 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 432 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 437 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 447 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 447 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 452 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 452 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 457 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 457 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 462 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 467 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 467 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 472 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 472 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 477 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 482 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 482 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 487 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 487 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 492 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 492 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 497 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 502 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 507 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 512 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 512 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 517 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 522 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 522 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 527 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 527 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
 
-#line 532 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 532 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
 
 
@@ -164358,22 +163328,22 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 554 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
-#line 556 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 #pragma endregion
 
 
 #pragma warning(pop)
-#line 561 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 
-#line 563 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcnterr.h"
+#line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcnterr.h"
 #pragma external_header(pop)
-#line 161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
-#line 165 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 165 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 #pragma region Application Family or OneCore Family
 
@@ -164413,10 +163383,10 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 205 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 205 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 #pragma endregion
 
-#line 208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
@@ -164428,7 +163398,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -164451,11 +163421,11 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 #pragma once
-#line 24 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 24 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
 
@@ -164484,14 +163454,14 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 #pragma pack(push,8)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 #pragma external_header(pop)
-#line 27 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
-#line 28 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -164505,14 +163475,14 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 42 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 
 
@@ -164537,7 +163507,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164562,7 +163532,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 26 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164576,7 +163546,7 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164638,19 +163608,19 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 102 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
 
 
 
-#line 109 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
-#line 114 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
+#line 114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164677,13 +163647,13 @@ I_RpcServerUnsubscribeForDisconnectNotification (
 
 
 
-#line 141 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
 
-#line 146 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
-#line 147 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164737,7 +163707,7 @@ typedef LONG_PTR            LRESULT;
 
 
 
-#line 201 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 201 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164757,7 +163727,7 @@ typedef HANDLE              LOCALHANDLE;
 
 #pragma warning(push)
 #pragma warning(disable:4255) 
-#line 221 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 typedef INT_PTR ( __stdcall *FARPROC)();
@@ -164767,20 +163737,20 @@ typedef INT_PTR (__stdcall *PROC)();
 
 
 
-#line 231 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
 
-#line 236 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 236 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 #pragma warning(pop)
-#line 239 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
 
-#line 244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 244 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 typedef WORD                ATOM;   
 
@@ -164802,7 +163772,7 @@ struct HKL__{int unused;}; typedef struct HKL__ *HKL;
 typedef int HFILE;
 
 
-#line 266 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 266 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 
 
@@ -164818,13 +163788,13 @@ typedef struct _FILETIME {
 
 
 
-#line 282 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 #pragma endregion
 
-#line 285 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\minwindef.h"
+#line 285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\minwindef.h"
 
 #pragma external_header(pop)
-#line 25 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 
 
@@ -164842,7 +163812,7 @@ typedef struct _FILETIME {
 struct HWND__{int unused;}; typedef struct HWND__ *HWND;
 struct HHOOK__{int unused;}; typedef struct HHOOK__ *HHOOK;
 
-#line 43 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 43 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
 
@@ -164856,7 +163826,7 @@ struct HHOOK__{int unused;}; typedef struct HHOOK__ *HHOOK;
 
 
 
-#line 57 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 57 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 #pragma region Application Family
 
@@ -164866,42 +163836,42 @@ struct HHOOK__{int unused;}; typedef struct HHOOK__ *HHOOK;
 typedef void * HGDIOBJ;
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
-#line 68 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
+#line 68 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 
 struct HACCEL__{int unused;}; typedef struct HACCEL__ *HACCEL;
-#line 72 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 struct HBITMAP__{int unused;}; typedef struct HBITMAP__ *HBITMAP;
 struct HBRUSH__{int unused;}; typedef struct HBRUSH__ *HBRUSH;
-#line 76 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 76 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 struct HCOLORSPACE__{int unused;}; typedef struct HCOLORSPACE__ *HCOLORSPACE;
-#line 79 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 struct HDC__{int unused;}; typedef struct HDC__ *HDC;
-#line 82 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 struct HGLRC__{int unused;}; typedef struct HGLRC__ *HGLRC;          
 struct HDESK__{int unused;}; typedef struct HDESK__ *HDESK;
 struct HENHMETAFILE__{int unused;}; typedef struct HENHMETAFILE__ *HENHMETAFILE;
 
 struct HFONT__{int unused;}; typedef struct HFONT__ *HFONT;
-#line 88 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 struct HICON__{int unused;}; typedef struct HICON__ *HICON;
 
 struct HMENU__{int unused;}; typedef struct HMENU__ *HMENU;
-#line 92 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 struct HPALETTE__{int unused;}; typedef struct HPALETTE__ *HPALETTE;
 struct HPEN__{int unused;}; typedef struct HPEN__ *HPEN;
-#line 96 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 
 struct HWINEVENTHOOK__{int unused;}; typedef struct HWINEVENTHOOK__ *HWINEVENTHOOK;
-#line 100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
-#line 102 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
 
@@ -164912,20 +163882,20 @@ struct HWINEVENTHOOK__{int unused;}; typedef struct HWINEVENTHOOK__ *HWINEVENTHO
 
 struct HMONITOR__{int unused;}; typedef struct HMONITOR__ *HMONITOR;
 
-#line 113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
-#line 116 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 116 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 #pragma region Desktop Family
 
 
 struct HUMPD__{int unused;}; typedef struct HUMPD__ *HUMPD;
 
-#line 123 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 123 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
-#line 126 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 #pragma region Application Family
 
@@ -164934,11 +163904,11 @@ struct HUMPD__{int unused;}; typedef struct HUMPD__ *HUMPD;
 typedef HICON HCURSOR;      
 
 
-#line 135 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 typedef DWORD   COLORREF;
 
-#line 139 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
 #pragma region Desktop Family
@@ -164948,7 +163918,7 @@ typedef DWORD   *LPCOLORREF;
 
 
 
-#line 149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
 #pragma region Application Family or Games Family
@@ -165003,7 +163973,7 @@ typedef struct tagPOINTS
 
 
 
-#line 204 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 } POINTS, *PPOINTS, *LPPOINTS;
 
 
@@ -165012,7 +163982,7 @@ typedef struct APP_LOCAL_DEVICE_ID
     BYTE value[32];
 } APP_LOCAL_DEVICE_ID;
 
-#line 213 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 #pragma endregion
 
 
@@ -165077,19 +164047,19 @@ typedef enum DPI_HOSTING_BEHAVIOR {
     DPI_HOSTING_BEHAVIOR_MIXED       = 1
 } DPI_HOSTING_BEHAVIOR;
 
-#line 278 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 278 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
-#line 280 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windef.h"
+#line 280 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windef.h"
 
 #pragma external_header(pop)
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
-#line 50 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 55 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -165102,7 +164072,7 @@ enum _RPC_NOTIFICATION_TYPES
 
 
 
-#line 68 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 68 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
     RpcNotificationTypeCallback
 } RPC_NOTIFICATION_TYPES;
 
@@ -165125,7 +164095,7 @@ enum _RPC_ASYNC_EVENT {
 
 
 
-#line 91 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 91 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 struct _RPC_ASYNC_STATE;
 
@@ -165170,7 +164140,7 @@ typedef union _RPC_ASYNC_NOTIFICATION_INFO {
 
 
 
-#line 136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
     
@@ -165178,12 +164148,12 @@ typedef union _RPC_ASYNC_NOTIFICATION_INFO {
 
 
 
-#line 144 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 144 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
     
     
     
     PKEVENT Event;
-    #line 149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+    #line 149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
     
     
@@ -165223,7 +164193,7 @@ typedef struct _RPC_ASYNC_STATE {
 
 
 
-#line 189 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
  
@@ -165315,7 +164285,7 @@ typedef struct tagRPC_EE_INFO_PARAM
 
 
 
-#line 281 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 typedef struct tagRPC_EXTENDED_ERROR_INFO
 {
@@ -165327,9 +164297,9 @@ typedef struct tagRPC_EXTENDED_ERROR_INFO
 
 
 
-#line 293 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 293 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
         LARGE_INTEGER KernelTime;
-#line 295 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 295 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
         } u;
     ULONG GeneratingComponent;
     ULONG Status;
@@ -165416,13 +164386,13 @@ RpcErrorClearInformation (
     void
     );
 
-#line 382 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
 
 
-#line 388 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -165728,11 +164698,11 @@ RpcErrorClearInformation (
 
 
 
-#line 694 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 694 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
  
 
 
-#line 698 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 698 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -165754,16 +164724,16 @@ RpcBindingUnbind (
       RPC_BINDING_HANDLE Binding
     );
 
-#line 720 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
-#line 723 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
 
 
-#line 729 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 729 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -165787,7 +164757,7 @@ __stdcall
 I_RpcExceptionFilter (
       unsigned long ExceptionCode
     );
-#line 753 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 753 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 
@@ -165801,13 +164771,13 @@ I_RpcBindingInqClientTokenAttributes (
       LUID * ModifiedId
     );
     
-#line 767 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 
 #pragma warning(pop)
-#line 771 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
-#line 773 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 773 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 #pragma endregion
 
 
@@ -165816,7 +164786,7 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -165848,25 +164818,25 @@ I_RpcBindingInqClientTokenAttributes (
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
-#line 781 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
-#line 782 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 781 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
+#line 782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
-#line 784 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcasync.h"
+#line 784 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcasync.h"
 
 #pragma external_header(pop)
-#line 219 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
-#line 221 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -165898,25 +164868,25 @@ I_RpcBindingInqClientTokenAttributes (
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
-#line 224 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
-#line 225 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 224 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
+#line 225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 
 
 
 
-#line 231 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpc.h"
+#line 231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpc.h"
 
 #pragma external_header(pop)
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -165937,7 +164907,7 @@ I_RpcBindingInqClientTokenAttributes (
 #pragma warning(disable:4255) 
 #pragma warning(disable:4668) 
 #pragma warning(disable:4820) 
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -165945,7 +164915,7 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -165953,18 +164923,18 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 #pragma once
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
     
 
-#line 43 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 44 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 43 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
 
@@ -165993,20 +164963,20 @@ I_RpcBindingInqClientTokenAttributes (
 #pragma pack(push,8)
 
 
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pshpack8.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pshpack8.h"
 #pragma external_header(pop)
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
-#line 52 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcsal.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcsal.h"
 
 
 
@@ -166148,13 +165118,13 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 
-#line 143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcsal.h"
+#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcsal.h"
 
 
     
 
-#line 148 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcsal.h"
-#line 149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcsal.h"
+#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcsal.h"
+#line 149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcsal.h"
 
 
 
@@ -166338,7 +165308,7 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 #pragma external_header(pop)
-#line 54 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 54 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -166406,13 +165376,10 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 
-#line 122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
-#line 125 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-
-
-
+#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -166420,67 +165387,70 @@ I_RpcBindingInqClientTokenAttributes (
 
 
 
-#line 136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+
+
+
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 148 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 154 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 160 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 160 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 166 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 166 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 178 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 184 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 190 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
 
-#line 196 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -166500,9 +165470,9 @@ typedef unsigned char boolean;
 
 
 
-#line 216 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-#line 218 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -166557,7 +165527,7 @@ void __stdcall I_RpcDefaultFree(
 
 
 
-#line 273 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 273 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -166756,7 +165726,7 @@ RpcSsDestroyClientContext (
 
 
 
-#line 472 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 472 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -167094,7 +166064,7 @@ typedef struct _MIDL_STUB_MESSAGE
 
     void *                             ContextHandleHash;
     void *                             pUserMarshalList;
-    unsigned char *                    pFullPtrFormat;
+    INT_PTR                         Reserved51_3;
     INT_PTR                         Reserved51_4;
     INT_PTR                         Reserved51_5;
 
@@ -167141,7 +166111,7 @@ typedef struct __GENERIC_BINDING_INFO
 
 
 
-#line 857 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 857 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 typedef void ( __stdcall * XMIT_HELPER_ROUTINE)
     ( PMIDL_STUB_MESSAGE );
@@ -167382,9 +166352,9 @@ typedef void  * PMIDL_XMIT_TYPE;
 
 
 #pragma warning(push)
-#line 1098 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 1098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma warning( disable:4200 )
-#line 1100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 1100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 typedef struct _MIDL_FORMAT_STRING
     {
     short               Pad;
@@ -167395,9 +166365,9 @@ typedef struct _MIDL_FORMAT_STRING
 #pragma warning(pop)
 
 
-#line 1111 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 1112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 1113 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 1111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 1112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 1113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -167408,7 +166378,7 @@ typedef void ( __stdcall * STUB_THUNK)( PMIDL_STUB_MESSAGE );
 typedef long ( __stdcall * SERVER_ROUTINE)();
 
 
-#line 1124 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 1124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -168896,9 +167866,9 @@ NdrAsyncClientCall(
 
 
 
-#line 2612 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2612 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-#line 2614 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -168920,9 +167890,9 @@ NdrDcomAsyncClientCall(
 
 
 
-#line 2636 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2636 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-#line 2638 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -168966,7 +167936,7 @@ NdrAsyncStubCall(
     unsigned long *             pdwStubPhase
     );
 
-#line 2682 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2682 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -168983,7 +167953,7 @@ NdrDcomAsyncStubCall(
     unsigned long            *  pdwStubPhase
     );
 
-#line 2699 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 2699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -169332,7 +168302,7 @@ NdrOleFree (
 
 
 
-#line 3048 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3048 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -169365,27 +168335,18 @@ NdrOleFree (
 
 
 
-#line 3081 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3081 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-#line 3083 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 3084 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-
-
-
-
-#line 3089 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-
-#line 3091 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 3092 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 3084 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
+#line 3089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-
-
-
-#line 3101 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 3092 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -169394,16 +168355,25 @@ NdrOleFree (
 
 
 
-
-#line 3111 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-
+#line 3101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
 
-#line 3117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
 
-#line 3119 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+
+
+
+
+#line 3111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+
+
+
+
+
+#line 3117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+
+#line 3119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 
@@ -169422,9 +168392,9 @@ typedef struct _NDR_USER_MARSHAL_INFO_LEVEL1
 
 
 #pragma warning(push)
-#line 3138 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma warning(disable:4201)
-#line 3140 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 typedef struct _NDR_USER_MARSHAL_INFO
 {
@@ -169439,8 +168409,8 @@ typedef struct _NDR_USER_MARSHAL_INFO
 #pragma warning(pop)
 
 
-#line 3155 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
-#line 3156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
+#line 3156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 RPC_STATUS
@@ -169478,7 +168448,7 @@ Ndr64AsyncClientCall(
     ...
     );
 
-#line 3194 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -169499,7 +168469,7 @@ Ndr64AsyncServerCall(
     PRPC_MESSAGE                pRpcMsg
     );
 
-#line 3215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -169531,7 +168501,7 @@ Ndr64AsyncStubCall(
     unsigned long *             pdwStubPhase
     );
 
-#line 3247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -169548,7 +168518,7 @@ Ndr64DcomAsyncStubCall(
     unsigned long            *  pdwStubPhase
     );
 
-#line 3264 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family
@@ -169625,7 +168595,7 @@ NdrPartialIgnoreServerInitialize(
 void __stdcall
 RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
-#line 3341 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma endregion
 
 
@@ -169633,7 +168603,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
 
@@ -169665,21 +168635,21 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 #pragma pack(pop)
 
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 
 
-#line 36 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\poppack.h"
+#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\poppack.h"
 #pragma external_header(pop)
-#line 3348 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3348 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
-#line 3350 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3350 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 
 
 #pragma warning(pop)
-#line 3354 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\rpcndr.h"
+#line 3354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\rpcndr.h"
 #pragma external_header(pop)
-#line 23 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
@@ -169691,7 +168661,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
@@ -169705,55 +168675,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-
-
-
-
-
-
-
-
-
- 
-
-
-#pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -169787,7 +168709,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -169801,7 +168723,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
@@ -169835,7 +168757,55 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
+
+
+
+
+
+
+
+
+
+ 
+
+
+#pragma external_header(push)
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#pragma once
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -169850,7 +168820,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -169907,7 +168877,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 
-#line 58 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -169916,7 +168886,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -170057,7 +169027,7 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma external_header(pop)
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170075,11 +169045,11 @@ RpcUserFree( handle_t AsyncHandle, void * pBuffer );
 
 
 #pragma once
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 71 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 extern RPC_IF_HANDLE __MIDL_itf_wtypesbase_0000_0000_v0_0_c_ifspec;
@@ -170132,7 +169102,7 @@ extern RPC_IF_HANDLE __MIDL_itf_wtypesbase_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 124 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 typedef WCHAR OLECHAR;
 
@@ -170148,7 +169118,7 @@ typedef     const OLECHAR *LPCOLESTR;
 
 
 
-#line 140 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170198,7 +169168,7 @@ typedef double DOUBLE;
 
 
 
-#line 190 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170231,7 +169201,7 @@ typedef struct _SYSTEMTIME *PSYSTEMTIME;
 
 typedef struct _SYSTEMTIME *LPSYSTEMTIME;
 
-#line 223 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 typedef struct _SECURITY_ATTRIBUTES
@@ -170245,7 +169215,7 @@ typedef struct _SECURITY_ATTRIBUTES *PSECURITY_ATTRIBUTES;
 
 typedef struct _SECURITY_ATTRIBUTES *LPSECURITY_ATTRIBUTES;
 
-#line 237 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170278,7 +169248,7 @@ typedef struct _SECURITY_ATTRIBUTES *LPSECURITY_ATTRIBUTES;
 
 
 
-#line 270 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 typedef struct _COAUTHIDENTITY
     {
      USHORT *User;
@@ -170332,7 +169302,7 @@ typedef SCODE *PSCODE;
 
 
 
-#line 324 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 typedef 
 enum tagMEMCTX
     {
@@ -170346,7 +169316,7 @@ enum tagMEMCTX
 
 
 
-#line 338 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170364,9 +169334,7 @@ enum tagMEMCTX
 
 
 
-
-#line 357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
-
+#line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170374,7 +169342,8 @@ enum tagMEMCTX
 
 
 
-#line 366 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 typedef 
 enum tagCLSCTX
     {
@@ -170524,7 +169493,7 @@ typedef struct _HYPER_SIZEDARR
 
 extern RPC_IF_HANDLE IWinTypesBase_v0_1_c_ifspec;
 extern RPC_IF_HANDLE IWinTypesBase_v0_1_s_ifspec;
-#line 516 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 515 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
  
@@ -170543,7 +169512,7 @@ typedef struct tagBLOB
 
 typedef struct tagBLOB *LPBLOB;
 
-#line 535 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 534 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 
@@ -170577,7 +169546,7 @@ typedef struct tagBLOB *LPBLOB;
 
 
 #pragma warning(pop)
-#line 569 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 extern RPC_IF_HANDLE __MIDL_itf_wtypesbase_0000_0001_v0_0_c_ifspec;
@@ -170591,11 +169560,11 @@ extern RPC_IF_HANDLE __MIDL_itf_wtypesbase_0000_0001_v0_0_s_ifspec;
 
 
 
-#line 583 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypesbase.h"
+#line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypesbase.h"
 
 
 #pragma external_header(pop)
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
@@ -170613,11 +169582,11 @@ extern RPC_IF_HANDLE __MIDL_itf_wtypesbase_0000_0001_v0_0_s_ifspec;
 
 
 #pragma once
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 70 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 extern RPC_IF_HANDLE __MIDL_itf_wtypes_0000_0000_v0_0_c_ifspec;
@@ -170840,7 +169809,7 @@ typedef struct tagRemBRUSH
 
 
 
-#line 293 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 293 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 typedef struct tagPALETTEENTRY
@@ -170855,7 +169824,7 @@ typedef struct tagPALETTEENTRY *PPALETTEENTRY;
 
 typedef struct tagPALETTEENTRY *LPPALETTEENTRY;
 
-#line 308 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 typedef struct tagLOGPALETTE
@@ -170869,7 +169838,7 @@ typedef struct tagLOGPALETTE *PLOGPALETTE;
 
 typedef struct tagLOGPALETTE *LPLOGPALETTE;
 
-#line 322 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
@@ -170891,16 +169860,16 @@ typedef struct tagLOGPALETTE *LPLOGPALETTE;
 
 
 
-#line 344 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 344 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
 
-#line 349 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
-#line 353 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef 
 enum tagDVASPECT
     {
@@ -170942,12 +169911,12 @@ typedef  void *HCONTEXT;
 
 typedef DWORD LCID;
 
-#line 395 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 typedef USHORT LANGID;
 
-#line 400 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
@@ -171118,7 +170087,7 @@ typedef     RemotableHandle *wireHMONITOR;
 
 
 
-#line 571 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 571 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 typedef struct tagTEXTMETRICW
@@ -171149,7 +170118,7 @@ typedef struct tagTEXTMETRICW *PTEXTMETRICW;
 
 typedef struct tagTEXTMETRICW *LPTEXTMETRICW;
 
-#line 602 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 602 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 
@@ -171193,14 +170162,14 @@ typedef     userHMETAFILEPICT *wireHMETAFILEPICT;
 
 
 
-#line 646 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef  void *HMETAFILEPICT;
 
 
 
 extern RPC_IF_HANDLE IWinTypes_v0_1_c_ifspec;
 extern RPC_IF_HANDLE IWinTypes_v0_1_s_ifspec;
-#line 653 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 653 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
  
@@ -171208,9 +170177,9 @@ extern RPC_IF_HANDLE IWinTypes_v0_1_s_ifspec;
 
 
 #pragma warning(push)
-#line 661 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 661 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 #pragma warning(disable:4201)
-#line 663 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef double DATE;
 
 
@@ -171224,7 +170193,7 @@ typedef double DATE;
 
 
 
-#line 677 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 typedef union tagCY {
     struct {
@@ -171233,8 +170202,8 @@ typedef union tagCY {
     } ;
     LONGLONG int64;
 } CY;
-#line 686 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
-#line 687 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
+#line 687 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef CY *LPCY;
 
 
@@ -171249,7 +170218,7 @@ typedef CY *LPCY;
 
 
 
-#line 702 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 typedef struct tagDEC {
     USHORT wReserved;
@@ -171272,7 +170241,7 @@ typedef struct tagDEC {
 
 
 
-#line 725 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 725 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef DECIMAL *LPDECIMAL;
 
 
@@ -171280,8 +170249,8 @@ typedef DECIMAL *LPDECIMAL;
 #pragma warning(pop)
 
 
-#line 733 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
-#line 734 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 733 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
+#line 734 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef     FLAGGED_WORD_BLOB *wireBSTR;
 
 
@@ -171289,7 +170258,7 @@ typedef  OLECHAR *BSTR;
 
 
 
-#line 742 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 742 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef BSTR *LPBSTR;
 
 
@@ -171308,7 +170277,7 @@ typedef struct tagBSTRBLOB
 
 typedef struct tagBSTRBLOB *LPBSTRBLOB;
 
-#line 761 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 typedef struct tagCLIPDATA
@@ -171446,7 +170415,7 @@ typedef struct _tagpropertykey
     DWORD pid;
     } 	PROPERTYKEY;
 
-#line 899 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 typedef struct tagCSPLATFORM
     {
     DWORD dwPlatformId;
@@ -171501,7 +170470,7 @@ typedef  struct __MIDL___MIDL_itf_wtypes_0000_0001_0001
 
 
 #pragma warning(pop)
-#line 954 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 954 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 extern RPC_IF_HANDLE __MIDL_itf_wtypes_0000_0001_v0_0_c_ifspec;
@@ -171515,11 +170484,11 @@ extern RPC_IF_HANDLE __MIDL_itf_wtypes_0000_0001_v0_0_s_ifspec;
 
 
 
-#line 968 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\wtypes.h"
+#line 968 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\wtypes.h"
 
 
 #pragma external_header(pop)
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -171535,9 +170504,9 @@ extern RPC_IF_HANDLE __MIDL_itf_wtypes_0000_0001_v0_0_s_ifspec;
 
 
 #pragma warning(push)
-#line 64 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 #pragma warning(disable:4201)
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -171774,7 +170743,7 @@ enum FWP_VSWITCH_NETWORK_TYPE_
         FWP_VSWITCH_NETWORK_TYPE_EXTERNAL	= ( FWP_VSWITCH_NETWORK_TYPE_INTERNAL + 1 ) 
     } 	FWP_VSWITCH_NETWORK_TYPE;
 
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -171814,7 +170783,7 @@ typedef UINT32 FWP_ACTION_TYPE;
 
 
 
-#line 343 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 343 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -171839,9 +170808,9 @@ typedef UINT32 FWP_ACTION_TYPE;
 
 
 
-#line 368 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 369 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 370 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 368 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 typedef  
 enum FWP_FILTER_ENUM_TYPE_
     {
@@ -171858,7 +170827,7 @@ enum FWP_FILTER_ENUM_TYPE_
 
 
 
-#line 387 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 
@@ -171875,11 +170844,11 @@ enum FWP_FILTER_ENUM_TYPE_
 
 
 
-#line 404 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 405 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 406 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 407 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 408 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 406 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 408 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 typedef struct FWPM_DISPLAY_DATA0_
     {
      wchar_t *name;
@@ -171891,8 +170860,8 @@ typedef struct FWPM_DISPLAY_DATA0_
 #pragma warning(pop)
 
 
-#line 420 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 421 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 420 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 421 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 typedef struct IPSEC_VIRTUAL_IF_TUNNEL_INFO0_
     {
@@ -171900,8 +170869,8 @@ typedef struct IPSEC_VIRTUAL_IF_TUNNEL_INFO0_
     UINT64 trafficSelectorId;
     } 	IPSEC_VIRTUAL_IF_TUNNEL_INFO0;
 
-#line 429 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
-#line 430 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
+#line 430 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 #pragma endregion
 
 
@@ -171916,11 +170885,11 @@ extern RPC_IF_HANDLE __MIDL_itf_fwptypes_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 445 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwptypes.h"
+#line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwptypes.h"
 
 
 #pragma external_header(pop)
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
@@ -171936,9 +170905,9 @@ extern RPC_IF_HANDLE __MIDL_itf_fwptypes_0000_0000_v0_0_s_ifspec;
 
 
 #pragma warning(push)
-#line 64 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 #pragma warning(disable:4201)
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 typedef struct FWPS_FILTER_CONDITION0_
     {
     UINT16 fieldId;
@@ -171952,7 +170921,6 @@ typedef struct FWPS_ACTION0_
     FWP_ACTION_TYPE type;
     UINT32 calloutId;
     } 	FWPS_ACTION0;
-
 
 
 
@@ -171993,7 +170961,7 @@ typedef struct FWPS_FILTER1_
      FWPM_PROVIDER_CONTEXT1 *providerContext;
     } 	FWPS_FILTER1;
 
-#line 121 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 typedef struct FWPM_PROVIDER_CONTEXT2_ FWPM_PROVIDER_CONTEXT2;
 
@@ -172010,7 +170978,7 @@ typedef struct FWPS_FILTER2_
      FWPM_PROVIDER_CONTEXT2 *providerContext;
     } 	FWPS_FILTER2;
 
-#line 138 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 typedef struct FWPM_PROVIDER_CONTEXT3_ FWPM_PROVIDER_CONTEXT3;
 
@@ -172027,7 +170995,7 @@ typedef struct FWPS_FILTER3_
      FWPM_PROVIDER_CONTEXT3 *providerContext;
     } 	FWPS_FILTER3;
 
-#line 155 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 typedef struct FWPS_INCOMING_VALUE0_
     {
     FWP_VALUE0 value;
@@ -172086,9 +171054,9 @@ typedef struct FWPS_INBOUND_FRAGMENT_METADATA0_
 
 
 
-#line 214 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
-#line 215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
-#line 216 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
+#line 214 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 
@@ -172150,15 +171118,15 @@ typedef struct FWPS_ALE_ENDPOINT_ENUM_TEMPLATE0_
     FWP_CONDITION_VALUE0 remotePort;
     } 	FWPS_ALE_ENDPOINT_ENUM_TEMPLATE0;
 
-#line 278 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 #pragma warning(pop)
 
 
-#line 284 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
-#line 285 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
-#line 286 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 283 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
+#line 285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 #pragma endregion
 
 
@@ -172173,7 +171141,7 @@ extern RPC_IF_HANDLE __MIDL_itf_fwpstypes_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 301 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpstypes.h"
+#line 300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpstypes.h"
 
 
 #pragma external_header(pop)
@@ -172492,7 +171460,7 @@ typedef enum _NET_DEVICE_POWER_STATE
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netevent.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netevent.h"
 
 
 
@@ -179816,43 +178784,7 @@ typedef enum _NET_DEVICE_POWER_STATE
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 7361 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netevent.h"
+#line 7325 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netevent.h"
 
 #pragma external_header(pop)
 #line 227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
@@ -179913,7 +178845,7 @@ typedef PCUNICODE_STRING PCNDIS_STRING;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\types.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\types.h"
 
 
 #pragma once
@@ -179930,11 +178862,11 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 
-#line 18 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\types.h"
+#line 18 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\types.h"
 
 
 
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\types.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\types.h"
 #pragma endregion
 #pragma external_header(pop)
 #line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
@@ -180565,195 +179497,175 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 #pragma once
 
 
 
-#line 10 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 10 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 16 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 16 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 28 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 52 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 58 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 64 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 70 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 76 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 76 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 82 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 88 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 94 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 106 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
-#line 118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
 
 
+#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 125 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 131 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 155 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 167 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 173 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 173 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 179 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 185 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 191 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 197 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
+#line 197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
-#line 203 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
 
 
 
 
-
-#line 209 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
-
-
-
-
-
-#line 215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
-
-
-
-
-
-#line 221 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
-
-
-
-
-
-#line 227 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\version.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\version.h"
 
 
 
@@ -180862,9 +179774,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -180929,7 +179839,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma once
-#line 68 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 #pragma region App Family or OneCore Family or Games Family
@@ -180941,7 +179851,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 #pragma warning(push)
 #pragma warning(disable:4820) 
 
-#line 80 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 78 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma warning(disable:4201) 
 
@@ -180951,7 +179861,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 
 
@@ -180970,7 +179880,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipifcons.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipifcons.h"
 
 
 
@@ -180989,7 +179899,7 @@ typedef   int NDIS_STATUS, *PNDIS_STATUS;
 
 
 #pragma once
-#line 20 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipifcons.h"
+#line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipifcons.h"
 
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -181326,12 +180236,12 @@ typedef enum _INTERNAL_IF_OPER_STATUS {
 
 
 
-#line 357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipifcons.h"
+#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipifcons.h"
 #pragma endregion
 
-#line 360 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipifcons.h"
+#line 360 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipifcons.h"
 #pragma external_header(pop)
-#line 19 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 
 
@@ -181407,7 +180317,7 @@ typedef UINT32 NET_IF_COMPARTMENT_SCOPE, *PNET_IF_COMPARTMENT_SCOPE;
 
 
 typedef char __C_ASSERT__[((0x07ffffff) < (0x0fffffff))?1:-1];
-#line 95 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 95 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 typedef enum _NET_IF_RCV_ADDRESS_TYPE 
 {
@@ -181449,7 +180359,7 @@ typedef NET_IF_RCV_ADDRESS* PNET_IF_RCV_ADDRESS;
 
 typedef NET_IF_ALIAS_LH NET_IF_ALIAS;
 typedef NET_IF_ALIAS* PNET_IF_ALIAS;
-#line 137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 
 
@@ -181484,7 +180394,7 @@ typedef UINT16 NET_IFTYPE, *PNET_IFTYPE;
 
 
 
-#line 172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 typedef NET_IFINDEX IF_INDEX, *PIF_INDEX;
 
@@ -181615,7 +180525,7 @@ typedef IF_COUNTED_STRING* PIF_COUNTED_STRING;
 
 typedef IF_PHYSICAL_ADDRESS_LH IF_PHYSICAL_ADDRESS;
 typedef IF_PHYSICAL_ADDRESS* PIF_PHYSICAL_ADDRESS;
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 
 
@@ -181703,15 +180613,15 @@ typedef struct _NDIS_INTERFACE_INFORMATION
 
 
 
-#line 391 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 #pragma endregion
 
-#line 394 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ifdef.h"
+#line 394 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ifdef.h"
 
 #pragma external_header(pop)
-#line 89 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpkey.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpkey.h"
 
 
 
@@ -181740,7 +180650,7 @@ typedef struct _NDIS_INTERFACE_INFORMATION
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -181942,19 +180852,17 @@ typedef struct _NDIS_INTERFACE_INFORMATION
 
 
 
-#line 203 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
 
-#line 208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
-#line 210 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 #pragma endregion
 #pragma external_header(pop)
-#line 29 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpkey.h"
-
-
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpkey.h"
 
 
 
@@ -181962,8 +180870,6 @@ typedef struct _NDIS_INTERFACE_INFORMATION
 
 
 extern const DEVPROPKEY DEVPKEY_NAME;    
-
-
 
 
 
@@ -182008,11 +180914,7 @@ extern const DEVPROPKEY DEVPKEY_Device_BaseContainerId;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_InstanceId;   
-
-
 
 
 
@@ -182020,8 +180922,6 @@ extern const DEVPROPKEY DEVPKEY_Device_InstanceId;
 
 extern const DEVPROPKEY DEVPKEY_Device_DevNodeStatus;     
 extern const DEVPROPKEY DEVPKEY_Device_ProblemCode;     
-
-
 
 
 
@@ -182040,11 +180940,7 @@ extern const DEVPROPKEY DEVPKEY_Device_TransportRelations;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_ProblemStatus;     
-
-
 
 
 
@@ -182052,8 +180948,6 @@ extern const DEVPROPKEY DEVPKEY_Device_ProblemStatus;
 
 extern const DEVPROPKEY DEVPKEY_Device_Reported;  
 extern const DEVPROPKEY DEVPKEY_Device_Legacy;  
-
-
 
 
 
@@ -182067,11 +180961,7 @@ extern const DEVPROPKEY DEVPKEY_Device_InLocalMachineContainer;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_Model;    
-
-
 
 
 
@@ -182089,8 +180979,6 @@ extern const DEVPROPKEY DEVPKEY_Device_ShowInUninstallUI;
 
 extern const DEVPROPKEY DEVPKEY_Device_CompanionApps;    
 extern const DEVPROPKEY DEVPKEY_Device_PrimaryCompanionApp;    
-
-
 
 
 
@@ -182128,14 +181016,10 @@ extern const DEVPROPKEY DEVPKEY_Device_SessionId;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_InstallDate;   
 extern const DEVPROPKEY DEVPKEY_Device_FirstInstallDate;   
 extern const DEVPROPKEY DEVPKEY_Device_LastArrivalDate;   
 extern const DEVPROPKEY DEVPKEY_Device_LastRemovalDate;   
-
-
 
 
 
@@ -182160,8 +181044,6 @@ extern const DEVPROPKEY DEVPKEY_Device_DriverLogoLevel;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_NoConnectSound; 
 extern const DEVPROPKEY DEVPKEY_Device_GenericDriverInstalled; 
 extern const DEVPROPKEY DEVPKEY_Device_AdditionalSoftwareRequested; 
@@ -182169,12 +181051,8 @@ extern const DEVPROPKEY DEVPKEY_Device_AdditionalSoftwareRequested;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_Device_SafeRemovalRequired; 
 extern const DEVPROPKEY DEVPKEY_Device_SafeRemovalRequiredOverride; 
-
-
 
 
 
@@ -182193,8 +181071,6 @@ extern const DEVPROPKEY DEVPKEY_DrvPkg_BrandingIcon;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_DeviceClass_UpperFilters;    
 extern const DEVPROPKEY DEVPKEY_DeviceClass_LowerFilters;    
 extern const DEVPROPKEY DEVPKEY_DeviceClass_Security;    
@@ -182202,8 +181078,6 @@ extern const DEVPROPKEY DEVPKEY_DeviceClass_SecuritySDS;
 extern const DEVPROPKEY DEVPKEY_DeviceClass_DevType;    
 extern const DEVPROPKEY DEVPKEY_DeviceClass_Exclusive;    
 extern const DEVPROPKEY DEVPKEY_DeviceClass_Characteristics;    
-
-
 
 
 
@@ -182223,18 +181097,9 @@ extern const DEVPROPKEY DEVPKEY_DeviceClass_IconPath;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_DeviceClass_DHPRebalanceOptOut;    
 
-
-
-
-
-
 extern const DEVPROPKEY DEVPKEY_DeviceClass_ClassCoInstallers;     
-
-
 
 
 
@@ -182250,12 +181115,8 @@ extern const DEVPROPKEY DEVPKEY_DeviceInterface_SchematicName;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_DeviceInterfaceClass_DefaultInterface; 
 extern const DEVPROPKEY DEVPKEY_DeviceInterfaceClass_Name; 
-
-
 
 
 
@@ -182306,17 +181167,10 @@ extern const DEVPROPKEY DEVPKEY_DeviceContainer_PrivilegedPackageFamilyNames;
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_CustomPrivilegedPackageFamilyNames;   
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_IsRebootRequired;   
 
-
-
-
-
-
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_FriendlyName; 
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_Manufacturer;  
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_ModelName;  
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_ModelNumber;  
-
-
 
 extern const DEVPROPKEY DEVPKEY_DeviceContainer_InstallInProgress;     
 
@@ -182337,17 +181191,15 @@ extern const DEVPROPKEY DEVPKEY_DeviceContainer_InstallInProgress;
 
 
 
-
-
 extern const DEVPROPKEY DEVPKEY_DevQuery_ObjectType;   
 
-#line 418 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpkey.h"
+#line 360 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpkey.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 90 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pciprop.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pciprop.h"
 
 
 
@@ -182907,12 +181759,6 @@ extern const DEVPROPKEY (DEVPKEY_PciDevice_D3ColdSupport);
 
 
 
-extern const DEVPROPKEY (DEVPKEY_PciDevice_VirtualChannelControlRegisters);
-
-
-
-
-
 extern const DEVPROPKEY (DEVPKEY_PciDevice_SerialNumber);
 
 
@@ -182953,29 +181799,22 @@ extern const DEVPROPKEY (DEVPKEY_PciDevice_ParentSerialNumber);
 
 
 
-extern const DEVPROPKEY (DEVPKEY_PciDevice_SupportsDmwrOnEntireDeviceTree);
-
-
-
-
-
-
 extern const DEVPROPKEY (DEVPKEY_PciDevice_IsTunneledDevice);
 
-#line 616 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pciprop.h"
+#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pciprop.h"
 #pragma endregion
 
-#line 619 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\pciprop.h"
+#line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\pciprop.h"
 #pragma external_header(pop)
-#line 91 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-#line 92 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 89 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\ioctltypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\ioctltypes.h"
 
 
 #pragma once
@@ -183005,11 +181844,11 @@ extern const DEVPROPKEY (DEVPKEY_PciDevice_IsTunneledDevice);
 
 
 
-#line 31 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\ioctltypes.h"
+#line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\ioctltypes.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 98 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183057,7 +181896,7 @@ extern const DEVPROPKEY (DEVPKEY_PciDevice_IsTunneledDevice);
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\oidtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\oidtypes.h"
 
 
 #pragma once
@@ -183095,21 +181934,21 @@ typedef enum _NDIS_REQUEST_TYPE
     NdisRequestGeneric2,
     NdisRequestGeneric3,
     NdisRequestGeneric4,
-#line 39 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\oidtypes.h"
+#line 39 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\oidtypes.h"
 
     NdisRequestMethod = 12,
-#line 42 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\oidtypes.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\oidtypes.h"
 } NDIS_REQUEST_TYPE, *PNDIS_REQUEST_TYPE;
 
 
 
 
 
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\oidtypes.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\oidtypes.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 145 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183138,7 +181977,7 @@ typedef   struct _NDIS_STATISTICS_VALUE_EX
 } NDIS_STATISTICS_VALUE_EX;
 
 typedef NDIS_STATISTICS_VALUE_EX __unaligned *PNDIS_STATISTICS_VALUE_EX;
-#line 174 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183202,48 +182041,48 @@ typedef struct _NDIS_VAR_DATA_DESC
 
 
 
-#line 238 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 236 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 244 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 248 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 258 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+
+
+
+
+#line 256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 264 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 262 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 268 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 266 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 272 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\objectheader.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\objectheader.h"
 
 
 #pragma once
@@ -183272,7 +182111,7 @@ typedef struct _NDIS_OBJECT_HEADER
 
 
 typedef char __C_ASSERT__[(sizeof(NDIS_OBJECT_HEADER) == 4)?1:-1];
-#line 30 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\objectheader.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\objectheader.h"
 
 #pragma warning(pop)
 
@@ -183280,10 +182119,10 @@ typedef char __C_ASSERT__[(sizeof(NDIS_OBJECT_HEADER) == 4)?1:-1];
 
 
 
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\objectheader.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\objectheader.h"
 #pragma endregion
 #pragma external_header(pop)
-#line 278 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183363,7 +182202,7 @@ typedef struct _NDIS_STATISTICS_INFO
 
 
 
-#line 358 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183428,7 +182267,7 @@ typedef struct _NDIS_TIMEOUT_DPC_REQUEST_CAPABILITIES
 
 
 
-#line 423 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 421 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 {
@@ -183446,7 +182285,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
     UINT32                          PciExpressVersion;      
     UINT32                          InterruptType;          
     UINT32                          MaxInterruptMessages;
-#line 441 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 } NDIS_PCI_DEVICE_CUSTOM_PROPERTIES, *PNDIS_PCI_DEVICE_CUSTOM_PROPERTIES;
 
 
@@ -183455,9 +182294,9 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 450 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
-#line 452 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183544,12 +182383,12 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 539 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 537 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
-#line 544 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 542 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183565,7 +182404,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 560 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 558 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183610,7 +182449,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 605 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183629,7 +182468,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 624 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 622 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183651,14 +182490,14 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 646 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 
-#line 653 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183670,7 +182509,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 665 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183681,7 +182520,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 676 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 674 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183692,28 +182531,28 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 687 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 685 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 
-#line 694 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 692 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
-#line 699 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
-#line 704 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 708 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183729,7 +182568,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 724 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183801,7 +182640,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 796 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 794 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183812,7 +182651,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 807 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 805 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183864,7 +182703,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 859 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 857 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -183902,7 +182741,7 @@ typedef struct _NDIS_PCI_DEVICE_CUSTOM_PROPERTIES
 
 
 
-#line 897 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 895 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184476,14 +183315,14 @@ typedef enum _NDIS_802_11_AUTHENTICATION_MODE
     Ndis802_11AuthModeWPA3,
 
     Ndis802_11AuthModeWPA3Ent192 = Ndis802_11AuthModeWPA3,
-#line 1471 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
     Ndis802_11AuthModeWPA3SAE,
 
 
-#line 1475 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
     Ndis802_11AuthModeWPA3Ent,
-#line 1478 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
     Ndis802_11AuthModeMax               
 } NDIS_802_11_AUTHENTICATION_MODE, *PNDIS_802_11_AUTHENTICATION_MODE;
 
@@ -184811,7 +183650,7 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-#line 1806 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184820,9 +183659,9 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-#line 1815 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
-#line 1817 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184861,7 +183700,7 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-#line 1856 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1854 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184896,13 +183735,13 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-#line 1891 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1889 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 1897 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1895 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184917,13 +183756,13 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-#line 1912 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 1918 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 1916 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -184975,8 +183814,8 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
+#line 1968 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
-#line 1971 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
 
 
 
@@ -185015,12 +183854,12 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
+#line 2008 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-#line 2012 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-#line 2015 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
 
 
 
@@ -185044,9 +183883,9 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
+#line 2037 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-#line 2041 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
 
 
 
@@ -185082,9 +183921,7 @@ NDIS_802_11_RADIO_STATUS, *PNDIS_802_11_RADIO_STATUS;
 
 
 
-
-
-#line 2079 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -185141,7 +183978,7 @@ typedef struct NDIS_CO_DEVICE_PROFILE
 
 
 typedef ULONG   IPAddr, IPMask;
-#line 2136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 typedef ULONG   SPI_TYPE;
 
 typedef enum    _OFFLOAD_OPERATION_E
@@ -185294,12 +184131,12 @@ typedef enum _NDIS_MEDIUM
     NdisMediumTunnel,
     NdisMediumNative802_11,
     NdisMediumLoopback,
-#line 2289 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
     NdisMediumWiMAX,
     NdisMediumIP,
-#line 2294 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2290 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
     NdisMediumMax               
 } NDIS_MEDIUM, *PNDIS_MEDIUM;
@@ -185584,10 +184421,10 @@ typedef enum _NDIS_WAN_MEDIUM_SUBTYPE
 
     NdisWanMediumSSTP,
     NdisWanMediumAgileVPN,
-#line 2579 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2575 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
     NdisWanMediumGre,
-#line 2582 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
     NdisWanMediumSubTypeMax
 } NDIS_WAN_MEDIUM_SUBTYPE, *PNDIS_WAN_MEDIUM_SUBTYPE;
 
@@ -185685,7 +184522,7 @@ typedef struct _NDIS_LINK_SPEED
 
 
 
-#line 2680 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2676 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -185693,7 +184530,7 @@ typedef struct _NDIS_LINK_SPEED
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -185721,7 +184558,7 @@ typedef struct _NDIS_LINK_SPEED
 
 #pragma warning(push)
 #pragma warning(disable:4820) 
-#line 29 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -185738,7 +184575,7 @@ typedef struct _NDIS_LINK_SPEED
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 
 
 
@@ -185771,7 +184608,7 @@ typedef enum _DOT11_BSS_TYPE {
 typedef struct _DOT11_SSID {
 
      
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
     ULONG uSSIDLength;
     UCHAR ucSSID[32];
 } DOT11_SSID, * PDOT11_SSID;
@@ -185783,7 +184620,7 @@ typedef struct _DOT11_SSID {
 
 
 typedef enum _DOT11_AUTH_ALGORITHM {
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
     DOT11_AUTH_ALGO_80211_OPEN          = 1,
     DOT11_AUTH_ALGO_80211_SHARED_KEY    = 2,
     DOT11_AUTH_ALGO_WPA                 = 3,
@@ -185794,14 +184631,14 @@ typedef enum _DOT11_AUTH_ALGORITHM {
     DOT11_AUTH_ALGO_WPA3                = 8,               
 
     DOT11_AUTH_ALGO_WPA3_ENT_192        = DOT11_AUTH_ALGO_WPA3,
-#line 57 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 57 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
     DOT11_AUTH_ALGO_WPA3_SAE            = 9,
 
     DOT11_AUTH_ALGO_OWE                 = 10,
-#line 61 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 
     DOT11_AUTH_ALGO_WPA3_ENT            = 11,
-#line 64 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
     DOT11_AUTH_ALGO_IHV_START           = 0x80000000,
     DOT11_AUTH_ALGO_IHV_END             = 0xffffffff
 } DOT11_AUTH_ALGORITHM, * PDOT11_AUTH_ALGORITHM;
@@ -185816,21 +184653,21 @@ typedef enum _DOT11_AUTH_ALGORITHM {
 
 
 
-#line 79 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 
 
 
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 
 
-#line 86 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 
 
 
 
 
 typedef enum _DOT11_CIPHER_ALGORITHM {
-#line 93 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
     DOT11_CIPHER_ALGO_NONE = 0x00,
     DOT11_CIPHER_ALGO_WEP40 = 0x01,
     DOT11_CIPHER_ALGO_TKIP = 0x02,
@@ -185880,12 +184717,12 @@ typedef struct DOT11_VENUEINFO            {
 } DOT11_VENUEINFO, *PDOT11_VENUEINFO;
 
 
-#line 143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 #pragma endregion
 
-#line 146 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\WlanTypes.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\WlanTypes.h"
 #pragma external_header(pop)
-#line 45 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -185895,7 +184732,7 @@ typedef struct DOT11_VENUEINFO            {
 
     typedef UCHAR DOT11_MAC_ADDRESS[6];
     typedef DOT11_MAC_ADDRESS * PDOT11_MAC_ADDRESS;
-#line 55 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 typedef struct DOT11_BSSID_LIST {
@@ -185907,7 +184744,7 @@ typedef struct DOT11_BSSID_LIST {
 
 
     DOT11_MAC_ADDRESS BSSIDs[1];
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 } DOT11_BSSID_LIST, * PDOT11_BSSID_LIST;
 
 
@@ -185919,7 +184756,7 @@ typedef DOT11_HESSID* PDOT11_HESSID;
 
 
 typedef enum _DOT11_PHY_TYPE {
-#line 79 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     dot11_phy_type_unknown = 0,
     dot11_phy_type_any = dot11_phy_type_unknown,
     dot11_phy_type_fhss = 1,
@@ -185938,105 +184775,10 @@ typedef enum _DOT11_PHY_TYPE {
 } DOT11_PHY_TYPE, * PDOT11_PHY_TYPE;
 
 
-
-
-
-
-
-
-typedef enum
-{
-    rsna_akm_none                   = (0xac0f00 + (0 << 24)),
-    rsna_akm_1x                     = (0xac0f00 + (1 << 24)),        
-    rsna_akm_psk                    = (0xac0f00 + (2 << 24)),        
-    rsna_akm_ft_1x_sha256           = (0xac0f00 + (3 << 24)),        
-    rsna_akm_ft_psk_sha256          = (0xac0f00 + (4 << 24)),        
-    rsna_akm_1x_sha256              = (0xac0f00 + (5 << 24)),        
-    rsna_akm_psk_sha256             = (0xac0f00 + (6 << 24)),        
-    rsna_akm_tdls_sha256            = (0xac0f00 + (7 << 24)),        
-    rsna_akm_sae_pmk256             = (0xac0f00 + (8 << 24)),        
-    rsna_akm_ft_sae_pmk256          = (0xac0f00 + (9 << 24)),        
-    rsna_akm_peerkey_sha256         = (0xac0f00 + (10 << 24)),
-    rsna_akm_1x_suite_b_sha256      = (0xac0f00 + (11 << 24)),       
-    rsna_akm_1x_suite_b_sha384      = (0xac0f00 + (12 << 24)),       
-    rsna_akm_ft_1x_sha384_cmp_256   = (0xac0f00 + (13 << 24)),       
-    rsna_akm_fils_1x_sha256         = (0xac0f00 + (14 << 24)),
-    rsna_akm_fils_1x_sha384         = (0xac0f00 + (15 << 24)),
-    rsna_akm_ft_fils_1x_sha256      = (0xac0f00 + (16 << 24)),
-    rsna_akm_ft_fils_sha384         = (0xac0f00 + (17 << 24)),
-    rsna_akm_owe                    = (0xac0f00 + (18 << 24)),       
-    rsna_akm_ft_psk_sha384          = (0xac0f00 + (19 << 24)),       
-    rsna_akm_psk_sha384             = (0xac0f00 + (20 << 24)),       
-                                                                                    
-    rsna_akm_ft_1x_sha384           = (0xac0f00 + (22 << 24)),       
-    rsna_akm_1x_sha384              = (0xac0f00 + (23 << 24)),       
-    rsna_akm_sae_pmk384             = (0xac0f00 + (24 << 24)),       
-    rsna_akm_ft_sae_pmk384          = (0xac0f00 + (25 << 24)),       
-
-    rsna_akm_max = rsna_akm_ft_sae_pmk384,
-} RSNA_AKM_SUITE;
-
-
-typedef enum
-{
-    wpa_akm_none                    = (0xf25000 + (0 << 24)),
-    wpa_akm_1x                      = (0xf25000 + (1 << 24)),         
-    wpa_akm_psk                     = (0xf25000 + (2 << 24)),         
-
-    wpa_akm_max = wpa_akm_psk,
-} WPA_AKM_SUITE;
-
-
-
-typedef enum
-{
-    rsna_cipher_group               = (0xac0f00 + (0 << 24)),
-    rsna_cipher_wep40               = (0xac0f00 + (1 << 24)),
-    rsna_cipher_tkip                = (0xac0f00 + (2 << 24)),
-    rsna_cipher_reserved            = (0xac0f00 + (3 << 24)),
-    rsna_cipher_ccmp_128            = (0xac0f00 + (4 << 24)),
-    rsna_cipher_wep104              = (0xac0f00 + (5 << 24)),
-    rsna_cipher_bip_cmac_128        = (0xac0f00 + (6 << 24)),
-    rsna_cipher_no_group_traffic    = (0xac0f00 + (7 << 24)),
-    rsna_cipher_gcmp_128            = (0xac0f00 + (8 << 24)),
-    rsna_cipher_gcmp_256            = (0xac0f00 + (9 << 24)),
-    rsna_cipher_ccmp_256            = (0xac0f00 + (10 << 24)),
-    rsna_cipher_bip_gmac_128        = (0xac0f00 + (11 << 24)),
-    rsna_cipher_bip_gmac_256        = (0xac0f00 + (12 << 24)),
-    rsna_cipher_bip_cmac_256        = (0xac0f00 + (13 << 24)),
-
-    rsna_cipher_max = rsna_cipher_bip_cmac_256,
-} RSNA_CIPHER_SUITE;
-
-typedef enum
-{
-    wpa_cipher_none                 = (0xf25000 + (0 << 24)),
-    wpa_cipher_wep40                = (0xf25000 + (1 << 24)),
-    wpa_cipher_tkip                 = (0xf25000 + (2 << 24)),
-    wpa_cipher_ccmp_128             = (0xf25000 + (4 << 24)),
-    wpa_cipher_wep104               = (0xf25000 + (5 << 24)),
-    wpa_cipher_bip_cmac_128         = (0xf25000 + (6 << 24)),
-
-    wpa_cipher_max = wpa_cipher_bip_cmac_128,
-} WPA_CIPHER_SUITE;
-
-typedef struct
-{
-    RSNA_AKM_SUITE akm;
-    RSNA_CIPHER_SUITE cipher;
-} RSNA_AKM_CIPHER_PAIR;
-
-
 typedef struct _DOT11_RATE_SET {
       ULONG uRateSetLength;
       UCHAR ucRateSet[126];
 } DOT11_RATE_SET, * PDOT11_RATE_SET;
-
-typedef struct
-{
-    RSNA_AKM_SUITE akm;
-    RSNA_CIPHER_SUITE cipher;
-} DOT11_AKM_CIPHER_PAIR;
 
 typedef UCHAR DOT11_COUNTRY_OR_REGION_STRING[3];
 typedef DOT11_COUNTRY_OR_REGION_STRING * PDOT11_COUNTRY_OR_REGION_STRING;
@@ -186061,26 +184803,13 @@ typedef struct _DOT11_WFD_SESSION_INFO {
 
 
 
-#line 221 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
 
 
-#line 227 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
-
-
-
-
-
-
-    
-
-
-
-
-
-
+#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -186090,7 +184819,14 @@ typedef struct _DOT11_WFD_SESSION_INFO {
     
 
 
-    
+
+
+
+
+
+
+
+
 
 
     
@@ -186117,6 +184853,10 @@ typedef struct _DOT11_WFD_SESSION_INFO {
     
 
 
+    
+
+
+    
 
 
 
@@ -186148,7 +184888,9 @@ typedef struct _DOT11_WFD_SESSION_INFO {
 
 
 
-#line 308 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+
+
+#line 213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -186459,7 +185201,7 @@ typedef struct _DOT11_WFD_SESSION_INFO {
 
 
         UCHAR ucBuffer[1];              
-#line 619 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 524 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     } DOT11_BSS_DESCRIPTION, * PDOT11_BSS_DESCRIPTION;
     typedef struct _DOT11_JOIN_REQUEST {
         ULONG uJoinFailureTimeout;
@@ -187165,7 +185907,7 @@ typedef struct DOT11_BYTE_ARRAY {
         ULONG uBufferLength;
         UCHAR ucBuffer[1];			
     } DOT11_BSS_ENTRY, * PDOT11_BSS_ENTRY;
-#line 1325 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 1230 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
     
@@ -187188,7 +185930,7 @@ typedef struct DOT11_BYTE_ARRAY {
 
 
         DOT11_SSID SSIDs[1];
-#line 1348 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 1253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     } DOT11_SSID_LIST, * PDOT11_SSID_LIST;
 
 
@@ -187312,7 +186054,7 @@ typedef struct DOT11_BYTE_ARRAY {
 
 
         DOT11_PRIVACY_EXEMPTION PrivacyExemptionEntries[1];
-#line 1472 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 1377 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     } DOT11_PRIVACY_EXEMPTION_LIST, * PDOT11_PRIVACY_EXEMPTION_LIST;
 
 
@@ -187364,8 +186106,8 @@ typedef struct DOT11_BYTE_ARRAY {
 
 
 
-        UCHAR ucKey[1];                 
-#line 1525 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+        UCHAR ucKey[1];			
+#line 1430 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     } DOT11_CIPHER_DEFAULT_KEY_VALUE, * PDOT11_CIPHER_DEFAULT_KEY_VALUE;
     typedef struct DOT11_KEY_ALGO_TKIP_MIC {
         UCHAR ucIV48Counter[6];
@@ -187419,7 +186161,7 @@ typedef struct DOT11_BYTE_ARRAY {
 
 
         UCHAR ucKey[1];			
-#line 1579 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 1484 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     } DOT11_CIPHER_KEY_MAPPING_KEY_VALUE, * PDOT11_CIPHER_KEY_MAPPING_KEY_VALUE;
 
     
@@ -187512,7 +186254,7 @@ typedef struct DOT11_BYTE_ARRAY {
         
         NDIS_OBJECT_HEADER Header;
         ULONG uDataRateMappingLength;
-         
+          
             DOT11_DATA_RATE_MAPPING_ENTRY DataRateMappingEntries[126];
     } DOT11_DATA_RATE_MAPPING_TABLE, * PDOT11_DATA_RATE_MAPPING_TABLE;
     
@@ -187641,7 +186383,7 @@ typedef struct _DOT11_PER_MSDU_COUNTERS {
 
 
             DOT11_HRDSSS_PHY_ATTRIBUTES;
-        #line 1801 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+        #line 1706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
         BOOLEAN bERPPBCCOptionImplemented;
         BOOLEAN bDSSSOFDMOptionImplemented;
         BOOLEAN bShortSlotTimeOptionImplemented;
@@ -187691,7 +186433,7 @@ typedef struct _DOT11_PER_MSDU_COUNTERS {
 
 
         };
-        #line 1851 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+        #line 1756 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
         ULONG uNumberSupportedPowerLevels;
         ULONG TxPowerLevels[8];
 
@@ -187941,7 +186683,7 @@ struct DOT11_EXTSTA_ATTRIBUTES {
 
 
 
-#line 2101 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -188155,7 +186897,7 @@ typedef struct DOT11_ASSOCIATION_COMPLETION_PARAMETERS {
     
     DOT11_CIPHER_ALGORITHM MulticastMgmtCipher;
     ULONG uAssocComebackTime;
-#line 2315 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 } DOT11_ASSOCIATION_COMPLETION_PARAMETERS, * PDOT11_ASSOCIATION_COMPLETION_PARAMETERS;
 
 typedef struct DOT11_CONNECTION_START_PARAMETERS {
@@ -188282,7 +187024,7 @@ typedef struct DOT11_EXTSTA_SEND_CONTEXT {
 
 
     PVOID pvMediaSpecificInfo;
-#line 2442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
     ULONG uSendFlags;           
 } DOT11_EXTSTA_SEND_CONTEXT, * PDOT11_EXTSTA_SEND_CONTEXT;
@@ -188308,7 +187050,7 @@ typedef struct DOT11_EXTSTA_RECV_CONTEXT {
 
 
     PVOID pvMediaSpecificInfo;
-#line 2468 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2373 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
     ULONGLONG ullTimestamp;
 
@@ -188497,7 +187239,7 @@ extern const GUID  GUID_NWF_PERMANENT_ADDRESS;
 extern const GUID  GUID_NWF_MULTICAST_LIST;
 extern const GUID  GUID_NWF_MAXIMUM_LIST_SIZE;
 
-#line 2657 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2562 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -188607,25 +187349,25 @@ DOT11_EXTAP_ATTRIBUTES, *PDOT11_EXTAP_ATTRIBUTES;
 
         ULONG                       uStatus;
         UCHAR                       ucErrorSource;
-
+        
         BOOLEAN                     bReAssocReq;
         BOOLEAN                     bReAssocResp;
-
+        
         ULONG                       uAssocReqOffset;
         ULONG                       uAssocReqSize;
-
+        
         ULONG                       uAssocRespOffset;
         ULONG                       uAssocRespSize;
-
         
         
-
+        
+        
         DOT11_AUTH_ALGORITHM        AuthAlgo;
         DOT11_CIPHER_ALGORITHM      UnicastCipher;
         DOT11_CIPHER_ALGORITHM      MulticastCipher;
         ULONG                       uActivePhyListOffset;
         ULONG                       uActivePhyListSize;
-
+        
         ULONG                       uBeaconOffset;
         ULONG                       uBeaconSize;
     }
@@ -188640,7 +187382,7 @@ DOT11_EXTAP_ATTRIBUTES, *PDOT11_EXTAP_ATTRIBUTES;
     {
         NDIS_OBJECT_HEADER  Header;
         ULONG               ulReason;
-    }
+    } 
     DOT11_STOP_AP_PARAMETERS, *PDOT11_STOP_AP_PARAMETERS;
 
 
@@ -188767,7 +187509,7 @@ DOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS, *PDOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS
 
 
 
-
+    
 
 
 
@@ -188793,7 +187535,7 @@ DOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS, *PDOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS
 
 
 
-
+    
     typedef
     struct _DOT11_INCOMING_ASSOC_DECISION_V2
     {
@@ -188809,7 +187551,7 @@ DOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS, *PDOT11_PHY_FREQUENCY_ADOPTED_PARAMETERS
 
 
 
-#line 2969 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2874 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -188860,8 +187602,8 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
 
     
 
-    typedef
-    struct _DOT11_PEER_STATISTICS
+    typedef 
+    struct _DOT11_PEER_STATISTICS 
     {
         ULONGLONG ullDecryptSuccessCount;
         ULONGLONG ullDecryptFailureCount;
@@ -188869,63 +187611,63 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
         ULONGLONG ullTxPacketFailureCount;
         ULONGLONG ullRxPacketSuccessCount;
         ULONGLONG ullRxPacketFailureCount;
-    }
+    } 
     DOT11_PEER_STATISTICS, *PDOT11_PEER_STATISTICS;
 
-    typedef
-    struct _DOT11_PEER_INFO
+    typedef 
+    struct _DOT11_PEER_INFO 
     {
         DOT11_MAC_ADDRESS       MacAddress;
         USHORT                  usCapabilityInformation;
         DOT11_AUTH_ALGORITHM    AuthAlgo;
         DOT11_CIPHER_ALGORITHM  UnicastCipherAlgo;
         DOT11_CIPHER_ALGORITHM  MulticastCipherAlgo;
-        BOOLEAN                 bWpsEnabled;
+        BOOLEAN                 bWpsEnabled; 
         USHORT                  usListenInterval;
         UCHAR                   ucSupportedRates[255];
         USHORT                  usAssociationID;
         DOT11_ASSOCIATION_STATE AssociationState;
         DOT11_POWER_MODE        PowerMode;
-        LARGE_INTEGER           liAssociationUpTime;
+        LARGE_INTEGER           liAssociationUpTime;    
         DOT11_PEER_STATISTICS Statistics;
-    }
+    } 
     DOT11_PEER_INFO, *PDOT11_PEER_INFO;
 
 
 
-    typedef
-    struct _DOT11_PEER_INFO_LIST
+    typedef 
+    struct _DOT11_PEER_INFO_LIST 
     {
         NDIS_OBJECT_HEADER      Header;
         ULONG                   uNumOfEntries;
         ULONG                   uTotalNumOfEntries;
         DOT11_PEER_INFO         PeerInfo[1];
-    }
+    } 
     DOT11_PEER_INFO_LIST, *PDOT11_PEER_INFO_LIST;
 
 
 
 
 
-#line 3067 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 2972 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
 
-    typedef
+    typedef 
     struct _DOT11_VWIFI_COMBINATION
     {
         NDIS_OBJECT_HEADER Header;
         ULONG uNumInfrastructure;
         ULONG uNumAdhoc;
         ULONG uNumSoftAP;
-    }
+    } 
     DOT11_VWIFI_COMBINATION, * PDOT11_VWIFI_COMBINATION;
 
 
 
 
-    typedef
+    typedef 
     struct _DOT11_VWIFI_COMBINATION_V2
     {
         NDIS_OBJECT_HEADER Header;
@@ -188933,7 +187675,7 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
         ULONG uNumAdhoc;
         ULONG uNumSoftAP;
         ULONG uNumVirtualStation;
-    }
+    } 
     DOT11_VWIFI_COMBINATION_V2, * PDOT11_VWIFI_COMBINATION_V2;
 
 
@@ -188941,7 +187683,7 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
 
 
 
-    typedef
+    typedef 
     struct _DOT11_VWIFI_COMBINATION_V3
     {
         NDIS_OBJECT_HEADER Header;
@@ -188949,17 +187691,17 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
         ULONG uNumAdhoc;
         ULONG uNumSoftAP;
         ULONG uNumVirtualStation;
-        ULONG uNumWFDGroup;
-    }
+        ULONG uNumWFDGroup;        
+    } 
     DOT11_VWIFI_COMBINATION_V3, * PDOT11_VWIFI_COMBINATION_V3;
+    
 
 
+#line 3020 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
-#line 3115 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
 
-
-    typedef
-    struct DOT11_VWIFI_ATTRIBUTES
+    typedef 
+    struct DOT11_VWIFI_ATTRIBUTES 
     {
         NDIS_OBJECT_HEADER Header;
         ULONG uTotalNumOfEntries;
@@ -188967,8 +187709,8 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
 
 
         DOT11_VWIFI_COMBINATION Combinations[1];
-        #line 3127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
-    }
+        #line 3032 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
+    } 
     DOT11_VWIFI_ATTRIBUTES, * PDOT11_VWIFI_ATTRIBUTES;
 
 
@@ -188999,14 +187741,14 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
 
 
 
-#line 3159 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3064 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
 
 
 
-    typedef
+    typedef 
     struct _DOT11_WFD_ATTRIBUTES
     {
         NDIS_OBJECT_HEADER Header;
@@ -189020,11 +187762,11 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
         BOOLEAN bInfrastructureManagementSupported;
 
         ULONG uMaxSecondaryDeviceTypeListSize;
-
+        
         DOT11_MAC_ADDRESS DeviceAddress;
-        ULONG uInterfaceAddressListCount;
+        ULONG uInterfaceAddressListCount;    
         PDOT11_MAC_ADDRESS pInterfaceAddressList;
-
+        
         ULONG uNumSupportedCountryOrRegionStrings;
         
 
@@ -189036,7 +187778,7 @@ DOT11_EXTAP_RECV_CONTEXT, *PDOT11_EXTAP_RECV_CONTEXT;
 
         
         ULONG uGORoleClientTableSize;
-
+        
         
     }DOT11_WFD_ATTRIBUTES, *PDOT11_WFD_ATTRIBUTES;
 
@@ -189117,14 +187859,14 @@ typedef struct _DOT11_WFD_DEVICE_TYPE
 typedef struct _DOT11_WPS_DEVICE_NAME {
 
      
-#line 3277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     ULONG uDeviceNameLength;
     UCHAR ucDeviceName[32];
 } DOT11_WPS_DEVICE_NAME, * PDOT11_WPS_DEVICE_NAME;
 
 
 
-typedef
+typedef 
 struct _DOT11_WFD_CONFIGURATION_TIMEOUT
 {
     UCHAR GOTimeout;
@@ -189133,17 +187875,17 @@ struct _DOT11_WFD_CONFIGURATION_TIMEOUT
 
 
 
-typedef
-struct _DOT11_WFD_GROUP_ID
+typedef 
+struct _DOT11_WFD_GROUP_ID 
 {
     DOT11_MAC_ADDRESS DeviceAddress;
-    DOT11_SSID SSID;
+    DOT11_SSID SSID;	
 } DOT11_WFD_GROUP_ID, * PDOT11_WFD_GROUP_ID;
 
 
 
-typedef
-struct _DOT11_WFD_GO_INTENT
+typedef 
+struct _DOT11_WFD_GO_INTENT 
 {
     UCHAR TieBreaker:1;
     UCHAR Intent:7;
@@ -189151,8 +187893,8 @@ struct _DOT11_WFD_GO_INTENT
 
 
 
-typedef
-struct _DOT11_WFD_CHANNEL
+typedef 
+struct _DOT11_WFD_CHANNEL 
 {
     DOT11_COUNTRY_OR_REGION_STRING CountryRegionString;
     UCHAR OperatingClass;
@@ -189161,7 +187903,7 @@ struct _DOT11_WFD_CHANNEL
 
 
 
-typedef enum _DOT11_WPS_CONFIG_METHOD
+typedef enum _DOT11_WPS_CONFIG_METHOD 
 {
     DOT11_WPS_CONFIG_METHOD_NULL = 0,
     DOT11_WPS_CONFIG_METHOD_DISPLAY = 0x0008,
@@ -189173,7 +187915,7 @@ typedef enum _DOT11_WPS_CONFIG_METHOD
 } DOT11_WPS_CONFIG_METHOD, *PDOT11_WPS_CONFIG_METHOD;
 
 
-typedef enum _DOT11_WPS_DEVICE_PASSWORD_ID
+typedef enum _DOT11_WPS_DEVICE_PASSWORD_ID 
 {
     DOT11_WPS_PASSWORD_ID_DEFAULT = 0x0000,
     DOT11_WPS_PASSWORD_ID_USER_SPECIFIED = 0x0001,
@@ -189211,7 +187953,7 @@ typedef struct _DOT11_WFD_SERVICE_HASH_LIST
 
 
     DOT11_WFD_SERVICE_HASH ServiceHash[1];
-#line 3371 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 } DOT11_WFD_SERVICE_HASH_LIST, *PDOT11_WFD_SERVICE_HASH_LIST;
 
 
@@ -189232,7 +187974,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_DESCRIPTOR {
     USHORT ConfigMethods;
 
      
-#line 3392 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
     UCHAR ServiceNameLength;
     UCHAR ServiceName[255];
 } DOT11_WFD_ADVERTISED_SERVICE_DESCRIPTOR, *PDOT11_WFD_ADVERTISED_SERVICE_DESCRIPTOR;
@@ -189244,7 +187986,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
     DOT11_WFD_ADVERTISED_SERVICE_DESCRIPTOR AdvertisedService[1];
-#line 3404 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 } DOT11_WFD_ADVERTISED_SERVICE_LIST, *PDOT11_WFD_ADVERTISED_SERVICE_LIST;
 
 
@@ -189254,8 +187996,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_DISCOVER_COMPLETE_PARAMETERS
+    typedef 
+    struct _DOT11_WFD_DISCOVER_COMPLETE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         NDIS_STATUS Status;
@@ -189270,8 +188012,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_GO_NEGOTIATION_REQUEST_SEND_COMPLETE_PARAMETERS
+    typedef 
+    struct _DOT11_GO_NEGOTIATION_REQUEST_SEND_COMPLETE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189286,8 +188028,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_RECEIVED_GO_NEGOTIATION_REQUEST_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_GO_NEGOTIATION_REQUEST_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189296,14 +188038,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_GO_NEGOTIATION_REQUEST_PARAMETERS, * PDOT11_RECEIVED_GO_NEGOTIATION_REQUEST_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_GO_NEGOTIATION_RESPONSE_SEND_COMPLETE_PARAMETERS
+    typedef 
+    struct _DOT11_GO_NEGOTIATION_RESPONSE_SEND_COMPLETE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189318,8 +188060,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_RECEIVED_GO_NEGOTIATION_RESPONSE_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_GO_NEGOTIATION_RESPONSE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189328,14 +188070,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_GO_NEGOTIATION_RESPONSE_PARAMETERS, * PDOT11_RECEIVED_GO_NEGOTIATION_RESPONSE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_GO_NEGOTIATION_CONFIRMATION_SEND_COMPLETE_PARAMETERS
+    typedef 
+    struct _DOT11_GO_NEGOTIATION_CONFIRMATION_SEND_COMPLETE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189350,8 +188092,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_RECEIVED_GO_NEGOTIATION_CONFIRMATION_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_GO_NEGOTIATION_CONFIRMATION_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189359,13 +188101,13 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_GO_NEGOTIATION_CONFIRMATION_PARAMETERS, * PDOT11_RECEIVED_GO_NEGOTIATION_CONFIRMATION_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_INVITATION_REQUEST_SEND_COMPLETE_PARAMETERS
     {
         NDIS_OBJECT_HEADER Header;
@@ -189376,14 +188118,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_INVITATION_REQUEST_SEND_COMPLETE_PARAMETERS, * PDOT11_INVITATION_REQUEST_SEND_COMPLETE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_RECEIVED_INVITATION_REQUEST_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_INVITATION_REQUEST_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS TransmitterDeviceAddress;
@@ -189393,13 +188135,13 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_INVITATION_REQUEST_PARAMETERS, * PDOT11_RECEIVED_INVITATION_REQUEST_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_INVITATION_RESPONSE_SEND_COMPLETE_PARAMETERS
     {
         NDIS_OBJECT_HEADER Header;
@@ -189409,14 +188151,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_INVITATION_RESPONSE_SEND_COMPLETE_PARAMETERS, * PDOT11_INVITATION_RESPONSE_SEND_COMPLETE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_RECEIVED_INVITATION_RESPONSE_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_INVITATION_RESPONSE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS TransmitterDeviceAddress;
@@ -189425,13 +188167,13 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_INVITATION_RESPONSE_PARAMETERS, * PDOT11_RECEIVED_INVITATION_RESPONSE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_PROVISION_DISCOVERY_REQUEST_SEND_COMPLETE_PARAMETERS
     {
         NDIS_OBJECT_HEADER Header;
@@ -189442,14 +188184,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_PROVISION_DISCOVERY_REQUEST_SEND_COMPLETE_PARAMETERS, * PDOT11_PROVISION_DISCOVERY_REQUEST_SEND_COMPLETE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_RECEIVED_PROVISION_DISCOVERY_REQUEST_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_PROVISION_DISCOVERY_REQUEST_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS TransmitterDeviceAddress;
@@ -189459,13 +188201,13 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_PROVISION_DISCOVERY_REQUEST_PARAMETERS, * PDOT11_RECEIVED_PROVISION_DISCOVERY_REQUEST_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_PROVISION_DISCOVERY_RESPONSE_SEND_COMPLETE_PARAMETERS
     {
         NDIS_OBJECT_HEADER Header;
@@ -189475,14 +188217,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_PROVISION_DISCOVERY_RESPONSE_SEND_COMPLETE_PARAMETERS, * PDOT11_PROVISION_DISCOVERY_RESPONSE_SEND_COMPLETE_PARAMETERS;
+    
 
 
 
 
 
-
-    typedef
-    struct _DOT11_RECEIVED_PROVISION_DISCOVERY_RESPONSE_PARAMETERS
+    typedef 
+    struct _DOT11_RECEIVED_PROVISION_DISCOVERY_RESPONSE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS TransmitterDeviceAddress;
@@ -189491,7 +188233,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_RECEIVED_PROVISION_DISCOVERY_RESPONSE_PARAMETERS, * PDOT11_RECEIVED_PROVISION_DISCOVERY_RESPONSE_PARAMETERS;
-
+    
 
 
 
@@ -189514,8 +188256,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         dot11_ANQP_query_result_access_issues = 7
     } DOT11_ANQP_QUERY_RESULT, *PDOT11_ANQP_QUERY_RESULT;
 
-    typedef
-    struct _DOT11_ANQP_QUERY_COMPLETE_PARAMETERS
+    typedef 
+    struct _DOT11_ANQP_QUERY_COMPLETE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER      Header;
         DOT11_ANQP_QUERY_RESULT Status;
@@ -189536,8 +188278,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_DEVICE_CAPABILITY_CONFIG
+    typedef 
+    struct _DOT11_WFD_DEVICE_CAPABILITY_CONFIG  
     {
     	NDIS_OBJECT_HEADER Header;
     	BOOLEAN bServiceDiscoveryEnabled;
@@ -189548,6 +188290,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
     	BOOLEAN bInvitationProcedureEnabled;
     	ULONG WPSVersionsEnabled;
     } DOT11_WFD_DEVICE_CAPABILITY_CONFIG, * PDOT11_WFD_DEVICE_CAPABILITY_CONFIG;
+    
 
 
 
@@ -189555,9 +188298,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-
-    typedef
-    struct _DOT11_WFD_GROUP_OWNER_CAPABILITY_CONFIG
+    typedef 
+    struct _DOT11_WFD_GROUP_OWNER_CAPABILITY_CONFIG 
     {
     	NDIS_OBJECT_HEADER Header;
         BOOLEAN bPersistentGroupEnabled;
@@ -189567,12 +188309,12 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
     	BOOLEAN bGroupFormationEnabled;
     	ULONG uMaximumGroupLimit;
     } DOT11_WFD_GROUP_OWNER_CAPABILITY_CONFIG, *PDOT11_WFD_GROUP_OWNER_CAPABILITY_CONFIG;
+    
 
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_WFD_GROUP_OWNER_CAPABILITY_CONFIG_V2
     {
         NDIS_OBJECT_HEADER Header;
@@ -189591,8 +188333,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_DEVICE_INFO
+    typedef 
+    struct _DOT11_WFD_DEVICE_INFO 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS DeviceAddress;
@@ -189600,6 +188342,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         DOT11_WFD_DEVICE_TYPE PrimaryDeviceType;
         DOT11_WPS_DEVICE_NAME DeviceName;
     } DOT11_WFD_DEVICE_INFO, *PDOT11_WFD_DEVICE_INFO;
+    
 
 
 
@@ -189607,15 +188350,14 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-
-    typedef
-    struct _DOT11_WFD_SECONDARY_DEVICE_TYPE_LIST {
+    typedef 
+    struct _DOT11_WFD_SECONDARY_DEVICE_TYPE_LIST {	
         NDIS_OBJECT_HEADER Header;
         ULONG uNumOfEntries;
         ULONG uTotalNumOfEntries;
         DOT11_WFD_DEVICE_TYPE SecondaryDeviceTypes[1];
     } DOT11_WFD_SECONDARY_DEVICE_TYPE_LIST, * PDOT11_WFD_SECONDARY_DEVICE_TYPE_LIST;
-
+    
 
 
 
@@ -189629,7 +188371,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         dot11_wfd_discover_type_auto = 3,
         dot11_wfd_discover_type_scan_social_channels = 4,
         dot11_wfd_discover_type_forced = 0x80000000
-
+    
     } DOT11_WFD_DISCOVER_TYPE, *PDOT11_WFD_DISCOVER_TYPE;
 
     typedef enum _DOT11_WFD_SCAN_TYPE
@@ -189637,7 +188379,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         dot11_wfd_scan_type_active = 1,
         dot11_wfd_scan_type_passive = 2,
         dot11_wfd_scan_type_auto = 3
-
+    
     } DOT11_WFD_SCAN_TYPE, *PDOT11_WFD_SCAN_TYPE;
 
 
@@ -189647,7 +188389,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
+    typedef 
     struct _DOT11_WFD_DISCOVER_DEVICE_FILTER
     {
         DOT11_MAC_ADDRESS DeviceID;
@@ -189657,8 +188399,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_DISCOVER_REQUEST
+    typedef 
+    struct _DOT11_WFD_DISCOVER_REQUEST 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_WFD_DISCOVER_TYPE DiscoverType;
@@ -189681,8 +188423,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_DEVICE_ENTRY
+    typedef 
+    struct _DOT11_WFD_DEVICE_ENTRY 
     {
         ULONG uPhyId;
         DOT11_BSS_ENTRY_PHY_SPECIFIC_INFO PhySpecificInfo;
@@ -189702,7 +188444,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uProbeResponseIEsLength;	
     } DOT11_WFD_DEVICE_ENTRY, *PDOT11_WFD_DEVICE_ENTRY;
 
-#line 3862 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 3767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -189719,8 +188461,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_ADDITIONAL_IE
+    typedef 
+    struct _DOT11_WFD_ADDITIONAL_IE 
     {
         NDIS_OBJECT_HEADER Header;
         ULONG uBeaconIEsOffset;
@@ -189801,7 +188543,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
+    typedef 
     struct _DOT11_SEND_GO_NEGOTIATION_REQUEST_PARAMETERS
     {
         NDIS_OBJECT_HEADER Header;
@@ -189823,8 +188565,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_SEND_GO_NEGOTIATION_RESPONSE_PARAMETERS
+    typedef 
+    struct _DOT11_SEND_GO_NEGOTIATION_RESPONSE_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189849,7 +188591,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef struct _DOT11_SEND_GO_NEGOTIATION_CONFIRMATION_PARAMETERS
+    typedef struct _DOT11_SEND_GO_NEGOTIATION_CONFIRMATION_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189869,17 +188611,17 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_INVITATION_FLAGS
+    typedef 
+    struct _DOT11_WFD_INVITATION_FLAGS 
     {
         UCHAR InvitationType:1; 
         UCHAR Reserved:7;
     } DOT11_WFD_INVITATION_FLAGS, * PDOT11_WFD_INVITATION_FLAGS;
 
 
-    typedef
+    typedef 
     struct _DOT11_SEND_INVITATION_REQUEST_PARAMETERS
-    {
+    { 
         NDIS_OBJECT_HEADER Header;
         DOT11_DIALOG_TOKEN DialogToken;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189903,8 +188645,8 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_SEND_INVITATION_RESPONSE_PARAMETERS
+    typedef 
+    struct _DOT11_SEND_INVITATION_RESPONSE_PARAMETERS 
     {
     	NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS ReceiverDeviceAddress;
@@ -189920,6 +188662,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uIEsOffset;
         ULONG uIEsLength;
     } DOT11_SEND_INVITATION_RESPONSE_PARAMETERS, * PDOT11_SEND_INVITATION_RESPONSE_PARAMETERS;
+    
 
 
 
@@ -189927,10 +188670,9 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-
-    typedef
+    typedef 
     struct _DOT11_SEND_PROVISION_DISCOVERY_REQUEST_PARAMETERS
-    {
+    { 
         NDIS_OBJECT_HEADER Header;
         DOT11_DIALOG_TOKEN DialogToken;
         DOT11_MAC_ADDRESS PeerDeviceAddress;
@@ -189949,9 +188691,9 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
+    typedef 
     struct _DOT11_SEND_PROVISION_DISCOVERY_RESPONSE_PARAMETERS
-    {
+    { 
     	NDIS_OBJECT_HEADER Header;
         DOT11_MAC_ADDRESS ReceiverDeviceAddress;
         DOT11_DIALOG_TOKEN DialogToken;
@@ -189999,11 +188741,12 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-    typedef
-    struct _DOT11_WFD_GROUP_START_PARAMETERS {
+    typedef 
+    struct _DOT11_WFD_GROUP_START_PARAMETERS {	
         NDIS_OBJECT_HEADER Header;
         DOT11_WFD_CHANNEL AdvertisedOperatingChannel;
     } DOT11_WFD_GROUP_START_PARAMETERS, * PDOT11_WFD_GROUP_START_PARAMETERS;
+    
 
 
 
@@ -190021,21 +188764,20 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-
-    typedef
-    struct _DOT11_WFD_GROUP_JOIN_PARAMETERS {
+    typedef 
+    struct _DOT11_WFD_GROUP_JOIN_PARAMETERS {	
         NDIS_OBJECT_HEADER Header;
         DOT11_WFD_CHANNEL GOOperatingChannel;
         ULONG GOConfigTime;
         BOOLEAN bInGroupFormation;
         BOOLEAN bWaitForWPSReady;
     } DOT11_WFD_GROUP_JOIN_PARAMETERS, * PDOT11_WFD_GROUP_JOIN_PARAMETERS;
+    
 
 
 
 
-
-#line 4195 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 4100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
@@ -190079,7 +188821,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
     DOT11_PHY_TYPE  Dot11PhyType;
     ULONG           uChannelNumber;
     } DOT11_CHANNEL_HINT, * PDOT11_CHANNEL_HINT;
-
+ 
     typedef struct DOT11_OFFLOAD_NETWORK {
         DOT11_SSID              Ssid;
         DOT11_CIPHER_ALGORITHM  UnicastCipher;
@@ -190101,7 +188843,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 
-
+	
     typedef struct _DOT11_OFFLOAD_NETWORK_LIST_INFO {
         NDIS_OBJECT_HEADER      Header;
         ULONG   ulFlags;					
@@ -190112,13 +188854,13 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         DOT11_OFFLOAD_NETWORK   offloadNetworkList[1];
     } DOT11_OFFLOAD_NETWORK_LIST_INFO, * PDOT11_OFFLOAD_NETWORK_LIST_INFO;
 
-#line 4272 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 4177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
 
 
-    typedef
-    struct _DOT11_OFFLOAD_NETWORK_STATUS_PARAMETERS
+    typedef 
+    struct _DOT11_OFFLOAD_NETWORK_STATUS_PARAMETERS 
     {
         NDIS_OBJECT_HEADER Header;
         NDIS_STATUS Status;
@@ -190166,7 +188908,7 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
         ULONG uTestID;
         ULONG uPinBitMask;
         PVOID pvContext;
-        ULONG uBufferLength;
+        ULONG uBufferLength;             
         UCHAR ucBufferIn[1];                
     } DOT11_MANUFACTURING_SELF_TEST_SET_PARAMS, *PDOT11_MANUFACTURING_SELF_TEST_SET_PARAMS;
 
@@ -190280,17 +189022,17 @@ typedef struct _DOT11_WFD_ADVERTISED_SERVICE_LIST
 
 
 #pragma warning(pop)
-#line 4440 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 4345 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 
 
-#line 4443 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 4348 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 #pragma endregion
 
-#line 4446 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\windot11.h"
+#line 4351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\windot11.h"
 #pragma external_header(pop)
-#line 2687 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-#line 2688 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-#line 2689 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2683 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
+#line 2684 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
+#line 2685 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190603,7 +189345,7 @@ typedef struct _NDIS_IP_OPER_STATE
 
 
 
-#line 3002 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 2998 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190621,7 +189363,7 @@ typedef struct _NDIS_IP_OPER_STATE
 
 
 
-#line 3020 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3016 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190637,7 +189379,7 @@ typedef struct _NDIS_IP_OPER_STATE
 
 
 
-#line 3036 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3032 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190648,30 +189390,26 @@ typedef struct _NDIS_IP_OPER_STATE
 
 
 
-#line 3047 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3043 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3051 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3047 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3055 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3051 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3059 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 3063 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 
-#line 3070 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3062 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 typedef struct _NDIS_OFFLOAD_PARAMETERS
 {
@@ -190698,7 +189436,7 @@ typedef struct _NDIS_OFFLOAD_PARAMETERS
 
 
 
-#line 3097 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190711,7 +189449,7 @@ typedef struct _NDIS_OFFLOAD_PARAMETERS
 
 
 
-#line 3110 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190723,7 +189461,7 @@ typedef struct _NDIS_OFFLOAD_PARAMETERS
 
 
 
-#line 3122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -190731,40 +189469,29 @@ typedef struct _NDIS_OFFLOAD_PARAMETERS
 
 
 
-#line 3130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-
-
-
-#line 3137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 } NDIS_OFFLOAD_PARAMETERS, *PNDIS_OFFLOAD_PARAMETERS;
 
 
 
 
 
-#line 3144 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3148 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 3160 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\offloadtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\offloadtypes.h"
 
 
 #pragma once
@@ -190794,148 +189521,11 @@ typedef struct _NDIS_OFFLOAD_PARAMETERS
 
 
 
-#line 31 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\offloadtypes.h"
+#line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\offloadtypes.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 3162 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
-
-
-#pragma once
-
-#pragma region System Family (kernel drivers) with Desktop Family for compat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
-
-
-
-#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
-#pragma endregion
-
-#line 3163 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma warning(push)
 #pragma warning(disable:4214) 
@@ -191126,7 +189716,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3354 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma warning(pop)
 
@@ -191178,7 +189768,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3406 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191210,7 +189800,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3438 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191228,7 +189818,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3456 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3436 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191263,7 +189853,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3491 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3471 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191273,7 +189863,7 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3501 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3481 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191283,31 +189873,27 @@ typedef struct _NDIS_TCP_LARGE_SEND_OFFLOAD_V2
 
 
 
-#line 3511 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3491 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3515 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3495 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3519 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3499 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3523 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3503 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3527 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3531 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 3535 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3511 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 typedef struct _NDIS_OFFLOAD
 {
@@ -191340,7 +189926,7 @@ typedef struct _NDIS_OFFLOAD
 
 
 
-#line 3568 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3544 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191352,7 +189938,7 @@ typedef struct _NDIS_OFFLOAD
 
 
 
-#line 3580 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191364,7 +189950,7 @@ typedef struct _NDIS_OFFLOAD
 
 
 
-#line 3592 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191372,21 +189958,14 @@ typedef struct _NDIS_OFFLOAD
 
 
 
-#line 3600 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3576 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 
-#line 3607 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-
-
-
-#line 3614 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3583 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 } NDIS_OFFLOAD, *PNDIS_OFFLOAD;
 
@@ -191394,31 +189973,27 @@ typedef struct _NDIS_OFFLOAD
 
 
 
-#line 3622 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3591 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3626 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3595 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3630 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3599 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3634 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3638 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3607 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3642 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 3646 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191575,7 +190150,7 @@ typedef struct _NDIS_WMI_OFFLOAD
 
 
 
-#line 3803 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3768 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191588,21 +190163,14 @@ typedef struct _NDIS_WMI_OFFLOAD
 
 
 
-#line 3816 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3781 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
 
-#line 3823 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-
-
-
-#line 3830 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3788 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 } NDIS_WMI_OFFLOAD, *PNDIS_WMI_OFFLOAD;
 
@@ -191610,19 +190178,15 @@ typedef struct _NDIS_WMI_OFFLOAD
 
 
 
-#line 3838 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3796 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3842 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3800 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-#line 3846 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 3850 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 #pragma warning(push)
@@ -191637,7 +190201,7 @@ typedef struct _NDIS_WMI_OFFLOAD
 
 
 
-#line 3865 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 typedef struct _NDIS_TCP_CONNECTION_OFFLOAD
 {
@@ -191654,7 +190218,7 @@ typedef struct _NDIS_TCP_CONNECTION_OFFLOAD
     ULONG SupportSack:2;
 
 
-#line 3882 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3836 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
     ULONG TcpConnectionOffloadCapacity;
     ULONG Flags;
 } NDIS_TCP_CONNECTION_OFFLOAD, *PNDIS_TCP_CONNECTION_OFFLOAD;
@@ -191662,7 +190226,7 @@ typedef struct _NDIS_TCP_CONNECTION_OFFLOAD
 
 
 
-#line 3890 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma warning(pop)
 
@@ -191686,7 +190250,7 @@ typedef struct _NDIS_WMI_TCP_CONNECTION_OFFLOAD
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\ndisport.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\ndisport.h"
 
 
 
@@ -191719,17 +190283,17 @@ typedef enum _NDIS_PORT_TYPE
     NdisPortType8021xSupplicant,
 
 
-#line 34 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\ndisport.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\ndisport.h"
     NdisPortTypeMax,
 } NDIS_PORT_TYPE, *PNDIS_PORT_TYPE;
 
 
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\ndisport.h"
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\ndisport.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 3913 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3867 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191760,7 +190324,7 @@ typedef enum _NDIS_PORT_CONTROL_STATE
 
 typedef NDIS_PORT_CONTROL_STATE  NDIS_PORT_CONTROLL_STATE;
 typedef PNDIS_PORT_CONTROL_STATE PNDIS_PORT_CONTROLL_STATE;
-#line 3944 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 3898 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -191933,7 +190497,7 @@ typedef struct _NDIS_WMI_ENUM_ADAPTER
 
 
 
-#line 4117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 4071 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193368,6 +191932,19 @@ typedef struct NDIS_WMI_OUTPUT_INFO
 
 
 
+#line 5506 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
+
+
+
+
+
+
+
+#line 5514 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
+
+
+
+#line 5518 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193383,20 +191960,7 @@ typedef struct NDIS_WMI_OUTPUT_INFO
 
 
 
-
-#line 5568 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-
-
-
-
-#line 5576 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 5580 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5534 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193408,30 +191972,14 @@ typedef struct NDIS_WMI_OUTPUT_INFO
 
 
 
+#line 5546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
-
-#line 5596 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
+#line 5550 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-
-
-
-
-
-
-
-
-#line 5608 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-
-#line 5612 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
-
-
-#line 5615 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193448,7 +191996,7 @@ typedef struct _NDIS_RECEIVE_SCALE_CAPABILITIES
     ULONG                 NumberOfReceiveQueues;
     
 
-#line 5632 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 } NDIS_RECEIVE_SCALE_CAPABILITIES, *PNDIS_RECEIVE_SCALE_CAPABILITIES;
 
 
@@ -193458,15 +192006,15 @@ typedef struct _NDIS_RECEIVE_SCALE_CAPABILITIES
 
 
 
-#line 5642 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5580 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
-#line 5647 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\hashtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\hashtypes.h"
 
 
 #pragma once
@@ -193500,7 +192048,7 @@ typedef struct _NDIS_RECEIVE_SCALE_CAPABILITIES
 
 
 
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\hashtypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\hashtypes.h"
 
 
 
@@ -193548,15 +192096,15 @@ typedef ULONG NDIS_HASH_FLAGS;
 
 
 
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\hashtypes.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\hashtypes.h"
 
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\hashtypes.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\hashtypes.h"
 #pragma endregion
 
 #pragma external_header(pop)
-#line 5649 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5587 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193568,7 +192116,7 @@ typedef ULONG NDIS_HASH_FLAGS;
 
 
 
-#line 5661 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5599 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193582,13 +192130,13 @@ typedef ULONG NDIS_HASH_FLAGS;
 
 
 
-#line 5675 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5613 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 5681 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5619 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 {
@@ -193617,7 +192165,7 @@ typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 
 
 
-#line 5710 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
     
     
@@ -193625,7 +192173,7 @@ typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 
 
 
-#line 5718 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5656 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 } NDIS_RECEIVE_SCALE_PARAMETERS, *PNDIS_RECEIVE_SCALE_PARAMETERS;
 
 
@@ -193648,7 +192196,7 @@ typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 
 
 
-#line 5741 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5679 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193661,7 +192209,7 @@ typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 
 
 
-#line 5754 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5692 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -193786,7 +192334,7 @@ typedef struct _NDIS_RECEIVE_SCALE_PARAMETERS
 
 
 
-#line 5879 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 5817 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -194020,12 +192568,12 @@ typedef enum _NDIS_PROCESSOR_VENDOR
 
 
 
+#line 6051 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
 
 
-#line 6118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
 
 
 
@@ -196399,13 +194947,7 @@ typedef enum _NDIS_PROCESSOR_VENDOR
 
 
 
-
-
-
-
-
-
-#line 8498 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 8430 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -196494,9 +195036,9 @@ typedef struct _NDIS_PORT_ARRAY
 
 
 
-#line 8587 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 8519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
-#line 8589 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 8521 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -198712,7 +197254,7 @@ typedef struct _NDIS_PORT_ARRAY
 
 
 
-#line 10805 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10737 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -198731,7 +197273,7 @@ typedef struct _NDIS_PORT_ARRAY
 
 
 
-#line 10824 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10756 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
 
@@ -198795,19 +197337,9 @@ typedef struct _NDIS_HARDWARE_CROSSTIMESTAMP
 
 
 
-#line 10888 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10820 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-
-
-
-
-
-
-
-
-
-#line 10900 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
 
 
 
@@ -198819,13 +197351,13 @@ typedef struct _NDIS_HARDWARE_CROSSTIMESTAMP
 
 
 
-#line 10912 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10834 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 
-#line 10915 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10837 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 #pragma endregion
 
-#line 10918 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ntddndis.h"
+#line 10840 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ntddndis.h"
 
 #pragma external_header(pop)
 #line 1059 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
@@ -200011,7 +198543,7 @@ typedef struct _REFERENCE
 #line 2239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\status.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\status.h"
 
 
 #pragma once
@@ -200085,7 +198617,7 @@ typedef struct _REFERENCE
 
 
 
-#line 75 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\status.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\status.h"
 #pragma endregion
 
 #pragma external_header(pop)
@@ -202339,7 +200871,7 @@ typedef struct _NET_PNP_EVENT_NOTIFICATION
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\nicswitchtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\nicswitchtypes.h"
 
 
 #pragma once
@@ -202356,11 +200888,11 @@ typedef ULONG NDIS_NIC_SWITCH_ID, *PNDIS_NIC_SWITCH_ID;
 
 
 
-#line 18 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\nicswitchtypes.h"
+#line 18 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\nicswitchtypes.h"
 
 
 
-#line 22 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ndis\\nicswitchtypes.h"
+#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ndis\\nicswitchtypes.h"
 #pragma endregion
 
 #pragma external_header(pop)
@@ -207432,7 +205964,143 @@ typedef struct _NDIS_OFFLOAD_ENCAPSULATION
 #pragma endregion
 
 #line 7499 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
 
+
+#pragma once
+
+#pragma region System Family (kernel drivers) with Desktop Family for compat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
+
+
+
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis\\nbluro.h"
+#pragma endregion
+
+#line 7500 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
 
 #pragma warning(pop)
 
@@ -213942,7 +212610,7 @@ typedef struct _CO_ADDRESS_LIST
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\qos.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\qos.h"
 
 
 
@@ -214157,10 +212825,10 @@ typedef struct _QOS_SHAPING_RATE {
 
 
 
-#line 216 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\qos.h"
+#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\qos.h"
 #pragma endregion
 
-#line 219 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\qos.h"
+#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\qos.h"
 #pragma external_header(pop)
 #line 13740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ndis.h"
 
@@ -215774,7 +214442,7 @@ NdisIfDeleteIfStackEntry(
 
 #line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -215805,24 +214473,24 @@ NdisIfDeleteIfStackEntry(
 
 
 #pragma once
-#line 32 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
 
 
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-#line 41 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-
-
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
+#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
 
 
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+
+
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 #pragma warning(push)
 #pragma warning(disable:4201)
@@ -215834,7 +214502,7 @@ NdisIfDeleteIfStackEntry(
 
 
 
-#line 61 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -215842,12 +214510,12 @@ NdisIfDeleteIfStackEntry(
 
 
 
-#line 69 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
-#line 71 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\inaddr.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\inaddr.h"
 
 
 
@@ -215886,12 +214554,12 @@ typedef struct in_addr {
 
 } IN_ADDR, *PIN_ADDR,  *LPIN_ADDR;
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\inaddr.h"
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\inaddr.h"
 #pragma endregion
 
-#line 43 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\inaddr.h"
+#line 43 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\inaddr.h"
 #pragma external_header(pop)
-#line 73 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -215901,7 +214569,7 @@ typedef struct in_addr {
 
 
 typedef USHORT ADDRESS_FAMILY;
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 
@@ -215948,7 +214616,7 @@ typedef USHORT ADDRESS_FAMILY;
 
 
 
-#line 130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -215956,22 +214624,22 @@ typedef USHORT ADDRESS_FAMILY;
 
 
 
-#line 138 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
-#line 146 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
-#line 149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-#line 150 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-#line 151 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
+#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
+#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
-#line 153 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 153 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216040,7 +214708,7 @@ typedef USHORT ADDRESS_FAMILY;
 
                                     
 
-#line 222 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 222 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216063,9 +214731,9 @@ typedef struct sockaddr {
 
 
 
-#line 245 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     ADDRESS_FAMILY sa_family;           
-#line 247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     CHAR sa_data[14];                   
 } SOCKADDR, *PSOCKADDR,  *LPSOCKADDR;
@@ -216089,7 +214757,7 @@ typedef struct _SOCKET_ADDRESS {
 
     INT iSockaddrLength;
 } SOCKET_ADDRESS, *PSOCKET_ADDRESS, *LPSOCKET_ADDRESS;
-#line 271 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 271 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 
@@ -216106,7 +214774,7 @@ typedef struct _SOCKET_ADDRESS_LIST {
 
 
 
-#line 288 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 288 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216117,7 +214785,7 @@ typedef struct _CSADDR_INFO {
     INT iSocketType ;
     INT iProtocol ;
 } CSADDR_INFO, *PCSADDR_INFO,  * LPCSADDR_INFO ;
-#line 299 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216141,7 +214809,7 @@ typedef struct _CSADDR_INFO {
 
 
 
-#line 323 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 typedef struct sockaddr_storage {
     ADDRESS_FAMILY ss_family;      
@@ -216172,7 +214840,7 @@ typedef struct sockaddr_storage_xp {
                                    
                                    
 } SOCKADDR_STORAGE_XP, *PSOCKADDR_STORAGE_XP,  *LPSOCKADDR_STORAGE_XP;
-#line 354 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 
@@ -216181,7 +214849,7 @@ typedef SOCKADDR_STORAGE *PSOCKADDR_STORAGE,  *LPSOCKADDR_STORAGE;
 
 
 
-#line 363 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 typedef struct _SOCKET_PROCESSOR_AFFINITY {
@@ -216189,7 +214857,7 @@ typedef struct _SOCKET_PROCESSOR_AFFINITY {
     USHORT NumaNodeId;
     USHORT Reserved;
 } SOCKET_PROCESSOR_AFFINITY, *PSOCKET_PROCESSOR_AFFINITY;
-#line 371 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 371 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216206,7 +214874,7 @@ typedef struct _SOCKET_PROCESSOR_AFFINITY {
 
 
 
-#line 388 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216235,12 +214903,12 @@ typedef struct _SOCKET_PROCESSOR_AFFINITY {
 
 
 
-#line 417 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
 
-#line 422 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216260,28 +214928,28 @@ typedef struct _SOCKET_PROCESSOR_AFFINITY {
 typedef enum {
 
     IPPROTO_HOPOPTS       = 0,  
-#line 442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     IPPROTO_ICMP          = 1,
     IPPROTO_IGMP          = 2,
     IPPROTO_GGP           = 3,
 
     IPPROTO_IPV4          = 4,
-#line 448 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     IPPROTO_ST            = 5,
-#line 451 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     IPPROTO_TCP           = 6,
 
     IPPROTO_CBT           = 7,
     IPPROTO_EGP           = 8,
     IPPROTO_IGP           = 9,
-#line 457 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 457 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     IPPROTO_PUP           = 12,
     IPPROTO_UDP           = 17,
     IPPROTO_IDP           = 22,
 
     IPPROTO_RDP           = 27,
-#line 463 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 463 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
     IPPROTO_IPV6          = 41, 
@@ -216292,18 +214960,18 @@ typedef enum {
     IPPROTO_ICMPV6        = 58, 
     IPPROTO_NONE          = 59, 
     IPPROTO_DSTOPTS       = 60, 
-#line 474 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 474 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     IPPROTO_ND            = 77,
 
     IPPROTO_ICLFXBM       = 78,
-#line 479 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 479 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     IPPROTO_PIM           = 103,
     IPPROTO_PGM           = 113,
     IPPROTO_L2TP          = 115,
     IPPROTO_SCTP          = 132,
-#line 485 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 485 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     IPPROTO_RAW           = 255,
 
     IPPROTO_MAX           = 256,
@@ -216386,7 +215054,7 @@ typedef enum {
 
 
 
-#line 568 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216461,16 +215129,16 @@ typedef struct sockaddr_in {
 
 
 
-#line 643 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 643 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
     ADDRESS_FAMILY sin_family;
-#line 645 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 645 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     USHORT sin_port;
     IN_ADDR sin_addr;
     CHAR sin_zero[8];
 } SOCKADDR_IN, *PSOCKADDR_IN;
 
-#line 652 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 652 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 
@@ -216488,7 +215156,7 @@ typedef struct sockaddr_dl {
     UCHAR sdl_zero[4];
 } SOCKADDR_DL, *PSOCKADDR_DL;
 
-#line 670 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 670 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216526,7 +215194,7 @@ typedef struct _WSAMSG {
     ULONG            dwBufferCount;     
 
 
-#line 708 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 708 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
     WSABUF           Control;           
 
@@ -216534,7 +215202,7 @@ typedef struct _WSAMSG {
     ULONG            dwFlags;           
 
 
-#line 716 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 716 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 } WSAMSG, *PWSAMSG, *  LPWSAMSG;
 
@@ -216543,7 +215211,7 @@ typedef struct _WSAMSG {
 
 
 
-#line 725 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 725 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 typedef struct cmsghdr {
     SIZE_T      cmsg_len;
@@ -216554,7 +215222,7 @@ typedef struct cmsghdr {
 
 
 typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
-#line 736 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 736 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216571,7 +215239,7 @@ typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
 
 
 
-#line 753 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 753 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216592,7 +215260,7 @@ typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
 
 
 
-#line 774 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216620,7 +215288,7 @@ typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
 
 
 
-#line 802 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 802 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216657,7 +215325,7 @@ typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
 
 
 
-#line 839 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 839 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216674,7 +215342,7 @@ typedef WSACMSGHDR CMSGHDR, *PCMSGHDR;
 
 
 
-#line 856 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 856 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216773,7 +215441,7 @@ typedef struct __declspec(deprecated("Use " "ADDRINFOEXW" " instead or define _W
     LPGUID              ai_provider;
     struct addrinfoexA *ai_next;        
 } ADDRINFOEXA, *PADDRINFOEXA, *LPADDRINFOEXA;
-#line 955 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 955 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 typedef struct addrinfoexW
@@ -216791,8 +215459,7 @@ typedef struct addrinfoexW
     struct addrinfoexW *ai_next;        
 } ADDRINFOEXW, *PADDRINFOEXW, *LPADDRINFOEXW;
 
-#line 973 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-
+#line 973 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -216820,7 +215487,7 @@ typedef struct __declspec(deprecated("Use " "ADDRINFOEX2W" " instead or define _
     int                  ai_version;
     char                *ai_fqdn;
 } ADDRINFOEX2A, *PADDRINFOEX2A, *LPADDRINFOEX2A;
-#line 1002 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 1001 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma endregion
 
 typedef struct addrinfoex2W
@@ -216914,7 +215581,6 @@ typedef struct addrinfoex5
 
 
 
-
 typedef struct addrinfo_dns_server
 {
     unsigned int     ai_servertype;
@@ -216925,7 +215591,6 @@ typedef struct addrinfo_dns_server
     union
     {
         PWSTR ai_template;
-        PWSTR ai_hostname;
     };
 } ADDRINFO_DNS_SERVER;
 
@@ -216960,37 +215625,7 @@ typedef struct addrinfoex6
     ULONG64              ai_responseflags;
 } ADDRINFOEX6, *PADDRINFOEX6;
 
-
-
-
-
-
-
-typedef struct addrinfoex7
-{
-    int                  ai_flags;       
-    int                  ai_family;      
-    int                  ai_socktype;    
-    int                  ai_protocol;    
-    size_t               ai_addrlen;     
-    PWSTR                ai_canonname;   
-      struct sockaddr    *ai_addr;        
-      void               *ai_blob;
-    size_t               ai_bloblen;
-    GUID                 *ai_provider;
-    struct addrinfoex7   *ai_next;        
-    int                  ai_version;
-    PWSTR                ai_fqdn;
-    int                  ai_interfaceindex;
-    HANDLE               ai_resolutionhandle;
-    unsigned int         ai_ttl;          
-    unsigned int         ai_numservers;
-    ADDRINFO_DNS_SERVER  *ai_servers;
-    ULONG64              ai_responseflags;
-    ULONG64              ai_extraflags;   
-} ADDRINFOEX7, *PADDRINFOEX7;
-
-#line 1172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 1139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -217014,15 +215649,11 @@ typedef struct addrinfoex7
 
 
 
-#line 1196 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 1163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
-#line 1200 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
-
-
-
-
+#line 1167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -217030,7 +215661,11 @@ typedef struct addrinfoex7
 
 
 
-#line 1212 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+
+
+
+
+#line 1179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 
 
 
@@ -217058,11 +215693,11 @@ typedef struct addrinfoex7
 
 
 
-#line 1240 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2def.h"
+#line 1207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2def.h"
 #pragma external_header(pop)
 #line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -217098,7 +215733,7 @@ typedef struct addrinfoex7
 
 
 #pragma once
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -217106,7 +215741,7 @@ typedef struct addrinfoex7
 
 
 
-#line 45 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 #pragma endregion
 
 #pragma warning(push)
@@ -217120,16 +215755,16 @@ typedef struct addrinfoex7
 
 
 
-#line 59 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
 
 
-#line 65 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\in6addr.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\in6addr.h"
 
 
 
@@ -217176,12 +215811,12 @@ typedef struct in6_addr {
 
 
 
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\in6addr.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\in6addr.h"
 #pragma endregion
 
-#line 51 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\in6addr.h"
+#line 51 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\in6addr.h"
 #pragma external_header(pop)
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -217337,7 +215972,7 @@ typedef SOCKADDR_IN6_LH  *LPSOCKADDR_IN6;
 
 
 
-#line 223 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 typedef union _SOCKADDR_INET {
     SOCKADDR_IN Ipv4;
@@ -217797,11 +216432,11 @@ IN6ADDR_ISUNSPECIFIED(const SOCKADDR_IN6 *a)
                      IN6_IS_ADDR_UNSPECIFIED(&a->sin6_addr));
 }
 
-#line 683 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 683 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
-#line 685 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 685 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
-#line 687 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 687 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 #pragma endregion
 
 
@@ -217833,7 +216468,7 @@ IN6ADDR_ISUNSPECIFIED(const SOCKADDR_IN6 *a)
 
 
 
-#line 719 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 719 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -217941,9 +216576,9 @@ typedef struct ip_msfilter {
 
 
 
-#line 827 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 827 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
-#line 829 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 829 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -217988,7 +216623,7 @@ typedef struct group_filter {
 
 
 
-#line 874 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 874 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -218000,7 +216635,7 @@ typedef struct in_pktinfo {
 
 
 typedef char __C_ASSERT__[(sizeof(IN_PKTINFO) == 8)?1:-1];
-#line 886 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 886 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -218012,7 +216647,7 @@ typedef struct in6_pktinfo {
 
 
 typedef char __C_ASSERT__[(sizeof(IN6_PKTINFO) == 20)?1:-1];
-#line 898 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 898 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -218024,7 +216659,7 @@ typedef struct in_pktinfo_ex {
 
 
 typedef char __C_ASSERT__[(sizeof(IN_PKTINFO_EX) == 12)?1:-1];
-#line 910 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -218036,7 +216671,7 @@ typedef struct in6_pktinfo_ex {
 
 
 typedef char __C_ASSERT__[(sizeof(IN6_PKTINFO_EX) == 24)?1:-1];
-#line 922 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 922 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 
 
 
@@ -218141,14 +216776,14 @@ typedef struct icmp_error_info {
 
 
 
-#line 1027 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 1027 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 #pragma endregion
 
-#line 1030 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ws2ipdef.h"
+#line 1030 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ws2ipdef.h"
 #pragma external_header(pop)
 #line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 
 
@@ -218250,7 +216885,7 @@ typedef struct icmp_error_info {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\nldef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\nldef.h"
 
 
 
@@ -218552,13 +217187,13 @@ typedef struct _NL_BANDWIDTH_INFORMATION {
     BOOLEAN BandwidthPeaked;
 } NL_BANDWIDTH_INFORMATION, *PNL_BANDWIDTH_INFORMATION;
 
-#line 303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\nldef.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\nldef.h"
 #pragma endregion
 
-#line 306 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\nldef.h"
+#line 306 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\nldef.h"
 
 #pragma external_header(pop)
-#line 102 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 
 
@@ -218570,7 +217205,7 @@ typedef struct _NL_BANDWIDTH_INFORMATION {
 
 
 
-#line 114 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 
 
@@ -218593,7 +217228,7 @@ typedef enum _MIB_NOTIFICATION_TYPE {
     MibInitialNotification,
 } MIB_NOTIFICATION_TYPE, *PMIB_NOTIFICATION_TYPE;
 
-#line 137 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 
@@ -218717,7 +217352,7 @@ GetIfEntry2(
 
 
 
-#line 261 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -218770,7 +217405,7 @@ GetIfEntry2Ex(
 
 
 
-#line 314 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
  
 
@@ -218807,7 +217442,7 @@ typedef enum _MIB_IF_TABLE_LEVEL {
     MibIfTableRaw,
     
     MibIfTableNormalWithoutStatistics
-    #line 351 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+    #line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 } MIB_IF_TABLE_LEVEL, *PMIB_IF_TABLE_LEVEL;
 
  
@@ -219199,7 +217834,7 @@ GetIpNetworkConnectionBandwidthEstimates(
 
 
 
-#line 743 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 743 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -219247,7 +217882,7 @@ void
       MIB_NOTIFICATION_TYPE NotificationType
     );
 
-#line 791 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 791 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -219354,7 +217989,7 @@ GetUnicastIpAddressEntry(
 
 
 
-#line 898 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 898 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -219400,7 +218035,7 @@ GetUnicastIpAddressTable(
 
 
 
-#line 944 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 944 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -219437,7 +218072,7 @@ InitializeUnicastIpAddressEntry(
 
 
 
-#line 981 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 981 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -219514,7 +218149,7 @@ NotifyStableUnicastIpAddressTable(
       HANDLE *NotificationHandle
     );
 
-#line 1058 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1058 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -219816,7 +218451,7 @@ GetMulticastIpAddressTable(
 
 
 
-#line 1360 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1360 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -219862,7 +218497,7 @@ typedef struct _MIB_IPFORWARD_TABLE2 {
     MIB_IPFORWARD_ROW2 Table[1];
 } MIB_IPFORWARD_TABLE2, *PMIB_IPFORWARD_TABLE2;
 
-#line 1406 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1406 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -219945,7 +218580,7 @@ DeleteIpForwardEntry2(
 
 
 
-#line 1489 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -220002,7 +218637,7 @@ GetBestRoute2(
 
 
 
-#line 1546 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -220044,7 +218679,7 @@ GetIpForwardEntry2(
 
 
 
-#line 1588 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -220089,7 +218724,7 @@ GetIpForwardTable2(
 
 
 
-#line 1633 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 1633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -220662,7 +219297,7 @@ SetIpNetEntry2(
 
 
 
-#line 2206 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family
@@ -220727,13 +219362,13 @@ GetTeredoPort(
 #pragma deprecated(NotifyTeredoPortChange)
 #pragma deprecated(GetTeredoPort)
 
-#line 2271 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2271 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 
 
 
 
-#line 2277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -220790,7 +219425,7 @@ FreeMibTable(
 
 
 
-#line 2334 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Desktop Family or OneCore Family or Games Family
@@ -220853,10 +219488,10 @@ CreateSortedAddressPairs(
 
 
 
-#line 2397 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
-#line 2400 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 2400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 #pragma region Desktop Family or OneCore Family or Games Family
 
@@ -221668,32 +220303,6 @@ ConvertIpv4MaskToLength(
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 typedef struct _DNS_SETTINGS
 {
     ULONG Version;
@@ -221719,29 +220328,15 @@ typedef struct _DNS_DOH_SERVER_SETTINGS
 
 
     PWSTR Template;
-#line 3263 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
     ULONG64 Flags;
 } DNS_DOH_SERVER_SETTINGS;
-
-typedef struct _DNS_DOT_SERVER_SETTINGS
-{
-
-
-
-    PWSTR Hostname;
-#line 3273 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
-
-    ULONG64 Flags;
-    USHORT Port;
-} DNS_DOT_SERVER_SETTINGS;
 
 typedef enum _DNS_SERVER_PROPERTY_TYPE
 {
     DnsServerInvalidProperty = 0,
     DnsServerDohProperty,
-    DnsServerDotProperty
 } DNS_SERVER_PROPERTY_TYPE;
-
 
 
 
@@ -221752,9 +220347,8 @@ typedef enum _DNS_SERVER_PROPERTY_TYPE
 typedef union _DNS_SERVER_PROPERTY_TYPES
 {
     DNS_DOH_SERVER_SETTINGS *DohSettings;
-    DNS_DOT_SERVER_SETTINGS *DotSettings;
 } DNS_SERVER_PROPERTY_TYPES;
-#line 3298 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3257 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 
 typedef struct _DNS_SERVER_PROPERTY
 {
@@ -221765,7 +220359,7 @@ typedef struct _DNS_SERVER_PROPERTY
 
 
     DNS_SERVER_PROPERTY_TYPES Property;
-#line 3309 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 } DNS_SERVER_PROPERTY;
 
 typedef struct _DNS_INTERFACE_SETTINGS
@@ -222086,292 +220680,7 @@ NotifyNetworkConnectivityHintChange(
 
 
 
-
-
-
-
-
-
-typedef enum _NET_FL_VIRTUAL_INTERFACE_ORIGIN {
-    NetFlVirtualInterfaceOriginOid,
-    NetFlVirtualInterfaceOriginApi,
-    NetFlVirtualInterfaceOriginDefault,
-} NET_FL_VIRTUAL_INTERFACE_ORIGIN;
-
-typedef enum _NET_FL_ISOLATION_MODE {
-    NetFlIsolationModeNone,
-    NetFlIsolationModeVlan,
-    NetFlIsolationModeVsid,
-} NET_FL_ISOLATION_MODE;
-
-typedef struct _MIB_FL_VIRTUAL_INTERFACE_ROW {
-    
-    
-    
-
-    ADDRESS_FAMILY Family;
-    IF_LUID IfLuid;
-    ULONG VirtualIfId;
-
-    
-    
-    
-    GUID CompartmentGuid;
-    NET_FL_ISOLATION_MODE IsolationMode;
-
-    
-    
-    
-
-    NET_FL_VIRTUAL_INTERFACE_ORIGIN Origin;
-    IF_LUID VirtualIfLuid;
-    IF_INDEX VirtualIfIndex;
-
-    
-    
-    
-
-    BOOLEAN AllowLocalNd;
-
-    
-    
-    
-    ULONG AttachedFlsnpiClients;
-    ULONG FlsnpiClientConfigErrors;
-    ULONG64 FlsnpiClientInjectErrors;
-    ULONG64 FlsnpiClientCloneErrors;
-    ULONG64 InFlsnpiIndicatedPackets;
-    ULONG64 InFlsnpiClientReturnedPackets;
-    ULONG64 InFlsnpiClientSilentlyDroppedPackets;
-    ULONG64 InFlsnpiClientDroppedPackets;
-    ULONG64 InFlsnpiClientInjectedPackets;
-    ULONG64 InFlsnpiClientClonedPackets;
-    ULONG64 OutFlsnpiIndicatedPackets;
-    ULONG64 OutFlsnpiClientReturnedPackets;
-    ULONG64 OutFlsnpiClientDroppedPackets;
-    ULONG64 OutFlsnpiClientSilentlyDroppedPackets;
-    ULONG64 OutFlsnpiClientInjectedPackets;
-    ULONG64 OutFlsnpiClientClonedPackets;
-    ULONG64 OutFlsnpiClientClonedPacketsForNbSplit;
-} MIB_FL_VIRTUAL_INTERFACE_ROW, *PMIB_FL_VIRTUAL_INTERFACE_ROW;
-
-typedef struct _MIB_FL_VIRTUAL_INTERFACE_TABLE {
-    ULONG NumEntries;
-    MIB_FL_VIRTUAL_INTERFACE_ROW Table[1];
-} MIB_FL_VIRTUAL_INTERFACE_TABLE, *PMIB_FL_VIRTUAL_INTERFACE_TABLE;
-
- 
-
-
-NTSTATUS __stdcall
-CreateFlVirtualInterface(
-      const MIB_FL_VIRTUAL_INTERFACE_ROW *Row
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-NTSTATUS __stdcall
-DeleteFlVirtualInterface(
-      const MIB_FL_VIRTUAL_INTERFACE_ROW *Row
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-void
-InitializeFlVirtualInterfaceEntry(
-      PMIB_FL_VIRTUAL_INTERFACE_ROW Row
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-NTSTATUS __stdcall
-SetFlVirtualInterface(
-      const MIB_FL_VIRTUAL_INTERFACE_ROW *Row
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-NTSTATUS __stdcall
-GetFlVirtualInterface(
-      PMIB_FL_VIRTUAL_INTERFACE_ROW Row
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-NTSTATUS __stdcall
-GetFlVirtualInterfaceTable(
-      ADDRESS_FAMILY Family,
-     PMIB_FL_VIRTUAL_INTERFACE_TABLE *Table
-    );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 3913 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
-
-#line 3915 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3589 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
 #pragma region Application Family or OneCore Family or Games Family
@@ -222384,15 +220693,15 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 3928 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3602 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma endregion
 
-#line 3931 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\netioapi.h"
+#line 3605 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\netioapi.h"
 #pragma external_header(pop)
 #line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222437,7 +220746,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222468,7 +220777,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 77 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222478,12 +220787,12 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 92 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222494,16 +220803,16 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 103 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 108 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 112 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222517,7 +220826,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 126 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222525,7 +220834,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 134 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222543,7 +220852,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222552,7 +220861,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222572,7 +220881,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 181 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222580,27 +220889,27 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 189 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
-#line 195 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
-#line 198 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 198 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 202 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 202 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
 
-#line 209 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222610,39 +220919,39 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 219 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
 
-#line 226 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 226 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 231 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 236 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 236 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 241 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 246 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 251 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222661,24 +220970,24 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 270 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
 
-#line 277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 281 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
-#line 284 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
-#line 287 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 287 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222703,7 +221012,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 312 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222715,12 +221024,12 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 324 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 329 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 329 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222732,7 +221041,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 341 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222746,11 +221055,11 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 355 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 359 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222760,7 +221069,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 369 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222770,11 +221079,11 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 379 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 379 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 383 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 383 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222831,7 +221140,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 440 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 440 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222899,19 +221208,19 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 508 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 508 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 513 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 513 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
 
-#line 520 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 520 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222924,24 +221233,24 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 533 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 533 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
-#line 537 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 537 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
-#line 543 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 543 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
 
-#line 550 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 550 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222952,12 +221261,12 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 561 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
-#line 566 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 566 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222965,7 +221274,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 574 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 574 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222973,7 +221282,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 582 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -222990,7 +221299,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 599 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 599 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223010,7 +221319,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 619 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 619 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223019,13 +221328,13 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 628 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 628 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
 
 
-#line 634 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223036,7 +221345,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 645 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 645 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223058,7 +221367,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 667 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 667 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223067,12 +221376,11 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 676 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
+#line 678 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
-#line 681 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
@@ -223089,7 +221397,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 698 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223099,7 +221407,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 708 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 707 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223112,7 +221420,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 721 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223123,7 +221431,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 732 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 731 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223139,7 +221447,7 @@ GetFlVirtualInterfaceTable(
 
 
 
-#line 748 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 747 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -223170,8 +221478,8 @@ GetFlVirtualInterfaceTable(
 
 
 
+#line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
-#line 780 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
@@ -223181,8 +221489,8 @@ GetFlVirtualInterfaceTable(
 
 
 
+#line 789 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
-#line 791 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
@@ -223200,8 +221508,8 @@ GetFlVirtualInterfaceTable(
 
 
 
+#line 808 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
-#line 810 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
@@ -223212,13 +221520,13 @@ GetFlVirtualInterfaceTable(
 
 
 
+#line 820 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
-#line 822 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
+#line 825 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
-#line 827 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
 
 
 
@@ -223233,12 +221541,11 @@ GetFlVirtualInterfaceTable(
 
 
 
-
-#line 843 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 #pragma endregion
 
-#line 846 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
-#line 847 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
+#line 845 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 #pragma external_header(pop)
 #line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
@@ -227088,7 +225395,7 @@ FwpsAleEndpointSetSecurityInfo0(
 #pragma endregion
 
 #line 3879 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpsk.h"
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 38 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 #line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpmk.h"
 
 
@@ -228601,7 +226908,7 @@ extern const GUID  FWPM_KEYING_MODULE_IKEV2;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 
@@ -228635,7 +226942,7 @@ extern const GUID  FWPM_KEYING_MODULE_IKEV2;
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 
@@ -228650,7 +226957,7 @@ extern const GUID  FWPM_KEYING_MODULE_IKEV2;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 
 
@@ -228684,7 +226991,7 @@ extern const GUID  FWPM_KEYING_MODULE_IKEV2;
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 
 
@@ -228722,9 +227029,9 @@ extern const GUID  FWPM_KEYING_MODULE_IKEV2;
 
 
 #pragma warning(push)
-#line 73 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 #pragma warning(disable:4201)
-#line 75 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IPSEC_V4_UDP_ENCAPSULATION0_ IPSEC_V4_UDP_ENCAPSULATION0;
 
 typedef  
@@ -228777,7 +227084,7 @@ typedef struct IKEEXT_PRESHARED_KEY_AUTHENTICATION1__
     UINT32 flags;
     } 	IKEEXT_PRESHARED_KEY_AUTHENTICATION1;
 
-#line 128 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 
 
@@ -228788,7 +227095,7 @@ typedef struct IKEEXT_PRESHARED_KEY_AUTHENTICATION1__
 
 
 
-#line 139 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_CERT_ROOT_CONFIG0_
     {
     FWP_BYTE_BLOB certData;
@@ -228802,10 +227109,10 @@ typedef struct IKEEXT_CERT_ROOT_CONFIG0_
 
 
 
-#line 153 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 153 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 
-#line 156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef  
 enum IKEEXT_CERT_CONFIG_TYPE_
     {
@@ -228874,7 +227181,7 @@ typedef struct IKEEXT_CERTIFICATE_AUTHENTICATION1_
     FWP_BYTE_BLOB localCertLocationUrl;
     } 	IKEEXT_CERTIFICATE_AUTHENTICATION1;
 
-#line 225 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef 
 enum IKEEXT_CERT_CRITERIA_NAME_TYPE_
@@ -228956,7 +227263,7 @@ typedef struct IKEEXT_CERTIFICATE_AUTHENTICATION2_
     FWP_BYTE_BLOB localCertLocationUrl;
     } 	IKEEXT_CERTIFICATE_AUTHENTICATION2;
 
-#line 307 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_IPV6_CGA_AUTHENTICATION0_
     {
      wchar_t *keyContainerName;
@@ -228981,7 +227288,7 @@ typedef struct IKEEXT_KERBEROS_AUTHENTICATION1__
      wchar_t *proxyServer;
     } 	IKEEXT_KERBEROS_AUTHENTICATION1;
 
-#line 332 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_RESERVED_AUTHENTICATION0__
     {
@@ -229002,7 +227309,7 @@ typedef struct IKEEXT_EAP_AUTHENTICATION0__
     UINT32 flags;
     } 	IKEEXT_EAP_AUTHENTICATION0;
 
-#line 353 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_AUTHENTICATION_METHOD0_
     {
     IKEEXT_AUTHENTICATION_METHOD_TYPE authenticationMethodType;
@@ -229035,7 +227342,7 @@ typedef struct IKEEXT_AUTHENTICATION_METHOD1_
         } 	;
     } 	IKEEXT_AUTHENTICATION_METHOD1;
 
-#line 386 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_AUTHENTICATION_METHOD2_
     {
@@ -229054,7 +227361,7 @@ typedef struct IKEEXT_AUTHENTICATION_METHOD2_
         } 	;
     } 	IKEEXT_AUTHENTICATION_METHOD2;
 
-#line 405 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef  
 enum IKEEXT_CIPHER_TYPE_
     {
@@ -229148,7 +227455,7 @@ typedef struct IKEEXT_POLICY1_
     UINT32 retransmitDurationSecs;
     } 	IKEEXT_POLICY1;
 
-#line 499 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 499 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_POLICY2_
     {
@@ -229163,7 +227470,7 @@ typedef struct IKEEXT_POLICY2_
     UINT32 retransmitDurationSecs;
     } 	IKEEXT_POLICY2;
 
-#line 514 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 514 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_EM_POLICY0_
     {
     UINT32 numAuthenticationMethods;
@@ -229179,7 +227486,7 @@ typedef struct IKEEXT_EM_POLICY1_
     IKEEXT_AUTHENTICATION_IMPERSONATION_TYPE initiatorImpersonationType;
     } 	IKEEXT_EM_POLICY1;
 
-#line 530 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 530 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_EM_POLICY2_
     {
@@ -229188,7 +227495,7 @@ typedef struct IKEEXT_EM_POLICY2_
     IKEEXT_AUTHENTICATION_IMPERSONATION_TYPE initiatorImpersonationType;
     } 	IKEEXT_EM_POLICY2;
 
-#line 539 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_IP_VERSION_SPECIFIC_KEYMODULE_STATISTICS0_
     {
@@ -229235,7 +227542,7 @@ typedef struct IKEEXT_IP_VERSION_SPECIFIC_KEYMODULE_STATISTICS1_
     UINT32 totalImpersonationMainModes;
     } 	IKEEXT_IP_VERSION_SPECIFIC_KEYMODULE_STATISTICS1;
 
-#line 586 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_KEYMODULE_STATISTICS0_
     {
     IKEEXT_IP_VERSION_SPECIFIC_KEYMODULE_STATISTICS0 v4Statistics;
@@ -229257,7 +227564,7 @@ typedef struct IKEEXT_KEYMODULE_STATISTICS1_
     UINT32 extendedModeNegotiationTime;
     } 	IKEEXT_KEYMODULE_STATISTICS1;
 
-#line 608 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 608 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_IP_VERSION_SPECIFIC_COMMON_STATISTICS0_
     {
     UINT32 totalSocketReceiveFailures;
@@ -229271,7 +227578,7 @@ typedef struct IKEEXT_IP_VERSION_SPECIFIC_COMMON_STATISTICS1_
     UINT32 totalSocketSendFailures;
     } 	IKEEXT_IP_VERSION_SPECIFIC_COMMON_STATISTICS1;
 
-#line 622 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 622 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_COMMON_STATISTICS0_
     {
     IKEEXT_IP_VERSION_SPECIFIC_COMMON_STATISTICS0 v4Statistics;
@@ -229291,7 +227598,7 @@ typedef struct IKEEXT_COMMON_STATISTICS1_
     UINT32 currentQueuedWorkitems;
     } 	IKEEXT_COMMON_STATISTICS1;
 
-#line 642 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 642 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_STATISTICS0_
     {
     IKEEXT_KEYMODULE_STATISTICS0 ikeStatistics;
@@ -229308,7 +227615,7 @@ typedef struct IKEEXT_STATISTICS1_
     IKEEXT_COMMON_STATISTICS1 commonStatistics;
     } 	IKEEXT_STATISTICS1;
 
-#line 659 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_TRAFFIC0_
     {
     FWP_IP_VERSION ipVersion;
@@ -229442,7 +227749,7 @@ typedef struct IKEEXT_SA_DETAILS1_
     FWP_BYTE_BLOB correlationKey;
     } 	IKEEXT_SA_DETAILS1;
 
-#line 793 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 793 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 typedef struct IKEEXT_CREDENTIAL2_
     {
@@ -229488,7 +227795,7 @@ typedef struct IKEEXT_SA_DETAILS2_
     FWP_BYTE_BLOB correlationKey;
     } 	IKEEXT_SA_DETAILS2;
 
-#line 839 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 839 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 typedef struct IKEEXT_SA_ENUM_TEMPLATE0_
     {
     FWP_CONDITION_VALUE0 localSubNet;
@@ -229543,9 +227850,9 @@ enum IKEEXT_SA_ROLE_
 #pragma warning(pop)
 
 
-#line 894 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
-#line 895 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
-#line 896 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 894 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
+#line 895 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
+#line 896 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 #pragma endregion
 
 
@@ -229560,13 +227867,13 @@ extern RPC_IF_HANDLE __MIDL_itf_iketypes_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 911 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\iketypes.h"
+#line 911 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\iketypes.h"
 
 
 #pragma external_header(pop)
-#line 49 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
@@ -229600,7 +227907,7 @@ extern RPC_IF_HANDLE __MIDL_itf_iketypes_0000_0000_v0_0_s_ifspec;
 
 
 #pragma once
-#line 35 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
@@ -229630,9 +227937,9 @@ extern RPC_IF_HANDLE __MIDL_itf_iketypes_0000_0000_v0_0_s_ifspec;
 
 
 #pragma warning(push)
-#line 65 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 #pragma warning(disable:4201)
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct FWPM_FILTER0_ FWPM_FILTER0;
 
 typedef struct FWPM_DISPLAY_DATA0_ FWPM_DISPLAY_DATA0;
@@ -229813,15 +228120,15 @@ typedef struct IPSEC_TRAFFIC_SELECTOR_POLICY0_
 
 
 
-#line 248 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 248 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
 
-#line 253 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
-#line 256 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
@@ -229847,7 +228154,7 @@ typedef struct IPSEC_TRANSPORT_POLICY1_
      IKEEXT_EM_POLICY1 *emPolicy;
     } 	IPSEC_TRANSPORT_POLICY1;
 
-#line 282 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 typedef struct IPSEC_TRANSPORT_POLICY2_
     {
@@ -229859,7 +228166,7 @@ typedef struct IPSEC_TRANSPORT_POLICY2_
      IKEEXT_EM_POLICY2 *emPolicy;
     } 	IPSEC_TRANSPORT_POLICY2;
 
-#line 294 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 294 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_TUNNEL_ENDPOINTS0_
     {
     FWP_IP_VERSION ipVersion;
@@ -229905,7 +228212,7 @@ typedef struct IPSEC_TUNNEL_ENDPOINTS2_
      IPSEC_TUNNEL_ENDPOINT0 *remoteAddresses;
     } 	IPSEC_TUNNEL_ENDPOINTS2;
 
-#line 340 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 340 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 typedef struct IPSEC_TUNNEL_ENDPOINTS1_
     {
@@ -229923,7 +228230,7 @@ typedef struct IPSEC_TUNNEL_ENDPOINTS1_
     UINT64 localIfLuid;
     } 	IPSEC_TUNNEL_ENDPOINTS1;
 
-#line 358 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 358 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_TUNNEL_POLICY0_
     {
     UINT32 flags;
@@ -229945,7 +228252,7 @@ typedef struct IPSEC_TUNNEL_POLICY1_
      IKEEXT_EM_POLICY1 *emPolicy;
     } 	IPSEC_TUNNEL_POLICY1;
 
-#line 380 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 typedef struct IPSEC_TUNNEL_POLICY2_
     {
@@ -229958,7 +228265,7 @@ typedef struct IPSEC_TUNNEL_POLICY2_
     UINT32 fwdPathSaLifetime;
     } 	IPSEC_TUNNEL_POLICY2;
 
-#line 393 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 393 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 typedef struct IPSEC_TUNNEL_POLICY3_
     {
@@ -229974,7 +228281,7 @@ typedef struct IPSEC_TUNNEL_POLICY3_
      IPSEC_TRAFFIC_SELECTOR_POLICY0 *trafficSelectorPolicies;
     } 	IPSEC_TUNNEL_POLICY3;
 
-#line 409 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_KEYING_POLICY0_
     {
     UINT32 numKeyMods;
@@ -229990,7 +228297,7 @@ typedef struct IPSEC_KEYING_POLICY1_
     UINT32 flags;
     } 	IPSEC_KEYING_POLICY1;
 
-#line 425 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 425 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_AGGREGATE_SA_STATISTICS0_
     {
     UINT32 activeSas;
@@ -230047,7 +228354,7 @@ typedef struct IPSEC_AGGREGATE_DROP_PACKET_STATISTICS1_
     UINT32 totalDropPacketsInbound;
     } 	IPSEC_AGGREGATE_DROP_PACKET_STATISTICS1;
 
-#line 482 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 482 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_TRAFFIC_STATISTICS0_
     {
     UINT64 encryptedByteCount;
@@ -230070,7 +228377,7 @@ typedef struct IPSEC_TRAFFIC_STATISTICS1_
     UINT64 totalSuccessfulPackets;
     } 	IPSEC_TRAFFIC_STATISTICS1;
 
-#line 505 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 505 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_STATISTICS0_
     {
     IPSEC_AGGREGATE_SA_STATISTICS0 aggregateSaStatistics;
@@ -230092,7 +228399,7 @@ typedef struct IPSEC_STATISTICS1_
     IPSEC_TRAFFIC_STATISTICS1 outboundTrafficStatistics;
     } 	IPSEC_STATISTICS1;
 
-#line 527 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 527 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef UINT32 IPSEC_SA_SPI;
 
 typedef struct IPSEC_SA_AUTH_INFORMATION0_
@@ -230190,26 +228497,26 @@ typedef struct IPSEC_ID0_
 
 
 
-#line 625 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 625 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
 
 
 
-#line 632 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 632 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
 
 
-#line 638 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
-#line 641 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
-#line 644 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 
@@ -230261,7 +228568,7 @@ typedef struct IPSEC_SA_BUNDLE1_
     UINT64 qmFilterId;
     } 	IPSEC_SA_BUNDLE1;
 
-#line 696 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 696 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef  
 enum IPSEC_TRAFFIC_TYPE_
     {
@@ -230319,7 +228626,7 @@ typedef struct IPSEC_TRAFFIC1_
     UINT32 realIfProfileId;
     } 	IPSEC_TRAFFIC1;
 
-#line 754 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 754 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_V4_UDP_ENCAPSULATION0_
     {
     UINT16 localUdpEncapPort;
@@ -230351,7 +228658,7 @@ typedef struct IPSEC_GETSPI1_
      IPSEC_CRYPTO_MODULE_ID *rngCryptoModuleID;
     } 	IPSEC_GETSPI1;
 
-#line 786 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 786 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_SA_DETAILS0_
     {
     FWP_IP_VERSION ipVersion;
@@ -230382,7 +228689,7 @@ typedef struct IPSEC_SA_DETAILS1_
     IPSEC_VIRTUAL_IF_TUNNEL_INFO0 virtualIfTunnelInfo;
     } 	IPSEC_SA_DETAILS1;
 
-#line 817 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 817 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_SA_CONTEXT0_
     {
     UINT64 saContextId;
@@ -230398,7 +228705,7 @@ typedef struct IPSEC_SA_CONTEXT1_
      IPSEC_SA_DETAILS1 *outboundSa;
     } 	IPSEC_SA_CONTEXT1;
 
-#line 833 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 typedef struct IPSEC_SA_CONTEXT_ENUM_TEMPLATE0_
     {
     FWP_CONDITION_VALUE0 localSubNet;
@@ -230520,7 +228827,7 @@ typedef struct IPSEC_DOSP_STATE_ENUM_TEMPLATE0_
     FWP_V6_ADDR_AND_MASK internalV6AddrMask;
     } 	IPSEC_DOSP_STATE_ENUM_TEMPLATE0;
 
-#line 955 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 955 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 typedef struct _IPSEC_KEY_MANAGER0
@@ -230531,15 +228838,15 @@ typedef struct _IPSEC_KEY_MANAGER0
     UINT8 keyDictationTimeoutHint;
     } 	IPSEC_KEY_MANAGER0;
 
-#line 966 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 966 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 #pragma warning(pop)
 
 
-#line 972 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
-#line 973 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
-#line 974 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 972 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
+#line 973 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
+#line 974 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 #pragma endregion
 
 
@@ -230554,11 +228861,11 @@ extern RPC_IF_HANDLE __MIDL_itf_ipsectypes_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 989 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\ipsectypes.h"
+#line 989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\ipsectypes.h"
 
 
 #pragma external_header(pop)
-#line 50 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 
@@ -230574,9 +228881,9 @@ extern RPC_IF_HANDLE __MIDL_itf_ipsectypes_0000_0000_v0_0_s_ifspec;
 
 
 #pragma warning(push)
-#line 66 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 #pragma warning(disable:4201)
-#line 68 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 68 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 typedef  
@@ -230589,7 +228896,7 @@ enum __MIDL___MIDL_itf_fwpmtypes_0000_0000_0001
 
 typedef  enum __MIDL___MIDL_itf_fwpmtypes_0000_0000_0001 *PDL_ADDRESS_TYPE;
 
-#line 81 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 81 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef  
 enum FWPM_CHANGE_TYPE_
     {
@@ -230617,7 +228924,7 @@ enum FWPM_SERVICE_STATE_
 
 
 
-#line 109 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 
@@ -230637,7 +228944,7 @@ enum FWPM_ENGINE_OPTION_
 
 
 
-#line 129 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_SESSION0_
     {
     GUID sessionKey;
@@ -230687,7 +228994,7 @@ typedef struct FWPM_PROVIDER_SUBSCRIPTION0_
 
 
 
-#line 179 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_CLASSIFY_OPTION0_
     {
     FWP_CLASSIFY_OPTION_TYPE type;
@@ -230783,7 +229090,7 @@ typedef struct FWPM_PROVIDER_CONTEXT1_
     UINT64 providerContextId;
     } 	FWPM_PROVIDER_CONTEXT1;
 
-#line 275 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 275 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_PROVIDER_CONTEXT2_
     {
@@ -230812,7 +229119,7 @@ typedef struct FWPM_PROVIDER_CONTEXT2_
     UINT64 providerContextId;
     } 	FWPM_PROVIDER_CONTEXT2;
 
-#line 304 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 304 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_PROVIDER_CONTEXT3_
     {
@@ -230842,7 +229149,7 @@ typedef struct FWPM_PROVIDER_CONTEXT3_
     UINT64 providerContextId;
     } 	FWPM_PROVIDER_CONTEXT3;
 
-#line 334 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_PROVIDER_CONTEXT_ENUM_TEMPLATE0_
     {
      GUID *providerKey;
@@ -230994,7 +229301,6 @@ typedef struct FWPM_FILTER_CONDITION0_
 
 
 
-
 typedef struct FWPM_FILTER0_
     {
     GUID filterKey;
@@ -231054,17 +229360,6 @@ typedef struct FWPM_LAYER_STATISTICS0_
     UINT32 numCacheEntries;
     } 	FWPM_LAYER_STATISTICS0;
 
-typedef struct FWPM_LAYER_STATISTICS1_
-    {
-    GUID layerId;
-    UINT32 classifyPermitCount;
-    UINT32 classifyBlockCount;
-    UINT32 classifyVetoCount;
-    UINT32 numCacheEntries;
-    UINT32 filterCount;
-    UINT32 totalFilterSize;
-    } 	FWPM_LAYER_STATISTICS1;
-
 typedef struct FWPM_STATISTICS0_
     {
     UINT32 numLayerStatistics;
@@ -231104,46 +229399,6 @@ typedef struct FWPM_STATISTICS0_
     UINT64 reauthReasonEDPPolicyChanged;
     UINT64 reauthReasonProxyHandleChanged;
     } 	FWPM_STATISTICS0;
-
-typedef struct FWPM_STATISTICS1_
-    {
-    UINT32 numLayerStatistics;
-     FWPM_LAYER_STATISTICS1 *layerStatistics;
-    UINT32 inboundAllowedConnectionsV4;
-    UINT32 inboundBlockedConnectionsV4;
-    UINT32 outboundAllowedConnectionsV4;
-    UINT32 outboundBlockedConnectionsV4;
-    UINT32 inboundAllowedConnectionsV6;
-    UINT32 inboundBlockedConnectionsV6;
-    UINT32 outboundAllowedConnectionsV6;
-    UINT32 outboundBlockedConnectionsV6;
-    UINT32 inboundActiveConnectionsV4;
-    UINT32 outboundActiveConnectionsV4;
-    UINT32 inboundActiveConnectionsV6;
-    UINT32 outboundActiveConnectionsV6;
-    UINT64 reauthDirInbound;
-    UINT64 reauthDirOutbound;
-    UINT64 reauthFamilyV4;
-    UINT64 reauthFamilyV6;
-    UINT64 reauthProtoOther;
-    UINT64 reauthProtoIPv4;
-    UINT64 reauthProtoIPv6;
-    UINT64 reauthProtoICMP;
-    UINT64 reauthProtoICMP6;
-    UINT64 reauthProtoUDP;
-    UINT64 reauthProtoTCP;
-    UINT64 reauthReasonPolicyChange;
-    UINT64 reauthReasonNewArrivalInterface;
-    UINT64 reauthReasonNewNextHopInterface;
-    UINT64 reauthReasonProfileCrossing;
-    UINT64 reauthReasonClassifyCompletion;
-    UINT64 reauthReasonIPSecPropertiesChanged;
-    UINT64 reauthReasonMidStreamInspection;
-    UINT64 reauthReasonSocketPropertyChanged;
-    UINT64 reauthReasonNewInboundMCastBCastPacket;
-    UINT64 reauthReasonEDPPolicyChanged;
-    UINT64 reauthReasonProxyHandleChanged;
-    } 	FWPM_STATISTICS1;
 
 
 
@@ -231258,7 +229513,7 @@ typedef struct FWPM_NET_EVENT_HEADER2_
      SID *packageSid;
     } 	FWPM_NET_EVENT_HEADER2;
 
-#line 750 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 698 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT_HEADER3_
     {
@@ -231290,7 +229545,7 @@ typedef struct FWPM_NET_EVENT_HEADER3_
     FWP_BYTE_BLOB effectiveName;
     } 	FWPM_NET_EVENT_HEADER3;
 
-#line 782 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 730 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef  
 enum FWPM_NET_EVENT_TYPE_
     {
@@ -231346,7 +229601,7 @@ typedef struct FWPM_NET_EVENT_IKEEXT_MM_FAILURE1_
      LPWSTR *remotePrincipalGroupSids;
     } 	FWPM_NET_EVENT_IKEEXT_MM_FAILURE1;
 
-#line 838 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 786 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT_IKEEXT_MM_FAILURE2_
     {
@@ -231369,7 +229624,7 @@ typedef struct FWPM_NET_EVENT_IKEEXT_MM_FAILURE2_
     GUID *providerContextKey;
     } 	FWPM_NET_EVENT_IKEEXT_MM_FAILURE2;
 
-#line 861 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 809 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_NET_EVENT_IKEEXT_QM_FAILURE0_
     {
     UINT32 failureErrorCode;
@@ -231415,7 +229670,7 @@ typedef struct FWPM_NET_EVENT_IKEEXT_QM_FAILURE1_
     GUID mmProviderContextKey;
     } 	FWPM_NET_EVENT_IKEEXT_QM_FAILURE1;
 
-#line 907 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 855 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 typedef struct FWPM_NET_EVENT_IKEEXT_EM_FAILURE0_
@@ -231452,7 +229707,7 @@ typedef struct FWPM_NET_EVENT_IKEEXT_EM_FAILURE1_
     IPSEC_TRAFFIC_TYPE saTrafficType;
     } 	FWPM_NET_EVENT_IKEEXT_EM_FAILURE1;
 
-#line 944 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 892 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_NET_EVENT_CLASSIFY_DROP0_
     {
     UINT64 filterId;
@@ -231508,7 +229763,7 @@ typedef struct FWPM_NET_EVENT_CLASSIFY_DROP_MAC0_
     UINT32 vSwitchDestinationPort;
     } 	FWPM_NET_EVENT_CLASSIFY_DROP_MAC0;
 
-#line 1000 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT_CLASSIFY_ALLOW0
     {
@@ -231521,7 +229776,7 @@ typedef struct FWPM_NET_EVENT_CLASSIFY_ALLOW0
     BOOL isLoopback;
     } 	FWPM_NET_EVENT_CLASSIFY_ALLOW0;
 
-#line 1013 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 961 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_NET_EVENT_IPSEC_KERNEL_DROP0_
     {
     INT32 failureStatus;
@@ -231571,14 +229826,14 @@ typedef struct FWPM_NET_EVENT_CAPABILITY_ALLOW0_
     BOOL isLoopback;
     } 	FWPM_NET_EVENT_CAPABILITY_ALLOW0;
 
-#line 1063 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT_LPM_PACKET_ARRIVAL0_
     {
     IPSEC_SA_SPI spi;
     } 	FWPM_NET_EVENT_LPM_PACKET_ARRIVAL0;
 
-#line 1070 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1018 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_NET_EVENT0_
     {
     FWPM_NET_EVENT_HEADER0 header;
@@ -231610,7 +229865,7 @@ typedef struct FWPM_NET_EVENT1_
         } 	;
     } 	FWPM_NET_EVENT1;
 
-#line 1102 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1050 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT2_
     {
@@ -231631,7 +229886,7 @@ typedef struct FWPM_NET_EVENT2_
         } 	;
     } 	FWPM_NET_EVENT2;
 
-#line 1123 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1071 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT3_
     {
@@ -231652,7 +229907,7 @@ typedef struct FWPM_NET_EVENT3_
         } 	;
     } 	FWPM_NET_EVENT3;
 
-#line 1144 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1092 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT4_
     {
@@ -231673,7 +229928,7 @@ typedef struct FWPM_NET_EVENT4_
         } 	;
     } 	FWPM_NET_EVENT4;
 
-#line 1165 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_NET_EVENT5_
     {
@@ -231695,7 +229950,7 @@ typedef struct FWPM_NET_EVENT5_
         } 	;
     } 	FWPM_NET_EVENT5;
 
-#line 1187 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 typedef struct FWPM_NET_EVENT_ENUM_TEMPLATE0_
     {
     FILETIME startTime;
@@ -231735,7 +229990,7 @@ typedef struct FWPM_SYSTEM_PORTS0_
      FWPM_SYSTEM_PORTS_BY_TYPE0 *types;
     } 	FWPM_SYSTEM_PORTS0;
 
-#line 1227 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 typedef struct FWPM_CONNECTION0_
     {
@@ -231823,15 +230078,15 @@ typedef struct FWPM_VSWITCH_EVENT_SUBSCRIPTION0_
     GUID sessionKey;
     } 	FWPM_VSWITCH_EVENT_SUBSCRIPTION0;
 
-#line 1315 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 #pragma warning(pop)
 
 
-#line 1321 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
-#line 1322 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
-#line 1323 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
+#line 1270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
+#line 1271 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 #pragma endregion
 
 
@@ -231846,13 +230101,13 @@ extern RPC_IF_HANDLE __MIDL_itf_fwpmtypes_0000_0000_v0_0_s_ifspec;
 
 
 
-#line 1338 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpmtypes.h"
+#line 1286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpmtypes.h"
 
 
 #pragma external_header(pop)
 #line 3098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpmk.h"
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 
 
@@ -232696,9 +230951,7 @@ extern RPC_IF_HANDLE __MIDL_itf_fwpmtypes_0000_0000_v0_0_s_ifspec;
 
 
 
-
-
-#line 847 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\fwpvi.h"
+#line 845 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\fwpvi.h"
 
 #pragma external_header(pop)
 #line 3099 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpmk.h"
@@ -234825,7 +233078,7 @@ FwpmConnectionPolicyDeleteByKey0(
 #line 5220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\fwpmk.h"
 #pragma endregion
 
-#line 39 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 39 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 #line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\wdf\\kmdf\\1.33\\wdf.h"
 
 
@@ -240256,7 +238509,7 @@ WdfFileObjectWdmGetFileObject(
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
@@ -240458,14 +238711,14 @@ WdfFileObjectWdmGetFileObject(
 
 
 
-#line 203 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
 
 
 
-#line 208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 
-#line 210 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\devpropdef.h"
+#line 210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\devpropdef.h"
 #pragma endregion
 #pragma external_header(pop)
 #line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\wdf\\kmdf\\1.33\\wdfdevice.h"
@@ -257875,9 +256128,9 @@ WdfCompanionTargetWdmGetCompanionProcess(
 
 #line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\wdf\\kmdf\\1.33\\wdf.h"
 
-#line 40 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 40 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\include\\stdarg.h"
+#line 1 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\stdarg.h"
 
 
 
@@ -257908,7 +256161,7 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 41 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 41 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 #line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntstrsafe.h"
 
 
@@ -257929,7 +256182,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
@@ -257943,7 +256196,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -257957,7 +256210,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -257977,24 +256230,24 @@ __pragma(pack(push, 8))
 
 
 
-#line 21 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 26 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
     
-#line 28 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
 
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
         
     
 
-#line 37 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
-#line 38 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -258018,12 +256271,12 @@ __pragma(pack(push, 8))
 
 
 
-#line 62 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
     
 
@@ -258031,15 +256284,15 @@ __pragma(pack(push, 8))
 
 
 
-#line 75 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
-#line 76 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
+#line 76 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
 
 
-#line 83 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
@@ -258061,11 +256314,11 @@ __pragma(pack(push, 8))
         static unsigned __int64 _OptionsStorage;
         return &_OptionsStorage;
     }
-#line 105 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
-#line 109 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -258090,7 +256343,7 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
@@ -258109,7 +256362,7 @@ __pragma(pack(push, 8))
     {
         void* _Placeholder;
     } FILE;
-#line 33 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
@@ -258176,7 +256429,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     
-#line 103 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __declspec(dllimport) wint_t __cdecl putwc(
@@ -258254,7 +256507,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
               wchar_t const* _Mode
             );
 
-    #line 181 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(dllimport) int __cdecl _wremove(
           wchar_t const* _FileName
@@ -258279,10 +256532,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     
-#line 209 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wtmpnam_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport)  wchar_t* __cdecl _wtmpnam(  wchar_t *_Buffer);
-#line 215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -258323,7 +256576,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
 
 
-#line 256 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -258375,11 +256628,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 308 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 312 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwprintf(
@@ -258389,11 +256642,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 322 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_s_l(
@@ -258404,11 +256657,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 337 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 341 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258420,13 +256673,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 353 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 359 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p_l(
@@ -258437,11 +256690,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 370 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 374 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p(
@@ -258451,11 +256704,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 384 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 388 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_l(
@@ -258465,11 +256718,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 398 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 398 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 402 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwprintf(
@@ -258478,11 +256731,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 411 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 415 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_s_l(
@@ -258492,11 +256745,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 425 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 425 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 429 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258507,13 +256760,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 440 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 440 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
         }
-    #line 444 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 444 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 446 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p_l(
@@ -258523,11 +256776,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 456 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 460 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p(
@@ -258536,11 +256789,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 469 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 473 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_l(
@@ -258550,7 +256803,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 483 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258559,7 +256812,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 492 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 492 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl fwprintf(
@@ -258568,7 +256821,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 501 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 501 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258577,7 +256830,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 510 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 510 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_s_l(
@@ -258587,7 +256840,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 520 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 520 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258596,7 +256849,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 529 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258607,7 +256860,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 540 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 540 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -258616,9 +256869,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 549 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 551 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 551 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p_l(
@@ -258628,7 +256881,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 561 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258637,7 +256890,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 570 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p(
@@ -258646,7 +256899,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 579 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258655,7 +256908,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 588 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_l(
@@ -258664,7 +256917,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 597 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 597 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258673,7 +256926,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 606 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl wprintf(
@@ -258681,7 +256934,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 614 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258690,7 +256943,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 623 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_s_l(
@@ -258699,7 +256952,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 632 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 632 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258708,7 +256961,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 641 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258718,7 +256971,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 651 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -258727,9 +256980,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 660 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 660 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 662 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p_l(
@@ -258738,7 +256991,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 671 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 671 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258747,7 +257000,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 680 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 680 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p(
@@ -258755,7 +257008,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 688 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 688 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258764,7 +257017,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 697 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -258790,13 +257043,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 723 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 729 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 729 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwscanf(
@@ -258806,11 +257059,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 739 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 743 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 743 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwscanf_s_l(
@@ -258821,13 +257074,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 754 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 754 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 760 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 760 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258839,13 +257092,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 772 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 772 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 776 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 778 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __inline int __cdecl _vwscanf_l(
             wchar_t const* const _Format,
@@ -258854,11 +257107,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 787 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 787 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 791 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 791 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwscanf(
@@ -258867,11 +257120,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 800 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 800 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
     }
-    #line 804 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwscanf_s_l(
@@ -258881,11 +257134,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 814 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 818 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 818 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258896,13 +257149,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 829 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 829 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
         }
-    #line 833 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 835 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_fwscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _fwscanf_l(
@@ -258912,7 +257165,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 845 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 845 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258921,7 +257174,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 854 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 854 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "fwscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl fwscanf(
@@ -258930,7 +257183,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 863 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258939,7 +257192,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 872 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 872 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwscanf_s_l(
@@ -258949,7 +257202,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 882 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258958,7 +257211,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 891 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -258969,7 +257222,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 902 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 902 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -258978,9 +257231,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 911 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 911 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 913 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 913 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_wscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _wscanf_l(
@@ -258989,7 +257242,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 922 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 922 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -258998,7 +257251,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 931 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 931 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "wscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl wscanf(
@@ -259006,7 +257259,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 939 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259015,7 +257268,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 948 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wscanf_s_l(
@@ -259024,7 +257277,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 957 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259033,7 +257286,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 966 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 966 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -259043,7 +257296,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 976 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -259052,9 +257305,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 985 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 985 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 987 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 987 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -259070,7 +257323,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
     
 
-#line 1003 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1003 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259128,7 +257381,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1061 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1061 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -259136,7 +257389,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1069 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1069 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259150,7 +257403,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1083 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vsnwprintf_s(
             (*__local_stdio_printf_options()),
@@ -259158,7 +257411,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1091 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259171,14 +257424,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1104 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vsnwprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1108 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snwprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl _snwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, ...); __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vsnwprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl _vsnwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, va_list _Args);
-#line 1117 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vsnwprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -259190,14 +257443,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1129 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vsnwprintf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1133 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259210,7 +257463,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1155 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()),
@@ -259218,7 +257471,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1163 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259230,11 +257483,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1175 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1179 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259247,11 +257500,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1192 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 1196 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259263,11 +257516,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1212 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259278,11 +257531,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1223 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, ((void *)0), _ArgList);
     }
-    #line 1227 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259294,11 +257547,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1239 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1243 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259311,7 +257564,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1256 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_s(
             (*__local_stdio_printf_options()),
@@ -259319,7 +257572,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1264 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -259332,16 +257585,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1277 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswprintf_s_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1281 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1283 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1283 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1291 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259354,7 +257607,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1304 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1304 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()),
@@ -259362,7 +257615,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1312 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259374,11 +257627,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1324 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_p_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1328 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259389,7 +257642,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1339 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -259397,7 +257650,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1347 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259407,11 +257660,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1357 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1361 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259422,7 +257675,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1372 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -259430,7 +257683,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1380 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259440,11 +257693,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1390 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1390 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_p_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1394 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1394 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259455,7 +257708,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1405 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259464,7 +257717,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1414 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1414 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259476,7 +257729,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1426 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259485,7 +257738,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1435 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1435 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259495,7 +257748,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1445 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259504,7 +257757,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1454 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1454 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259515,7 +257768,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1465 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1465 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259524,13 +257777,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1474 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1474 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "__swprintf_l_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl __swprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, ...); __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vswprintf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl __vswprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, va_list _Args);
-#line 1483 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "swprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl _swprintf(   wchar_t *_Buffer,     wchar_t const* _Format, ...); __declspec(deprecated("This function or variable may be unsafe. Consider using " "vswprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __inline   int __cdecl _vswprintf(   wchar_t *_Buffer,     wchar_t const* _Format, va_list _Args);
-#line 1490 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259542,7 +257795,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1502 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259551,7 +257804,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1511 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1511 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -259563,7 +257816,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 1523 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -259572,12 +257825,12 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1532 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1532 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1534 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1534 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1541 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1541 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259589,7 +257842,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1553 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259598,7 +257851,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1562 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1562 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259609,7 +257862,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1573 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1573 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259618,7 +257871,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1582 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259630,7 +257883,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1594 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259639,7 +257892,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1603 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259650,7 +257903,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1614 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259659,7 +257912,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1623 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snwprintf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -259671,7 +257924,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1635 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1635 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259682,7 +257935,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1646 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259693,7 +257946,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1657 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259704,7 +257957,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1668 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259717,7 +257970,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1681 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259726,7 +257979,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1690 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259738,7 +257991,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1702 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259747,10 +258000,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1711 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1711 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1719 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1719 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _scwprintf_l(
@@ -259759,7 +258012,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1728 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1728 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259768,7 +258021,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1737 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1737 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259777,7 +258030,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1746 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1746 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259786,7 +258039,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1755 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1755 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259796,7 +258049,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1765 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259805,7 +258058,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1774 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -259814,7 +258067,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1783 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1783 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -259823,7 +258076,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1792 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -259887,14 +258140,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
 
         #pragma warning(pop)
-    #line 1856 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1856 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
 
 
-#line 1863 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -259922,13 +258175,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1891 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1897 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1897 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259939,11 +258192,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1908 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1908 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswscanf_l(_Buffer, _Format, ((void *)0), _ArgList);
     }
-    #line 1912 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -259955,13 +258208,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1924 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1924 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1930 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -259974,16 +258227,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1943 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1943 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswscanf_s_l(_Buffer, _Format, ((void *)0), _ArgList);
         }
-    #line 1947 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1949 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1949 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1957 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vsnwscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -259996,13 +258249,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1970 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 1976 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -260015,13 +258268,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1989 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 1989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 1995 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 1995 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_swscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -260032,7 +258285,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2006 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260041,7 +258294,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2015 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2015 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "swscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -260051,7 +258304,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2025 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2025 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260060,7 +258313,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2034 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2034 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -260071,7 +258324,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2045 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2045 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260080,7 +258333,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2054 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2054 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -260092,7 +258345,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 2066 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -260101,9 +258354,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2075 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 2077 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2077 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snwscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -260115,7 +258368,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2089 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260126,7 +258379,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snwscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -260137,7 +258390,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2111 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260148,7 +258401,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2122 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -260160,7 +258413,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2134 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260169,7 +258422,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -260180,7 +258433,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2154 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -260189,18 +258442,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2163 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+    #line 2163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
-#line 2168 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h"
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h"
 
 __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
@@ -260239,7 +258492,7 @@ __pragma(pack(push, 8))
 
 
     
-#line 53 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 53 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
@@ -260257,7 +258510,7 @@ __pragma(pack(push, 8))
 
     
     
-#line 71 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 typedef __int64 fpos_t;
@@ -260331,7 +258584,7 @@ typedef __int64 fpos_t;
                                rsize_t _Size
             );
 
-    #line 145 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl clearerr(
           FILE* _Stream
@@ -260504,7 +258757,7 @@ typedef __int64 fpos_t;
     __declspec(dllimport) int __cdecl _getmaxstdio(void);
 
     
-#line 319 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) int __cdecl _getw(
@@ -260529,7 +258782,7 @@ typedef __int64 fpos_t;
               char const* _Mode
             );
 
-    #line 344 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 344 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -260576,7 +258829,7 @@ typedef __int64 fpos_t;
               char const* _FileName
             );
 
-    #line 391 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl rewind(
           FILE* _Stream
@@ -260608,7 +258861,7 @@ typedef __int64 fpos_t;
     
 
 
-#line 423 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) __declspec(allocator) char* __cdecl _tempnam(
@@ -260618,16 +258871,16 @@ typedef __int64 fpos_t;
 
     
 
-#line 433 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "tmpfile_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __declspec(dllimport) FILE* __cdecl tmpfile(void);
 
     
-#line 442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 __declspec(deprecated("This function or variable may be unsafe. Consider using " "tmpnam_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details.")) __declspec(dllimport)  char* __cdecl tmpnam(  char *_Buffer);
-#line 448 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -260765,7 +259018,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
 
 
-#line 586 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
@@ -260775,14 +259028,14 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
 
         
-    #line 596 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
     
     
 
-#line 603 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     
@@ -260823,11 +259076,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 644 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 648 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfprintf(
@@ -260837,11 +259090,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 658 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 662 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_s_l(
@@ -260852,11 +259105,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 673 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 673 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 677 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -260868,13 +259121,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 689 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 693 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 695 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p_l(
@@ -260885,11 +259138,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 706 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 710 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p(
@@ -260899,11 +259152,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 720 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 724 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_l(
@@ -260913,11 +259166,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 734 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 734 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 738 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 738 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vprintf(
@@ -260926,11 +259179,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 747 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 747 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 751 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 751 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_s_l(
@@ -260940,11 +259193,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 761 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 765 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -260955,13 +259208,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 776 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
         }
-    #line 780 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 780 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 782 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p_l(
@@ -260971,11 +259224,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 792 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 796 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 796 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p(
@@ -260984,11 +259237,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 805 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 805 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 809 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 809 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_l(
@@ -260998,7 +259251,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 819 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261007,7 +259260,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 828 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl fprintf(
@@ -261016,7 +259269,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 837 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 837 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261025,7 +259278,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 846 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 846 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) int __cdecl _set_printf_count_output(
           int _Value
@@ -261041,7 +259294,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 862 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261050,7 +259303,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 871 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 871 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261061,7 +259314,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 882 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -261070,9 +259323,9 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 891 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 893 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 893 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p_l(
@@ -261082,7 +259335,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 903 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 903 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261091,7 +259344,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 912 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p(
@@ -261100,7 +259353,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 921 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 921 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261109,7 +259362,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 930 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_l(
@@ -261118,7 +259371,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 939 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261127,7 +259380,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 948 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl printf(
@@ -261135,7 +259388,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 956 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261144,7 +259397,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 965 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_s_l(
@@ -261153,7 +259406,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 974 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 974 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261162,7 +259415,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 983 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 983 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261172,7 +259425,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 993 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 993 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -261181,9 +259434,9 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1002 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1002 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1004 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1004 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p_l(
@@ -261192,7 +259445,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1013 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1013 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261201,7 +259454,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1022 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1022 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p(
@@ -261209,7 +259462,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1030 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1030 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261218,7 +259471,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1039 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1039 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
     
@@ -261243,13 +259496,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1064 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1064 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1070 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1070 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfscanf(
@@ -261259,11 +259512,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1080 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1080 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 1084 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1084 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfscanf_s_l(
@@ -261274,13 +259527,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1095 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1095 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1101 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
     
@@ -261293,13 +259546,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 1114 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 1118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1120 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_l(
@@ -261309,11 +259562,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1134 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vscanf(
@@ -261322,11 +259575,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1143 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
     }
-    #line 1147 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_s_l(
@@ -261336,11 +259589,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1157 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vfscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1161 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261351,13 +259604,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 1172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
         }
-    #line 1176 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1178 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_fscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _fscanf_l(
@@ -261367,7 +259620,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1188 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261376,7 +259629,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1197 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "fscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl fscanf(
@@ -261385,7 +259638,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1206 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261394,7 +259647,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fscanf_s_l(
@@ -261404,7 +259657,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1225 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261413,7 +259666,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1234 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261424,7 +259677,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 1245 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -261433,9 +259686,9 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1254 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1256 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_scanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _scanf_l(
@@ -261444,7 +259697,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1265 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261453,7 +259706,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1274 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1274 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "scanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl scanf(
@@ -261461,7 +259714,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1282 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261470,7 +259723,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1291 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scanf_s_l(
@@ -261479,7 +259732,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1300 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261488,7 +259741,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1309 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261498,7 +259751,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 1319 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -261507,9 +259760,9 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1328 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1330 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1330 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
@@ -261570,7 +259823,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1391 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -261578,7 +259831,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1399 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261590,11 +259843,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1411 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1415 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261605,7 +259858,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
 
 
-#line 1426 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261617,7 +259870,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1438 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -261625,7 +259878,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1446 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vsprintf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -261637,11 +259890,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1458 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1458 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1462 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "vsprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -261652,11 +259905,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1473 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, ((void *)0), _ArgList);
     }
-    #line 1477 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261669,7 +259922,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1490 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_s(
             (*__local_stdio_printf_options()),
@@ -261677,7 +259930,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1498 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261691,16 +259944,16 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 1512 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1512 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vsprintf_s_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1516 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1516 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
         
-#line 1524 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1524 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1526 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261713,7 +259966,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1539 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()),
@@ -261721,7 +259974,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1547 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1547 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261733,11 +259986,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1559 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsprintf_p_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1563 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261751,7 +260004,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1577 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsnprintf_s(
             (*__local_stdio_printf_options()),
@@ -261759,7 +260012,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1585 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261772,14 +260025,14 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1598 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1598 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1602 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1602 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
-#line 1611 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261794,16 +260047,16 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 1626 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1630 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1630 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
         
-#line 1639 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1641 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_l(
@@ -261813,7 +260066,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1651 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -261821,7 +260074,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1659 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf(
@@ -261830,11 +260083,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1668 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vscprintf_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1672 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1672 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_p_l(
@@ -261844,7 +260097,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1682 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1682 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -261852,7 +260105,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1690 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf_p(
@@ -261861,11 +260114,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1699 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vscprintf_p_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1703 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1703 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsnprintf_c_l(
@@ -261877,7 +260130,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1715 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1715 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()),
@@ -261885,7 +260138,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1723 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261897,11 +260150,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 1735 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1735 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1739 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_sprintf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -261912,7 +260165,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1750 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1750 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261923,7 +260176,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1761 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261933,7 +260186,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1771 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261944,10 +260197,10 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1782 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "sprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))   int __cdecl sprintf(  char *_Buffer,  char const* _Format, ...); __declspec(deprecated("This function or variable may be unsafe. Consider using " "vsprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))   int __cdecl vsprintf(  char *_Buffer,  char const* _Format, va_list _Args);
-#line 1789 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1789 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -261959,7 +260212,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1801 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1801 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -261968,7 +260221,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1810 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1810 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -261981,7 +260234,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 1823 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1823 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -261990,12 +260243,12 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1832 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1832 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 1834 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1834 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
-#line 1841 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262007,7 +260260,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1853 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1853 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262016,7 +260269,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1862 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262027,7 +260280,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1873 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1873 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262036,7 +260289,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1882 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snprintf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
@@ -262048,7 +260301,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1894 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1894 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262059,7 +260312,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1905 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1905 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -262070,7 +260323,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
 
 
-#line 1916 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1916 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262081,7 +260334,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1927 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1927 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262090,7 +260343,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1936 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1936 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262101,7 +260354,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1947 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262110,10 +260363,10 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1956 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))    int __cdecl _snprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, ...); __declspec(deprecated("This function or variable may be unsafe. Consider using " "_vsnprintf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))    int __cdecl _vsnprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, va_list _Args);
-#line 1965 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262125,7 +260378,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1977 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1977 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262134,7 +260387,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1986 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 1986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262145,7 +260398,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 1997 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 1997 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262154,7 +260407,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2006 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262167,7 +260420,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2019 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2019 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262176,7 +260429,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2028 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2028 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     
@@ -262188,7 +260441,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2040 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2040 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262197,10 +260450,10 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2049 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2049 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
-#line 2057 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_l(
@@ -262209,7 +260462,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2066 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262218,7 +260471,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2075 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf(
@@ -262226,7 +260479,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2083 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262235,7 +260488,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2092 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2092 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_p_l(
@@ -262244,7 +260497,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2101 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262253,7 +260506,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2110 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf_p(
@@ -262261,7 +260514,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262270,7 +260523,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2127 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     
@@ -262295,13 +260548,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 2152 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2158 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vsscanf(
@@ -262311,11 +260564,11 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 2168 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return _vsscanf_l(_Buffer, _Format, ((void *)0), _ArgList);
     }
-    #line 2172 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsscanf_s_l(
@@ -262326,13 +260579,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         )
     
 
-#line 2183 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2189 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -262347,18 +260600,18 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             )
     
 
-#line 2204 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             return _vsscanf_s_l(_Buffer, _Format, ((void *)0), _ArgList);
         }
-    #line 2208 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
         
-#line 2215 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
         #pragma warning(pop)
 
-    #line 2219 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_sscanf_s_l" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _sscanf_l(
@@ -262368,7 +260621,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2229 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262377,7 +260630,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2238 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
       __declspec(deprecated("This function or variable may be unsafe. Consider using " "sscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl sscanf(
@@ -262386,7 +260639,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2247 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262395,7 +260648,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2256 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _sscanf_s_l(
@@ -262405,7 +260658,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2266 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2266 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262414,7 +260667,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2275 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2275 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
 
@@ -262425,7 +260678,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ...)
     
 
-#line 2286 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -262436,9 +260689,9 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2297 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
-    #line 2299 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     #pragma warning(push)
     #pragma warning(disable: 6530) 
@@ -262452,7 +260705,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2313 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262465,7 +260718,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
      __declspec(deprecated("This function or variable may be unsafe. Consider using " "_snscanf_s" " instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. " "See online help for details."))
     __inline int __cdecl _snscanf(
@@ -262475,7 +260728,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2336 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262488,7 +260741,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2349 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
     
@@ -262500,7 +260753,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2361 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262513,7 +260766,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2374 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _snscanf_s(
@@ -262523,7 +260776,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ...)
     
 
-#line 2384 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -262536,13 +260789,13 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2397 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
     #pragma warning(pop)
 
     
 
-#line 2403 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
@@ -262558,7 +260811,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
         
 
 
-#line 2419 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_tempnam" ". See online help for details."))
         __declspec(dllimport) char* __cdecl tempnam(
@@ -262568,7 +260821,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
         
 
-#line 2429 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fcloseall" ". See online help for details.")) __declspec(dllimport) int   __cdecl fcloseall(void);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fdopen" ". See online help for details."))    __declspec(dllimport) FILE* __cdecl fdopen(  int _FileHandle,   char const* _Format);
@@ -262580,15 +260833,15 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_putw" ". See online help for details."))      __declspec(dllimport) int   __cdecl putw(  int _Ch,   FILE* _Stream);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_rmtmp" ". See online help for details."))     __declspec(dllimport) int   __cdecl rmtmp(void);
 
-    #line 2441 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
-#line 2442 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+    #line 2441 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
+#line 2442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 
 
 
 __pragma(pack(pop))
 
 #pragma warning(pop) 
-#line 2449 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\ucrt\\stdio.h"
+#line 2449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h"
 #pragma external_header(pop)
 #line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntstrsafe.h"
 
@@ -275646,10 +273899,10 @@ static __inline NTSTATUS __stdcall
 #pragma warning(pop)
 
 #line 13075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntstrsafe.h"
-#line 42 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 42 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 #pragma external_header(push)
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -275706,7 +273959,7 @@ static __inline NTSTATUS __stdcall
 
 
 
-#line 58 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -275715,7 +273968,7 @@ static __inline NTSTATUS __stdcall
 
 
 
-#line 67 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\packages\\Microsoft.Windows.SDK.CPP.10.0.26100.2454\\c\\Include\\10.0.26100.0\\shared\\guiddef.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h"
 
 
 
@@ -275856,9 +274109,9 @@ static __inline NTSTATUS __stdcall
 
 
 #pragma external_header(pop)
-#line 44 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 44 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device_constants.h"
+#line 1 "E:\\Unity\\WinDivert\\include\\windivert_device_constants.h"
 
 
 
@@ -275869,9 +274122,9 @@ static __inline NTSTATUS __stdcall
 extern const UNICODE_STRING device_name;
 extern const UNICODE_STRING dos_device_name;
 
-#line 12 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device_constants.h"
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h"
+#line 12 "E:\\Unity\\WinDivert\\include\\windivert_device_constants.h"
+#line 46 "E:\\Unity\\WinDivert\\sys\\windivert.c"
+#line 1 "E:\\Unity\\WinDivert\\include\\windivert_device.h"
 
 
 
@@ -275916,7 +274169,7 @@ extern const UNICODE_STRING dos_device_name;
 
 
 
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 1 "E:\\Unity\\WinDivert\\include\\windivert.h"
 
 
 
@@ -275960,7 +274213,7 @@ extern const UNICODE_STRING dos_device_name;
 
 
 
-#line 45 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 45 "E:\\Unity\\WinDivert\\include\\windivert.h"
 
 
 
@@ -276057,7 +274310,7 @@ typedef struct
 
 #pragma warning(push)
 #pragma warning(disable: 4201)
-#line 142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 142 "E:\\Unity\\WinDivert\\include\\windivert.h"
 typedef struct
 {
     INT64  Timestamp;                   
@@ -276084,7 +274337,7 @@ typedef struct
 } WINDIVERT_ADDRESS, *PWINDIVERT_ADDRESS;
 
 #pragma warning(pop)
-#line 169 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 169 "E:\\Unity\\WinDivert\\include\\windivert.h"
 
 
 
@@ -276252,7 +274505,7 @@ typedef enum
 
 #pragma warning(push)
 #pragma warning(disable: 4214)
-#line 337 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 337 "E:\\Unity\\WinDivert\\include\\windivert.h"
 
 
 
@@ -276390,7 +274643,7 @@ typedef struct
 
 
 #pragma warning(pop)
-#line 475 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
+#line 475 "E:\\Unity\\WinDivert\\include\\windivert.h"
 
 
 
@@ -276546,8 +274799,8 @@ typedef struct
 
 
 
-#line 631 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert.h"
-#line 46 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h"
+#line 631 "E:\\Unity\\WinDivert\\include\\windivert.h"
+#line 46 "E:\\Unity\\WinDivert\\include\\windivert_device.h"
 
 
 
@@ -276827,9 +275080,9 @@ typedef struct
 
 
 
-#line 326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\include\\windivert_device.h"
-#line 47 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert_log.h"
+#line 326 "E:\\Unity\\WinDivert\\include\\windivert_device.h"
+#line 47 "E:\\Unity\\WinDivert\\sys\\windivert.c"
+#line 1 "E:\\Unity\\WinDivert\\sys\\windivert_log.h"
 
 
 
@@ -276917,7 +275170,7 @@ typedef struct
 
 
 
-#line 48 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 48 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
  
 
@@ -276956,7 +275209,7 @@ EVT_WDF_WORKITEM windivert_reflect_worker;
 
 
 
-#line 87 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 87 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 
 
@@ -277101,7 +275354,7 @@ typedef req_context_s* WDF_POINTER_TYPE_req_context_s;  __declspec(allocate( ".d
 
 
 
-#line 232 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 232 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 struct packet_s
 {
     LIST_ENTRY entry;                       
@@ -277377,7 +275630,7 @@ static void windivert_log_event(PEPROCESS process, PDRIVER_OBJECT driver,
 
 
 extern const GUID __declspec(selectany) WINDIVERT_PROVIDER_GUID = { 0x450EC398, 0x1EAF, 0x49F5, { 0x85, 0xE0, 0x22, 0x8F, 0x0D, 0x29, 0x39, 0x21 } };
-#line 509 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 509 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 
 
@@ -277385,45 +275638,45 @@ extern const GUID __declspec(selectany) WINDIVERT_PROVIDER_GUID = { 0x450EC398, 
 
 
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_INBOUND_IPV4_GUID = { 0x82A99281, 0x0389, 0x4DE2, { 0xAE, 0x2D, 0xA4, 0x51, 0x59, 0x16, 0x26, 0x06 } };
-#line 518 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 518 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_OUTBOUND_IPV4_GUID = { 0xB0BB07C6, 0x3B3B, 0x41FE, { 0x83, 0x8B, 0xD8, 0x37, 0xDD, 0xB8, 0x75, 0x41 } };
-#line 521 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 521 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_INBOUND_IPV6_GUID = { 0xD7674846, 0x3AB5, 0x4E93, { 0x82, 0xD0, 0x2F, 0xCC, 0x03, 0xA2, 0x88, 0x7A } };
-#line 524 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 524 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_OUTBOUND_IPV6_GUID = { 0x6672F761, 0xA0F2, 0x4578, { 0x92, 0x50, 0x09, 0x03, 0x0D, 0x4E, 0x8C, 0x46 } };
-#line 527 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 527 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_FORWARD_IPV4_GUID = { 0x4622DCC6, 0xBD71, 0x48ED, { 0x9D, 0x1A, 0x72, 0xC9, 0x0D, 0xEB, 0xA1, 0x74 } };
-#line 530 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 530 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_FORWARD_IPV6_GUID = { 0x7E5B39EC, 0xB54C, 0x41B3, { 0xA7, 0x99, 0x47, 0x5E, 0x57, 0x41, 0xA4, 0x33 } };
-#line 533 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 533 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_FLOW_ESTABLISHED_IPV4_GUID = { 0x53D6C270, 0xEB79, 0x44CD, { 0x83, 0xCD, 0x14, 0x34, 0xE6, 0x13, 0x91, 0x68 } };
-#line 536 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 536 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_FLOW_ESTABLISHED_IPV6_GUID = { 0x44B0CDED, 0xAA11, 0x4704, { 0x92, 0xA7, 0x99, 0xD2, 0xB7, 0x59, 0x7A, 0x68 } };
-#line 539 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 539 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_RESOURCE_ASSIGNMENT_IPV4_GUID = { 0x736848B6, 0xBE0D, 0x4A8D, { 0xA0, 0xC2, 0xE2, 0x02, 0xDC, 0x29, 0x32, 0xBC } };
-#line 542 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 542 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_RESOURCE_ASSIGNMENT_IPV6_GUID = { 0xF3458E58, 0xD123, 0x439B, { 0xB6, 0x40, 0x74, 0x3C, 0xC7, 0x53, 0x9E, 0x36 } };
-#line 545 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 545 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_RESOURCE_RELEASE_IPV4_GUID = { 0x02366282, 0x9099, 0x43A7, { 0x95, 0xC3, 0xAB, 0x52, 0x87, 0xB3, 0xF2, 0xDC } };
-#line 548 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 548 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_RESOURCE_RELEASE_IPV6_GUID = { 0x60FCA14A, 0x7677, 0x45D2, { 0xBB, 0x5C, 0x15, 0xDB, 0xAE, 0x4B, 0x7B, 0x6B } };
-#line 551 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 551 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_CONNECT_IPV4_GUID = { 0x2F97411F, 0x6350, 0x450A, { 0xBF, 0x45, 0x4C, 0x0B, 0xC1, 0xDB, 0x3F, 0x7E } };
-#line 554 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 554 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_CONNECT_IPV6_GUID = { 0x7BAFEEEB, 0x84F0, 0x4BB0, { 0x91, 0x1F, 0x7E, 0x62, 0x2D, 0x73, 0x24, 0x2C } };
-#line 557 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 557 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_ENDPOINT_CLOSURE_IPV4_GUID = { 0x8180D216, 0xB3BD, 0x4014, { 0x99, 0x69, 0xA3, 0xDF, 0x0F, 0x3E, 0x61, 0x85 } };
-#line 560 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 560 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_ENDPOINT_CLOSURE_IPV6_GUID = { 0x2535A264, 0xEC8B, 0x49CC, { 0xA4, 0xD6, 0x83, 0x81, 0xD7, 0x5F, 0xAB, 0xE6 } };
-#line 563 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 563 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_LISTEN_IPV4_GUID = { 0x49F2A9AD, 0x805E, 0x4328, { 0xBB, 0xDA, 0x92, 0x57, 0xB5, 0x18, 0x3A, 0x40 } };
-#line 566 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 566 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_LISTEN_IPV6_GUID = { 0xC1BB250E, 0xDE07, 0x41AB, { 0x82, 0xEE, 0xAD, 0x7B, 0xFF, 0x13, 0xCE, 0x35 } };
-#line 569 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 569 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_RECV_ACCEPT_IPV4_GUID = { 0x7A012579, 0xC75A, 0x4D29, { 0xB7, 0x47, 0x04, 0xAD, 0x3C, 0x7B, 0x32, 0x69 } };
-#line 572 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 572 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 extern const GUID __declspec(selectany) WINDIVERT_SUBLAYER_AUTH_RECV_ACCEPT_IPV6_GUID = { 0x1C51DD53, 0x6BA4, 0x4149, { 0x89, 0x97, 0x1C, 0xD4, 0x8B, 0x51, 0x1B, 0x7D } };
-#line 575 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 575 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
 
 
@@ -277779,7 +276032,7 @@ static const struct layer_s windivert_layer_flow_established_ipv6 =
  
 
 
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
 
 
 
@@ -277889,7 +276142,7 @@ static UINT64 WinDivertMul64(UINT64 a, UINT64 b)
 
 
 
-#line 111 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 111 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
 
 
 
@@ -277906,7 +276159,7 @@ typedef struct
 
 
 
-#line 1 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_hash.c"
+#line 1 "E:\\Unity\\WinDivert\\dll\\windivert_hash.c"
 
 
 
@@ -278110,7 +276363,7 @@ static UINT64 WinDivertHashPacket(UINT64 seed,
     return h64;
 }
 
-#line 128 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 128 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
 
 
 
@@ -278421,7 +276674,7 @@ static BOOL WinDivertHelperParsePacketEx(const void *pPacket, UINT packetLen,
                         }
                         frag_header = (PWINDIVERT_IPV6FRAGHDR)data;
                         frag_off    = (((((((frag_header)->FragOff0) & 0xF8FF)) >> 8) & 0x00FFu) | ((((((frag_header)->FragOff0) & 0xF8FF)) << 8) & 0xFF00u));
-#line 439 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 439 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                         MF          = ((((frag_header)->FragOff0) & 0x0100) != 0);
                         fragment    = 1;
                         break;
@@ -279111,35 +277364,35 @@ static __forceinline int WinDivertExecuteFilter(
                     break;
                 case 71:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (0), (packet_len), ((INT)filter[ip].arg[1]), (&data8), (sizeof(data8)));
-#line 1130 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1130 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = (UINT32)data8;
                     break;
                 case 72:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (0), (packet_len), ((INT)filter[ip].arg[1]), (&data16), (sizeof(data16)));
-#line 1136 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1136 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = (UINT32)((((data16) >> 8) & 0x00FFu) | (((data16) << 8) & 0xFF00u));
                     break;
                 case 73:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (0), (packet_len), ((INT)filter[ip].arg[1]), (&data32), (sizeof(data32)));
-#line 1142 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1142 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = ((((data32) >> 24) & 0x000000FFu) | (((data32) >> 8) & 0x0000FF00u) | (((data32) << 8) & 0x00FF0000u) | (((data32) << 24) & 0xFF000000u));
                     break;
                 case 74:
                 case 77:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (header_len), (header_len + payload_len), ((INT)filter[ip].arg[1]), (&data8), (sizeof(data8)));
-#line 1149 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1149 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = (UINT32)data8;
                     break;
                 case 75:
                 case 78:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (header_len), (header_len + payload_len), ((INT)filter[ip].arg[1]), (&data16), (sizeof(data16)));
-#line 1156 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1156 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = (UINT32)((((data16) >> 8) & 0x00FFu) | (((data16) << 8) & 0xFF00u));
                     break;
                 case 76:
                 case 79:
                     result = windivert_get_data((PNET_BUFFER)(packet), (packet_len), (header_len), (header_len + payload_len), ((INT)filter[ip].arg[1]), (&data32), (sizeof(data32)));
-#line 1163 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1163 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     val[0] = ((((data32) >> 24) & 0x000000FFu) | (((data32) >> 8) & 0x0000FF00u) | (((data32) << 8) & 0x00FF0000u) | (((data32) << 24) & 0xFF000000u));
                     break;
                 case 1:
@@ -279273,7 +277526,7 @@ static __forceinline int WinDivertExecuteFilter(
                     break;
                 case 17:
                     val[0] = (UINT32)(((((((ip_header)->FragOff0) & 0xFF1F)) >> 8) & 0x00FFu) | ((((((ip_header)->FragOff0) & 0xFF1F)) << 8) & 0xFF00u));
-#line 1297 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1297 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     break;
                 case 18:
                     val[0] = (UINT32)ip_header->TTL;
@@ -279302,7 +277555,7 @@ static __forceinline int WinDivertExecuteFilter(
                     break;
                 case 24:
                     val[0] = (UINT32)((((((((UINT32)(ipv6_header)->FlowLabel0) << 16) | ((UINT32)(ipv6_header)->FlowLabel1))) >> 24) & 0x000000FFu) | (((((((UINT32)(ipv6_header)->FlowLabel0) << 16) | ((UINT32)(ipv6_header)->FlowLabel1))) >> 8) & 0x0000FF00u) | (((((((UINT32)(ipv6_header)->FlowLabel0) << 16) | ((UINT32)(ipv6_header)->FlowLabel1))) << 8) & 0x00FF0000u) | (((((((UINT32)(ipv6_header)->FlowLabel0) << 16) | ((UINT32)(ipv6_header)->FlowLabel1))) << 24) & 0xFF000000u));
-#line 1326 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1326 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                     break;
                 case 25:
                     val[0] = (UINT32)((((ipv6_header->Length) >> 8) & 0x00FFu) | (((ipv6_header->Length) << 8) & 0xFF00u));
@@ -279421,7 +277674,7 @@ static __forceinline int WinDivertExecuteFilter(
                                 val[3] = val[2] = 0;
                                 val[1] = 0x0000FFFF;
                                 val[0] = (UINT32)(((((outbound? ip_header->SrcAddr: ip_header->DstAddr)) >> 24) & 0x000000FFu) | ((((outbound? ip_header->SrcAddr: ip_header->DstAddr)) >> 8) & 0x0000FF00u) | ((((outbound? ip_header->SrcAddr: ip_header->DstAddr)) << 8) & 0x00FF0000u) | ((((outbound? ip_header->SrcAddr: ip_header->DstAddr)) << 24) & 0xFF000000u));
-#line 1446 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1446 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (ipv6_header != ((void *)0) && outbound)
                             {
@@ -279468,7 +277721,7 @@ static __forceinline int WinDivertExecuteFilter(
                                 val[3] = val[2] = 0;
                                 val[1] = 0x0000FFFF;
                                 val[0] = (UINT32)(((((!outbound? ip_header->SrcAddr: ip_header->DstAddr)) >> 24) & 0x000000FFu) | ((((!outbound? ip_header->SrcAddr: ip_header->DstAddr)) >> 8) & 0x0000FF00u) | ((((!outbound? ip_header->SrcAddr: ip_header->DstAddr)) << 8) & 0x00FF0000u) | ((((!outbound? ip_header->SrcAddr: ip_header->DstAddr)) << 24) & 0xFF000000u));
-#line 1494 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1494 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (ipv6_header != ((void *)0) && !outbound)
                             {
@@ -279512,12 +277765,12 @@ static __forceinline int WinDivertExecuteFilter(
                             if (tcp_header != ((void *)0))
                             {
                                 val[0] = (UINT32)(((((outbound? tcp_header->SrcPort: tcp_header->DstPort)) >> 8) & 0x00FFu) | ((((outbound? tcp_header->SrcPort: tcp_header->DstPort)) << 8) & 0xFF00u));
-#line 1539 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1539 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (udp_header != ((void *)0))
                             {
                                 val[0] = (UINT32)(((((outbound? udp_header->SrcPort: udp_header->DstPort)) >> 8) & 0x00FFu) | ((((outbound? udp_header->SrcPort: udp_header->DstPort)) << 8) & 0xFF00u));
-#line 1545 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1545 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (icmp_header != ((void *)0))
                             {
@@ -279551,12 +277804,12 @@ static __forceinline int WinDivertExecuteFilter(
                             if (tcp_header != ((void *)0))
                             {
                                 val[0] = (UINT32)(((((!outbound? tcp_header->SrcPort: tcp_header->DstPort)) >> 8) & 0x00FFu) | ((((!outbound? tcp_header->SrcPort: tcp_header->DstPort)) << 8) & 0xFF00u));
-#line 1580 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1580 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (udp_header != ((void *)0))
                             {
                                 val[0] = (UINT32)(((((!outbound? udp_header->SrcPort: udp_header->DstPort)) >> 8) & 0x00FFu) | ((((!outbound? udp_header->SrcPort: udp_header->DstPort)) << 8) & 0xFF00u));
-#line 1586 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\dll\\windivert_shared.c"
+#line 1586 "E:\\Unity\\WinDivert\\dll\\windivert_shared.c"
                             }
                             else if (icmp_header != ((void *)0))
                             {
@@ -279710,7 +277963,7 @@ static __forceinline int WinDivertExecuteFilter(
     return -1;
 }
 
-#line 931 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 931 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
   
 
@@ -279794,7 +278047,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     {
         status = ((NTSTATUS)0xC000009AL);
         ;
-#line 1015 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1015 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     WdfDeviceInitSetDeviceType(device_init, 0x00000012);
@@ -279852,7 +278105,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1073 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1073 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     status = FwpsInjectionHandleCreate0(23,
@@ -279861,7 +278114,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1082 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1082 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     status = FwpsInjectionHandleCreate0(2,
@@ -279870,7 +278123,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1091 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1091 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     status = FwpsInjectionHandleCreate0(2,
@@ -279879,7 +278132,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1100 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1100 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     status = FwpsInjectionHandleCreate0(23,
@@ -279888,7 +278141,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1109 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1109 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
     status = FwpsInjectionHandleCreate0(23,
@@ -279897,7 +278150,7 @@ extern NTSTATUS DriverEntry( PDRIVER_OBJECT driver_obj,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 1118 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 1118 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto driver_entry_exit;
     }
 
@@ -280904,7 +279157,7 @@ static NTSTATUS windivert_read(context_t context, WDFREQUEST request)
     NTSTATUS status = ((NTSTATUS)0x00000000L);
 
     ;
-#line 2125 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2125 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
     
     KeAcquireInStackQueuedSpinLock(&context->lock, &lock_handle);
@@ -280961,7 +279214,7 @@ static void windivert_read_service_request(context_t context, packet_t packet,
     }
 
     ;
-#line 2182 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2182 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
     
     switch (packet->layer)
@@ -281019,12 +279272,12 @@ static void windivert_read_service_request(context_t context, packet_t packet,
             if (packet->layer != WINDIVERT_LAYER_REFLECT)
             {
                 src = ((packet)->data + ((((sizeof(WINDIVERT_DATA_NETWORK)) + 8 - 1) / 8) * 8));
-#line 2240 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2240 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             }
             else
             {
                 src = ((packet)->data + ((((sizeof(WINDIVERT_DATA_REFLECT)) + 8 - 1) / 8) * 8));
-#line 2245 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2245 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             }
             src_len = packet->packet_len;
             if (src_len > dst_len)
@@ -281046,7 +279299,7 @@ static void windivert_read_service_request(context_t context, packet_t packet,
         if (addr != ((void *)0))
         {
             ;
-#line 2267 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2267 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
             addr[i].Timestamp = (INT64)packet->timestamp;
             addr[i].Layer = packet->layer;
@@ -281067,22 +279320,22 @@ static void windivert_read_service_request(context_t context, packet_t packet,
             case WINDIVERT_LAYER_NETWORK:
             case WINDIVERT_LAYER_NETWORK_FORWARD:
                 memcpy((&addr[i].Network),(layer_data),(sizeof(WINDIVERT_DATA_NETWORK)));
-#line 2288 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2288 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 break;
 
             case WINDIVERT_LAYER_FLOW:
                 memcpy((&addr[i].Flow),(layer_data),(sizeof(WINDIVERT_DATA_FLOW)));
-#line 2293 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2293 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 break;
 
             case WINDIVERT_LAYER_SOCKET:
                 memcpy((&addr[i].Socket),(layer_data),(sizeof(WINDIVERT_DATA_SOCKET)));
-#line 2298 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2298 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 break;
 
             case WINDIVERT_LAYER_REFLECT:
                 memcpy((&addr[i].Reflect),(layer_data),(sizeof(WINDIVERT_DATA_REFLECT)));
-#line 2303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2303 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 break;
 
             default:
@@ -281108,7 +279361,7 @@ static void windivert_read_service_request(context_t context, packet_t packet,
             entry = RemoveHeadList(&context->packet_queue);
             new_packet = ((struct packet_s *)( (PCHAR)(entry) - (ULONG_PTR)(&((struct packet_s *)0)->entry)));
             timeout = (((timestamp) >= (new_packet->timestamp)? (timestamp) - (new_packet->timestamp): (new_packet->timestamp) - (timestamp)) > (context)->packet_queue_maxcounts);
-#line 2329 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2329 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             if (new_packet->packet_len > dst_len || timeout)
             {
                 
@@ -281215,7 +279468,7 @@ static void windivert_fast_read_service_request(PVOID packet, ULONG packet_len,
         }
         read_len = dst_len;
         checksums.Value = ((buffers)->NetBufferListInfo[(TcpIpChecksumNetBufferListInfo)]);
-#line 2436 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2436 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         if (outbound)
         {
             ip_checksum = (checksums.Transmit.IpHeaderChecksum == 0);
@@ -281270,22 +279523,22 @@ static void windivert_fast_read_service_request(PVOID packet, ULONG packet_len,
         case WINDIVERT_LAYER_NETWORK:
         case WINDIVERT_LAYER_NETWORK_FORWARD:
             memcpy((&addr->Network),(layer_data),(sizeof(WINDIVERT_DATA_NETWORK)));
-#line 2491 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2491 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             break;
 
         case WINDIVERT_LAYER_FLOW:
             memcpy((&addr->Flow),(layer_data),(sizeof(WINDIVERT_DATA_FLOW)));
-#line 2496 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2496 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             break;
 
         case WINDIVERT_LAYER_SOCKET:
             memcpy((&addr->Socket),(layer_data),(sizeof(WINDIVERT_DATA_SOCKET)));
-#line 2501 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2501 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             break;
 
         case WINDIVERT_LAYER_REFLECT:
             memcpy((&addr->Reflect),(layer_data),(sizeof(WINDIVERT_DATA_REFLECT)));
-#line 2506 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2506 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             break;
 
         default:
@@ -281390,7 +279643,7 @@ static NTSTATUS windivert_write(context_t context, WDFREQUEST request,
     NTSTATUS status = ((NTSTATUS)0x00000000L), status_soft_error = ((NTSTATUS)0x00000000L);
 
     ;
-#line 2611 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2611 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
     KeAcquireInStackQueuedSpinLock(&context->lock, &lock_handle);
     if (context->state != WINDIVERT_CONTEXT_STATE_OPEN)
@@ -281496,13 +279749,13 @@ static NTSTATUS windivert_write(context_t context, WDFREQUEST request,
 
         
         packet_size = (sizeof(struct packet_s)-1 + ((((sizeof(WINDIVERT_DATA_NETWORK)) + 8 - 1) / 8) * 8) + (packet_len));
-#line 2717 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2717 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         packet = (packet_t)windivert_malloc(packet_size, 0);
         if (packet == ((void *)0))
         {
             status = ((NTSTATUS)0xC000009AL);
             ;
-#line 2723 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2723 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_write_hard_error;
         }
         packet->layer = layer;
@@ -281552,7 +279805,7 @@ static NTSTATUS windivert_write(context_t context, WDFREQUEST request,
 
         
         ;
-#line 2773 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2773 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
         
         status = windivert_inject_packet(packet);
@@ -281644,7 +279897,7 @@ void windivert_caller_context( WDFDEVICE device,  WDFREQUEST request)
             if (!(((NTSTATUS)(status)) >= 0))
             {
                 ;
-#line 2865 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2865 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 goto windivert_caller_context_error;
             }
             addr_len_ptr = (UINT*)WdfMemoryGetBuffer(memobj, ((void *)0));
@@ -281654,7 +279907,7 @@ void windivert_caller_context( WDFDEVICE device,  WDFREQUEST request)
             {
                 status = ((NTSTATUS)0xC000000DL);
                 ;
-#line 2875 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2875 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 goto windivert_caller_context_error;
             }
             if (addr == ((void *)0))
@@ -281686,7 +279939,7 @@ void windivert_caller_context( WDFDEVICE device,  WDFREQUEST request)
         {
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 2907 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2907 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_caller_context_error;
         }
         if (addr == ((void *)0))
@@ -281715,7 +279968,7 @@ void windivert_caller_context( WDFDEVICE device,  WDFREQUEST request)
     default:
         status = ((NTSTATUS)0xC0000010L);
         ;
-#line 2936 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 2936 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         goto windivert_caller_context_error;
     }
 
@@ -281844,7 +280097,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
         {
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3065 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3065 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
 
@@ -281874,7 +280127,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
         {
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3095 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3095 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         priority16 = (INT16)priority - 30000;
@@ -281885,7 +280138,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
         windivert_ioctl_bad_flags:
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3106 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3106 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         switch ((UINT32)layer)
@@ -282037,7 +280290,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
             KeReleaseInStackQueuedSpinLock(&lock_handle);
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3258 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3258 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         KeReleaseInStackQueuedSpinLock(&lock_handle);
@@ -282069,7 +280322,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
                 KeReleaseInStackQueuedSpinLock(&lock_handle);
                 status = ((NTSTATUS)0xC000000DL);
                 ;
-#line 3290 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3290 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 goto windivert_ioctl_exit;
             }
             context->packet_queue_maxlength = (ULONG)value;
@@ -282082,7 +280335,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
                 KeReleaseInStackQueuedSpinLock(&lock_handle);
                 status = ((NTSTATUS)0xC000000DL);
                 ;
-#line 3303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3303 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 goto windivert_ioctl_exit;
             }
             context->packet_queue_maxcounts =
@@ -282097,7 +280350,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
                 KeReleaseInStackQueuedSpinLock(&lock_handle);
                 status = ((NTSTATUS)0xC000000DL);
                 ;
-#line 3318 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3318 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 goto windivert_ioctl_exit;
             }
             context->packet_queue_maxsize = (ULONG)value;
@@ -282107,7 +280360,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
             KeReleaseInStackQueuedSpinLock(&lock_handle);
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3328 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3328 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         KeReleaseInStackQueuedSpinLock(&lock_handle);
@@ -282124,7 +280377,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
         {
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3345 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3345 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         valptr = (UINT64*)outbuf;
@@ -282156,7 +280409,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
             KeReleaseInStackQueuedSpinLock(&lock_handle);
             status = ((NTSTATUS)0xC000000DL);
             ;
-#line 3377 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3377 "E:\\Unity\\WinDivert\\sys\\windivert.c"
             goto windivert_ioctl_exit;
         }
         KeReleaseInStackQueuedSpinLock(&lock_handle);
@@ -282166,7 +280419,7 @@ extern void windivert_ioctl( WDFQUEUE queue,  WDFREQUEST request,
     default:
         status = ((NTSTATUS)0xC0000010L);
         ;
-#line 3387 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 3387 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         break;
     }
 
@@ -282565,7 +280818,7 @@ static void windivert_network_classify(context_t context,
     filter = context->filter;
     layer = context->layer;
     object = (WDFOBJECT)context->object;
-    WdfObjectReferenceActual(object, ((void *)0), 3785, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectReferenceActual(object, ((void *)0), 3785, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     KeReleaseInStackQueuedSpinLock(&lock_handle);
 
     impostor = 0;
@@ -282575,7 +280828,7 @@ static void windivert_network_classify(context_t context,
         packet_priority = (UINT32)(ULONG_PTR)packet_context;
         if (packet_priority <= priority)
         {
-            WdfObjectDereferenceActual(object, ((void *)0), 3795, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+            WdfObjectDereferenceActual(object, ((void *)0), 3795, "E:\\Unity\\WinDivert\\sys\\windivert.c");
             return;
         }
     }
@@ -282596,7 +280849,7 @@ static void windivert_network_classify(context_t context,
             (flags & 0x0020) != 0);
     if (frag_mode && reassembled)
     {
-        WdfObjectDereferenceActual(object, ((void *)0), 3816, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 3816, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
 
@@ -282608,7 +280861,7 @@ static void windivert_network_classify(context_t context,
         status = NdisRetreatNetBufferDataStart(buffer, advance, 0, ((void *)0));
         if (!(((NTSTATUS)(status)) >= 0))
         {
-            WdfObjectDereferenceActual(object, ((void *)0), 3828, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+            WdfObjectDereferenceActual(object, ((void *)0), 3828, "E:\\Unity\\WinDivert\\sys\\windivert.c");
             return;
         }
     }
@@ -282640,7 +280893,7 @@ static void windivert_network_classify(context_t context,
     
     if (buffer_fst == ((void *)0))
     {
-        WdfObjectDereferenceActual(object, ((void *)0), 3860, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 3860, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         if (advance != 0)
         {
             NdisAdvanceNetBufferDataStart(buffer, advance, 0, ((void *)0));
@@ -282708,7 +280961,7 @@ static void windivert_network_classify(context_t context,
 
 windivert_network_classify_exit:
 
-    WdfObjectDereferenceActual(object, ((void *)0), 3928, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectDereferenceActual(object, ((void *)0), 3928, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     if (!sniff_mode)
     {
         result->actionType = (0x00000001 | (0x00001000));
@@ -282853,7 +281106,7 @@ static void windivert_flow_established_classify(context_t context,
     
     
     
-    WdfObjectReferenceActual(object, ((void *)0), 4073, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectReferenceActual(object, ((void *)0), 4073, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     KeReleaseInStackQueuedSpinLock(&lock_handle);
 
     match = windivert_filter(((void *)0), WINDIVERT_LAYER_FLOW,
@@ -282869,7 +281122,7 @@ static void windivert_flow_established_classify(context_t context,
             match, timestamp);
         if (!ok)
         {
-            WdfObjectDereferenceActual(object, ((void *)0), 4089, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+            WdfObjectDereferenceActual(object, ((void *)0), 4089, "E:\\Unity\\WinDivert\\sys\\windivert.c");
             return;
         }
     }
@@ -282879,13 +281132,13 @@ static void windivert_flow_established_classify(context_t context,
     if ((filter_flags & 0x0000000000000100ull) == 0)
     {
         
-        WdfObjectDereferenceActual(object, ((void *)0), 4099, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4099, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
     flow = windivert_malloc(sizeof(struct flow_s), 0);
     if (flow == ((void *)0))
     {
-        WdfObjectDereferenceActual(object, ((void *)0), 4105, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4105, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
     layer_id = (ipv4 ? FWPS_LAYER_ALE_FLOW_ESTABLISHED_V4 :
@@ -282906,7 +281159,7 @@ static void windivert_flow_established_classify(context_t context,
     if (!(((NTSTATUS)(status)) >= 0))
     {
         windivert_free(flow);
-        WdfObjectDereferenceActual(object, ((void *)0), 4126, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4126, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
 
@@ -282916,7 +281169,7 @@ static void windivert_flow_established_classify(context_t context,
     {
         KeReleaseInStackQueuedSpinLock(&lock_handle);
         windivert_free(flow);
-        WdfObjectDereferenceActual(object, ((void *)0), 4136, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4136, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
     if (!flow->deleted)
@@ -282929,7 +281182,7 @@ static void windivert_flow_established_classify(context_t context,
         
         KeReleaseInStackQueuedSpinLock(&lock_handle);
         windivert_free(flow);
-        WdfObjectDereferenceActual(object, ((void *)0), 4149, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4149, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         return;
     }
     KeReleaseInStackQueuedSpinLock(&lock_handle);
@@ -282998,7 +281251,7 @@ windivert_flow_delete_notify_exit:
     if (cleanup)
     {
         windivert_free(flow);
-        WdfObjectDereferenceActual(object, ((void *)0), 4218, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+        WdfObjectDereferenceActual(object, ((void *)0), 4218, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     }
 }
 
@@ -283570,7 +281823,7 @@ static void windivert_socket_classify(context_t context,
     filter = context->filter;
     flags = context->flags;
     object = (WDFOBJECT)context->object;
-    WdfObjectReferenceActual(object, ((void *)0), 4790, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectReferenceActual(object, ((void *)0), 4790, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     KeReleaseInStackQueuedSpinLock(&lock_handle);
 
     match = windivert_filter(((void *)0), WINDIVERT_LAYER_SOCKET,
@@ -283584,12 +281837,12 @@ static void windivert_socket_classify(context_t context,
             loopback, 0, match, timestamp);
         if (!ok)
         {
-            WdfObjectDereferenceActual(object, ((void *)0), 4804, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+            WdfObjectDereferenceActual(object, ((void *)0), 4804, "E:\\Unity\\WinDivert\\sys\\windivert.c");
             return;
         }
     }
 
-    WdfObjectDereferenceActual(object, ((void *)0), 4809, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectDereferenceActual(object, ((void *)0), 4809, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     if (match && (result->rights & (0x00000001)) != 0 &&
         event != WINDIVERT_EVENT_SOCKET_CLOSE &&
         (flags & 0x0001) == 0)
@@ -283707,7 +281960,7 @@ static BOOL windivert_queue_work(context_t context, PVOID packet,
             return 1;
         }
         packet_size = (sizeof(struct packet_s)-1 + ((((sizeof(WINDIVERT_DATA_NETWORK)) + 8 - 1) / 8) * 8) + (packet_len));
-#line 4928 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 4928 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         work = (packet_t)windivert_malloc(packet_size, 0);
         if (work == ((void *)0))
         {
@@ -283723,7 +281976,7 @@ static BOOL windivert_queue_work(context_t context, PVOID packet,
             return 1;
         }
         checksums.Value = ((buffers)->NetBufferListInfo[(TcpIpChecksumNetBufferListInfo)]);
-#line 4944 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 4944 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         if (outbound)
         {
             ip_checksum = (checksums.Transmit.IpHeaderChecksum == 0);
@@ -283769,7 +282022,7 @@ static BOOL windivert_queue_work(context_t context, PVOID packet,
     case WINDIVERT_LAYER_REFLECT:
         reflect_data = (PWINDIVERT_DATA_REFLECT)layer_data;
         packet_size = (sizeof(struct packet_s)-1 + ((((sizeof(WINDIVERT_DATA_REFLECT)) + 8 - 1) / 8) * 8) + (packet_len));
-#line 4990 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 4990 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         work = (packet_t)windivert_malloc(packet_size, 0);
         if (work == ((void *)0))
         {
@@ -283975,7 +282228,7 @@ static NTSTATUS windivert_inject_packet(packet_t packet)
     if (!(((NTSTATUS)(status)) >= 0))
     {
         ;
-#line 5196 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5196 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         IoFreeMdl(mdl);
         windivert_free_packet(packet);
         return status;
@@ -284082,7 +282335,7 @@ static void windivert_inject_packet_too_big(packet_t packet)
         return;
     }
     ip_header = (PWINDIVERT_IPHDR)((packet)->data + ((((sizeof(WINDIVERT_DATA_NETWORK)) + 8 - 1) / 8) * 8));
-#line 5303 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5303 "E:\\Unity\\WinDivert\\sys\\windivert.c"
     version = ip_header->Version;
     switch (version)
     {
@@ -284142,7 +282395,7 @@ static void windivert_inject_packet_too_big(packet_t packet)
     icmp->timestamp = 0;        
     icmp->object = ((void *)0);
     memcpy((((icmp)->data)),(((packet)->data)),(sizeof(WINDIVERT_DATA_NETWORK)));
-#line 5363 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5363 "E:\\Unity\\WinDivert\\sys\\windivert.c"
     data = ((icmp)->data + ((((sizeof(WINDIVERT_DATA_NETWORK)) + 8 - 1) / 8) * 8));
     switch (version)
     {
@@ -284176,9 +282429,9 @@ static void windivert_inject_packet_too_big(packet_t packet)
         ipv6_header_2->NextHdr = IPPROTO_ICMPV6;
         ipv6_header_2->HopLimit = 64;
         memcpy((ipv6_header_2->SrcAddr),(ipv6_header->DstAddr),(sizeof(ipv6_header_2->SrcAddr)));
-#line 5397 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5397 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         memcpy((ipv6_header_2->DstAddr),(ipv6_header->SrcAddr),(sizeof(ipv6_header_2->DstAddr)));
-#line 5399 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5399 "E:\\Unity\\WinDivert\\sys\\windivert.c"
         do { (ipv6_header_2)->TrafficClass0 = ((UINT8)(0x0) >> 4); (ipv6_header_2)->TrafficClass1 = (UINT8)(0x0); } while (0);
         flowlabel = ((((UINT32)(ipv6_header)->FlowLabel0) << 16) | ((UINT32)(ipv6_header)->FlowLabel1));
         do { (ipv6_header_2)->FlowLabel0 = (UINT8)((flowlabel) >> 16); (ipv6_header_2)->FlowLabel1 = (UINT16)(flowlabel); } while (0);
@@ -284359,7 +282612,7 @@ static __forceinline BOOL windivert_parse_headers(PNET_BUFFER buffer,
                 }
                 fragment = 1;
                 frag_off = _byteswap_ushort((USHORT)((((frag_header)->FragOff0) & 0xF8FF)));
-#line 5580 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 5580 "E:\\Unity\\WinDivert\\sys\\windivert.c"
                 ext_header_len = 8;
                 is_ext_header = 1;
                 break;
@@ -284936,7 +283189,7 @@ static void windivert_reflect_open_event(context_t context)
     object = (WDFOBJECT)context->object;
     
     
-    WdfObjectReferenceActual(object, ((void *)0), 6156, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+    WdfObjectReferenceActual(object, ((void *)0), 6156, "E:\\Unity\\WinDivert\\sys\\windivert.c");
     context->reflect.open = 1;
     KeReleaseInStackQueuedSpinLock(&lock_handle);
 
@@ -285159,7 +283412,7 @@ void windivert_reflect_worker( WDFWORKITEM item)
         event = reflect_event->event;
 
         ;
-#line 6380 "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c"
+#line 6380 "E:\\Unity\\WinDivert\\sys\\windivert.c"
 
         KeAcquireInStackQueuedSpinLock(&context->lock, &lock_handle);
         object = (WDFOBJECT)context->object;
@@ -285192,7 +283445,7 @@ void windivert_reflect_worker( WDFWORKITEM item)
         }
         if (event == WINDIVERT_EVENT_REFLECT_CLOSE)
         {
-            WdfObjectDereferenceActual(object, ((void *)0), 6412, "C:\\Users\\kujax\\OneDrive\\Desktop\\WinDivert-master\\sys\\windivert.c");
+            WdfObjectDereferenceActual(object, ((void *)0), 6412, "E:\\Unity\\WinDivert\\sys\\windivert.c");
         }
 
         KeAcquireInStackQueuedSpinLock(&reflect_lock, &lock_handle);

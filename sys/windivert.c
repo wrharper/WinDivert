@@ -42,7 +42,6 @@
 #define INITGUID
 #include <guiddef.h>
 
-#include "windivert_device_constants.h"
 #include "windivert_device.h"
 #include "windivert_log.h"
 
@@ -939,7 +938,7 @@ static PVOID windivert_malloc(SIZE_T size, BOOL paged)
     {
         return NULL;
     }
-    return ExAllocatePoolWithTag(pool, size, WINDIVERT_TAG);
+    return ExAllocatePool2(pool, size, WINDIVERT_TAG);
 }
 static VOID windivert_free(PVOID ptr)
 {
@@ -968,7 +967,8 @@ extern NTSTATUS DriverEntry(IN PDRIVER_OBJECT driver_obj,
     RTL_OSVERSIONINFOW version;
     LARGE_INTEGER freq;
     NTSTATUS status;
-    DECLARE_CONST_UNICODE_STRING(device_name, L"\\Device\\" WINDIVERT_DEVICE_NAME);
+    DECLARE_CONST_UNICODE_STRING(device_name,
+        L"\\Device\\" WINDIVERT_DEVICE_NAME);
     DECLARE_CONST_UNICODE_STRING(dos_device_name,
         L"\\??\\" WINDIVERT_DEVICE_NAME);
 
@@ -5283,7 +5283,8 @@ static void windivert_inject_packet_too_big(packet_t packet)
             UINT32_MAX
     };
     PWINDIVERT_IPHDR ip_header, ip_header_2;
-    PWINDIVERT_IPV6HDR ipv6_header, ipv6_header_2;
+    PWINDIVERT_IPV6HDR ipv6_header = NULL;
+    PWINDIVERT_IPV6HDR ipv6_header_2 = NULL;
     PWINDIVERT_ICMPHDR icmp_header;
     PWINDIVERT_ICMPV6HDR icmpv6_header;
     packet_t icmp;
@@ -5312,6 +5313,10 @@ static void windivert_inject_packet_too_big(packet_t packet)
         break;
     case 6:
         ipv6_header = (PWINDIVERT_IPV6HDR)ip_header;
+        if (ipv6_header == NULL)
+        {
+            break;
+        }
         packet_len = RtlUshortByteSwap(ipv6_header->Length) +
             sizeof(WINDIVERT_IPV6HDR);
         min_mtu = /*ipv6 min MTU=*/1280;
@@ -5388,6 +5393,10 @@ static void windivert_inject_packet_too_big(packet_t packet)
     case 6:
         icmp_len -= sizeof(WINDIVERT_IPV6HDR);
         ipv6_header_2 = (PWINDIVERT_IPV6HDR)data;
+        if (ipv6_header_2 == NULL)
+        {
+            break;
+        }
         ipv6_header_2->Version = 6;
         ipv6_header_2->Length = RtlUshortByteSwap(icmp_len);
         ipv6_header_2->NextHdr = IPPROTO_ICMPV6;
