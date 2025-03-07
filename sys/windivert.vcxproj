@@ -62,7 +62,7 @@
     </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>.NET 9.0</TargetFrameworkVersion>
     <MinimumVisualStudioVersion>17.0</MinimumVisualStudioVersion>
     <RootNamespace>WinDivert</RootNamespace>
     <ProjectName>WinDivert</ProjectName>
@@ -95,6 +95,9 @@
       <AdditionalDependencies>%(AdditionalDependencies);$(KernelBufferOverflowLib);C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\ntoskrnl.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\hal.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\wmilib.lib;C:\Program Files (x86)\Windows Kits\10\Lib\wdf\kmdf\x64\1.33\WdfLdr.lib;C:\Program Files (x86)\Windows Kits\10\Lib\wdf\kmdf\x64\1.33\WdfDriverEntry.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\wdmsec.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\ndis.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\fwpkclnt.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64\uuid.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files %28x86%29\Windows Kits\10\Lib\10.0.26100.0\km\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
+    <DriverSign>
+      <FileDigestAlgorithm Condition="'$(Configuration)|$(Platform)'=='Release|x64'">SHA256</FileDigestAlgorithm>
+    </DriverSign>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>

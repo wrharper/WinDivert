@@ -1,8 +1,0 @@
-/p:Configuration=Release
-/p:Platform=Win32
-/p:SignMode=Off
-/p:OutDir=..\install\MSVC\i386\
-/p:AssemblyName=WinDivert32
-/p:PlatformToolset=v143
-/P
-/Fi windivert_preprocessed.i

@@ -10,4 +10,7 @@ E:\Unity\WinDivert\sys\windivert.c(5332,1): warning C4701: potentially uninitial
 E:\Unity\WinDivert\sys\windivert.c(5416,1): warning C4701: potentially uninitialized local variable 'copy_len' used
 E:\Unity\WinDivert\sys\windivert.c(5376,1): warning C4701: potentially uninitialized local variable 'icmp_len' used
 E:\Unity\WinDivert\sys\windivert.c(6470,1): warning C4701: potentially uninitialized local variable 'pid_size' used
-LINK : fatal error LNK1104: cannot open file '$C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\km\x64\ndis.lib'
+  windivert.vcxproj -> E:\Unity\WinDivert\sys\x64\Release\WinDivert.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Unity\WinDivert\sys\x64\Release\WinDivert.sys
+  
