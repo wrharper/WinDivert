@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "E:\\Unity\\WinDivert\\dll\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92A2A492-FB82-C312-DAC0-F8A1135CD7FA}|windivert.vcxproj|E:\\UNITY\\WINDIVERT\\DLL\\WINDIVERT_SHARED.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92A2A492-FB82-C312-DAC0-F8A1135CD7FA}|windivert.vcxproj|solutionrelative:WINDIVERT_SHARED.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A2A492-FB82-C312-DAC0-F8A1135CD7FA}|windivert.vcxproj|E:\\UNITY\\WINDIVERT\\INCLUDE\\WINDIVERT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\WinDivert\\dll\\windivert_helper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windivert_helper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -12,9 +19,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\WinDivert\\include\\windivert_device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\WinDivert\\include\\windivert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\apiset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -32,19 +36,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "windivert_shared.c",
+              "DocumentMoniker": "E:\\Unity\\WinDivert\\dll\\windivert_shared.c",
+              "RelativeDocumentMoniker": "windivert_shared.c",
+              "ToolTip": "E:\\Unity\\WinDivert\\dll\\windivert_shared.c",
+              "RelativeToolTip": "windivert_shared.c",
+              "ViewState": "AgIAALsDAAAAAAAAAADgv88DAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T21:39:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "windivert_helper.c",
               "DocumentMoniker": "E:\\Unity\\WinDivert\\dll\\windivert_helper.c",
               "RelativeDocumentMoniker": "windivert_helper.c",
               "ToolTip": "E:\\Unity\\WinDivert\\dll\\windivert_helper.c",
               "RelativeToolTip": "windivert_helper.c",
-              "ViewState": "AgIAAD8QAAAAAAAAAAAWwGkQAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADAKAAAAAAAAAADgvzAKAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-07T07:02:10.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "windivert_device.h",
               "DocumentMoniker": "E:\\Unity\\WinDivert\\include\\windivert_device.h",
               "RelativeDocumentMoniker": "..\\include\\windivert_device.h",
@@ -56,19 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "windivert.h",
               "DocumentMoniker": "E:\\Unity\\WinDivert\\include\\windivert.h",
               "RelativeDocumentMoniker": "..\\include\\windivert.h",
               "ToolTip": "E:\\Unity\\WinDivert\\include\\windivert.h",
               "RelativeToolTip": "..\\include\\windivert.h",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAADgv6AAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T06:59:40.446Z"
+              "WhenOpened": "2025-03-07T06:59:40.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "apiset.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\apiset.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\apiset.h",
@@ -78,15 +96,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "windivert.c",
               "DocumentMoniker": "E:\\Unity\\WinDivert\\dll\\windivert.c",
               "RelativeDocumentMoniker": "windivert.c",
               "ToolTip": "E:\\Unity\\WinDivert\\dll\\windivert.c",
               "RelativeToolTip": "windivert.c",
-              "ViewState": "AgIAAMMBAAAAAAAAAAAWwNMBAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAALoBAAAAAAAAAADgv9UBAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T03:38:13.621Z"
+              "WhenOpened": "2025-03-07T03:38:13.621Z",
+              "EditorCaption": ""
             }
           ]
         }

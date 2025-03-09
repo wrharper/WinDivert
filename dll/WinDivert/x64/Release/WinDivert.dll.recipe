@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\Unity\WinDivert\install\MSVC\amd64\WinDivert.dll</FullPath>
+      <FullPath>E:\Unity\WinDivert\dll\x64\Release\WinDivert.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

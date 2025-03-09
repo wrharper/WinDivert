@@ -1,15 +1,6 @@
 ﻿  Building 'WinDivert' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
   MC: Compiling windivert_log.mc
   windivert.c
-E:\Unity\WinDivert\sys\windivert.c(1428,14): warning C4101: 'status': unreferenced local variable
-E:\Unity\WinDivert\sys\windivert.c(2603,12): warning C4101: 'handle': unreferenced local variable
-E:\Unity\WinDivert\sys\windivert.c(2602,19): warning C4101: 'checksums': unreferenced local variable
-E:\Unity\WinDivert\sys\windivert.c(2604,22): warning C4189: 'buffers': local variable is initialized but not referenced
-E:\Unity\WinDivert\sys\windivert.c(5732,43): warning C4189: 'total_len': local variable is initialized but not referenced
-E:\Unity\WinDivert\sys\windivert.c(5332,1): warning C4701: potentially uninitialized local variable 'packet_len' used
-E:\Unity\WinDivert\sys\windivert.c(5416,1): warning C4701: potentially uninitialized local variable 'copy_len' used
-E:\Unity\WinDivert\sys\windivert.c(5376,1): warning C4701: potentially uninitialized local variable 'icmp_len' used
-E:\Unity\WinDivert\sys\windivert.c(6470,1): warning C4701: potentially uninitialized local variable 'pid_size' used
   windivert.vcxproj -> E:\Unity\WinDivert\sys\x64\Release\WinDivert.sys
   Done Adding Additional Store
   Successfully signed: E:\Unity\WinDivert\sys\x64\Release\WinDivert.sys
