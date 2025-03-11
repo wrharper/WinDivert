@@ -85,7 +85,7 @@
       <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
       <ModuleDefinitionFile>windivert.def</ModuleDefinitionFile>
-      <ImportLibrary>WinDivert.lib</ImportLibrary>
+      <ImportLibrary>$(Platform)\$(Configuration)\WinDivert.lib</ImportLibrary>
     </Link>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

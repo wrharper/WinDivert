@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\Unity\WinDivert\install\MSVC\amd64\webfilter.exe</FullPath>
+      <FullPath>C:\WinDivert\install\MSVC\amd64\webfilter.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
